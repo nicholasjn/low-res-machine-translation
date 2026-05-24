@@ -256,7 +256,7 @@ trainer = Seq2SeqTrainer(
     eval_dataset=tokenized_dataset["validation"],
     processing_class=tokenizer,
     data_collator=data_collator,
-    # compute_metrics=compute_metrics
+    compute_metrics=compute_metrics
 )
 
 # Training and save model
