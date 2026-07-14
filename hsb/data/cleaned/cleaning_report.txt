@@ -1,0 +1,9 @@
+total input pairs: 20213
+kept pairs: 15035
+removed pairs: 5178
+removed empty: 0
+removed duplicate: 2570
+removed too_long: 6
+removed length_ratio: 1661
+removed identical: 941
+percentage kept: 74.38%
