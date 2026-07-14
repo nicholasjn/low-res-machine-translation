@@ -1,0 +1,2000 @@
+Identität setzen auf
+Markieren alsmsg status
+Wichtig@title:column Subject of message.
+Ungelesen@title:column Total number of messages.
+BeantwortetStatus of an item
+WeitergeleitetStatus of an item
+Alt
+ÜberwachtStatus of an item
+Ignoriert@label:textbox Property name
+SpamStatus of an item
+HamStatus of an item
+AufgabeStatus of an item
+Neue Markierung hinzufügen
+Fingierte Empfangsbestätigung sendenMDN type
+AngezeigtMDN type
+Gelöschtmessage status
+WeitergeleitetMDN type
+BearbeitetMDN type
+AbgelehntMDN type
+Vorspann entfernen
+Vorspann hinzufügen
+Ersetzen:
+In Ordner verschieben
+In Ordner kopieren
+Weiterleiten an
+Der Empfänger, zu dem die Nachricht weitergeleitet wird.
+Standardvorlage
+Die Nachrichtenvorlage für Weiterleitungen
+Befehl ausführen
+Zum Adressbuch hinzufügen
+Standard Email sender
+VonReceiver of an email.
+An
+Kopie@label:listbox Blind carbon copy recipient of an email message.
+KMail-Filter
+im Adressbuch
+Fehler bei der Suche.
+Der Vorverarbeitungsbefehl„ %1“ wird ausgeführt
+Der Vorverarbeitungsbefehl„ %1“ kann nicht ausgeführt werden.
+Vorverarbeitungsbefehl beendet mit Rückgabewert %1: %2
+Kritischer Fehler: E-Mails können nicht abgeholt werden:
+Fehler beim Hinzufügen der Nachricht:
+Lokale Ordner
+Bevorzugten Ordner & hinzufügen...
+Aus bevorzugten Ordnern entfernen
+Bevorzugten Ordner umbenennen...
+Ordnern zu Favoriten hinzufügen
+Ordner über %1 einfügen
+Bevorzugten Ordner hinzufügen
+Bevorzugten Ordner umbenennen@label:textbox New name of the folder.
+Anhang: %1
+Dieser Anhang wurde gelöscht.
+Der Anhang„ %1“ wurde gelöscht.message status
+Im Postausgangmessage status
+VersendetStatus of an item
+Hat einen AnhangStatus of an item
+HTML-Format für diese Nachricht aktivieren.
+Für diese Nachricht externe Referenzen aus dem Internet laden.
+Nachricht entschlüsseln.
+Signaturdetails anzeigen.
+Signaturdetails ausblenden.
+Liste der Anhänge anzeigen.
+Liste der Anhänge ausblenden.
+Vollständige Empfängerliste anzeigen
+Vollständige Kopie-Empfängerliste anzeigen
+Die Zertifikatsverwaltung lässt sich nicht starten. Bitte überprüfen Sie die korrekte Installation.
+Zertifikat 0x%1 anzeigen
+Anhang #%1 (unbenannt)
+Standardvorlage für neue Nachrichten
+Am %1 %2 schrieben Sie: %3 %4
+Am %1 %2 schrieb %3: %4 %5
+Standardvorlage für WeiterleitungenDefault forward template: %1: subject of original message, %2: date of original message, %3: time of original message, %4: mail address of original sender, %5: original message text
+Suchergebnisse
+Gesamtzahl Nachrichten
+Ungelesene Nachrichten
+Kontingent
+Speicherplatz
+Symbolgröße
+Kurzinfos anzeigen@action:inmenu Always display tooltips
+Einträge sortieren@action:inmenu
+Automatisch nach der aktuellen Spalte@action:inmenu
+Serverseitiges Abonnement...
+Lokal abonnieren...
+Ordnerliste aktualisieren
+Aufbewahrungsfrist festlegen...
+Mehrere Ordner
+Zur nächsten ungelesenen Nachricht im Ordner %1 gehen?
+Dorthin gehen
+Hierher & verschieben
+Hierher & kopieren
+& Abbrechen
+Nachrichten in Ordner %1 verschieben oder kopieren
+Der Maildir-Ordner kann nicht abgeglichen werden.
+Verteilerliste %1
+Empfänger auswählen
+Adressbuch:@title:column Name of the recipient.
+E-Mail@info
+Verzeichnisdienst & durchsuchenSearch for recipient.
+Suchen:
+Hinzufügen als„ An“
+Hinzufügen als„ Kopie“
+Hinzufügen als„ Blindkopie“
+& AbbrechenAll collections containing recipients.
+Verteilerlisten
+Ausgewählte Empfänger
+Adressbücher
+Zuletzt verwendete Adressen
+Ordner %1 kann nicht geöffnet werden.
+Ordner %1 kann nicht gelesen werden.
+& Bild mit jeder Nachricht versenden
+externer Quellecontinuation of "obtain picture from"
+Datei auswählen...
+Aus Adressbuch holen
+Kein Bild
+%1 startenDo not start another kmail instance.
+Beenden
+Posteingang
+Abonnementfunktion einschalten?
+Nicht einschalten@info
+Verteilerliste speichern@action:button
+Liste speichern@label:textbox Name of the distribution list.
+Neue Verteilerliste@label:textbox
+Bitte Namen eingeben:@info
+Neue Identität
+& Neue Identität:
+& Mit leeren Feldern
+& Einstellungen aus den Systemeinstellungen verwenden
+Existierende Identität kopieren
+Existierende Identitäten:
+Neuer Eintrag:
+Neuer Wert
+Mailinglistenordner-Eigenschaften
+Zugeordnete Mailingliste
+Ordner enthält eine & Mailingliste
+Adresstyp:
+An Liste senden
+Mailinglisten-Archive
+Mailinglisten-Hilfe
+Nicht verfügbar.
+Rechte (ACL)@title:tab General settings for a folder.
+Unbekannt
+Mailboxtype of folder storage
+Maildirtype of folder storage
+Disconnected IMAPtype of folder storage
+IMAPtype of folder storage
+unbenannt
+Aktion bei neuen/ungelesenen Nachrichten in diesem Ordner
+Diesen Ordner bei Prüfung einbeziehen
+Antworten in diesem Ordner aufbewahren
+Diesen Ordner im Ordner-Auswahldialog ausblenden@info:whatsthis
+& Standard-Identität verwenden
+Absender-Identität:
+Ordnerinhalt:
+Niemand
+Verwalter dieses Ordners
+Alle Leser dieses Ordners
+& Ungelesen:
+Spalte anzeigen:@item:inlistbox Show default value.
+Standard@action:inmenu Foreground color setting
+Standard-Zusammenstellung verwenden
+Standard-Design verwenden
+Für diesen & Ordner eigene Nachrichtenvorlagen benutzen
+Dateien@label:textbox Folder content type (eg. Mail)
+Inhalt:
+Ordnertyp:folder size
+Größe:
+Lokalen IMAP-Zwischenspeicher aktualisieren
+Nachrichten
+Gesamtzahl Nachrichten:
+Ungelesene Nachrichten:compaction status
+Komprimierung:
+Jetzt komprimierenFile size in bytes
+%1 (%2)My Calendar
+Möglichcompaction status
+Möglich, aber unsichercompaction status
+Nicht erforderlich@info
+Ordner wirklich komprimieren?@action:button
+Ordner komprimieren
+Fehler beim Anzeigen von Ordner %1:
+& Alternativadresse (URL):
+H T M L - N a c h r i c h t
+K e i n e H T M L - N a c h r i c h t
+K l a r t e x t - N a c h r i c h t
+Der Index des Ordners„ %2“ scheint veraltet zu sein. Um die Beschädigung von Nachrichten zu vermeiden, wird der Index neu erstellt. Als Resultat könnten gelöschte Nachrichten wieder erscheinen und der Status einzelner Nachrichten verloren gehen. Bitte lesen Sie für weitere Informationen zur Vermeidung eines erneuten Auftretens dieses Problems im betreffenden FAQ-Abschnitt des Handbuchs zu KMail.
+Veralteter Index
+Der Ordner„ %1“ kann nicht archiviert werden.
+Archivierung fehlgeschlagen.
+Fehler beim Holen einer Nachricht für den Ordner„ %1“.
+Interner Fehler beim Abholen einer Nachricht aus dem Ordner„ %1“.
+Das Herunterladen einer Nachricht in den Ordner„ %1“ ist fehlgeschlagen.
+Das Herunterladen einer Nachricht in den aktuellen Ordner ist fehlgeschlagen.
+Der Ordner„ %1“ wird archiviert.
+Fehler beim Öffnen des Ordners„ %1“.
+Das Archiv kann nicht zum Schreiben geöffnet werden.
+Archivierung läuft@title:column Column containing message subjects
+Alle Nachrichten abholen@action:button
+Alle Nachrichten später abholen@action:button
+Alle Nachrichten löschen@info:tooltip
+Jetzt herunterladen@info:tooltip
+Später herunterladen@info:tooltip
+POP-Filter@info
+Nachrichten übersteigen Maximalgröße@title:group
+Durch das Regelwerk gefilterte Nachrichten: keine@option:check
+Durch das Regelwerk gefilterte Nachrichten: %1@item:intext
+Einrichtung von Abwesenheitsbenachrichtigungen:
+Keine Abwesenheitsbenachrichtigungen als Antwort auf Spam-Nachrichten senden
+Hochladen von Nachrichten
+Server-Operation
+Quellordner: %1 - Zielordner: %2
+Nachrichten werden abgeholt
+Nachricht mit Betreff:
+Fehler beim Abholen der Nachrichten vom Server.
+Fehler beim Kopieren der Nachrichten.
+Filteraktion anwenden: %1
+Übertragung fehlgeschlagen.
+Übertragung von„ %1“ wird vorbereitet...
+Übertragung fehlgeschlagen.
+Nachricht %1 von %2 aus %3 wird verschoben.
+Mit eigener Vorlage
+Mit eigener Vorlage antworten
+Allen mit eigener Vorlage antworten
+(keine eigenen Vorlagen)
+Zusätzliche Parameter für Chiasmus:Message- >
+Antwort an
+Allen antwortenTemplate type for forwarding messages.
+Weiterleiten
+Zusätzliche Empfänger der Nachricht
+Zusätzliche Empfänger der Nachricht, die eine Kopie der Nachricht erhalten
+Alle Gruppen aufklappen
+Alle Gruppen einklappen@info:tooltip
+Aktuelles Unterfenster schließen
+Schnellsuche anzeigenshown in the context menu when right-clicking on a folder
+In neuem Unterfenster öffnenshortcut for expanding the header of a group in the message list
+Gruppenüberschrift aufklappenshortcut for collapsing the header of a group in the message list
+Gruppenüberschrift einklappenshortcut
+Nächstes Unterfenster aktivierenshortcut
+Standard-Design
+Standard-Zusammenstellung
+Standard-Sortierung@title:tab Empty messagelist
+LeerPersonal namespace
+Unterfenster schließen@action:inmenu
+Lokale Änderungen werden verworfen@info
+Nachricht umleiten
+& Jetzt senden
+Später senden
+Fehlende Umleitungsadresse@label:listbox General group for often used snippets in mail.
+Gruppe hinzufügen
+Möchten Sie diese Gruppe und alle darin enthaltenen Textbausteine wirklich löschen?
+& Anwenden
+Textbaustein bearbeiten
+Gruppe & bearbeiten...
+& Einfügen
+& Bearbeiten...
+Textbaustein & hinzufügen...
+Gruppe & hinzufügen...
+Als & Voreinstellung verwenden
+Versandart auswählen
+Abgelehnt: %1Unsure if it is possible to attend.
+Akzeptiert: %1
+Ordner kann nicht angelegt werden
+Die Datei %1 kann nicht in %2 angelegt werden. KMail kann ohne diese Datei nicht gestartet werden.
+& Neues Hauptfenster
+Startvorgang ...message encoding type
+Keine (7-Bit-Text)message encoding type
+Keine (8-Bit-Text)message encoding type
+Quoted Printablemessage encoding type
+& Kodierung:
+Nachrichtenteil & verschlüsseln
+Markieren Sie dieses Ankreuzfeld, wenn dieser Nachrichtenteil verschlüsselt werden soll. Dieser Nachrichtenteil wird für die Empfänger der Nachricht verschlüsselt. %1: a filesize incl. unit (e.g. "1.3 KB")
+%1 (circa)
+Schriftart auswählen
+Größe auswählenname used for a virgin filter
+unbekannt
+Interner Teil
+Vorlageninhalt
+Kurzbefehl für Vorlage
+Vorlagentyp
+& Datei@title:menu for new-message and new-from-template
+& Bearbeiten
+& Ordner
+Nachricht
+Extras
+& Einstellungen
+& Hilfe
+& Optionen
+& Anhängen
+Matthias Kiefer,Stephan Kulow,Frank Schütte, Stefan Winter,Thomas ReitelbachEMAIL OF TRANSLATORS
+kiefer@kde.org,coolo@kde.org,F.Schuette@t-online.de, swinter@kde.org,tr@erdfunkstelle.de
+Nachrichten automatisch signieren
+Verschlüsseln
+Versendete Nachrichten & verschlüsselt speichern
+Markieren Sie dieses Ankreuzfeld, um Nachrichten verschlüsselt zu speichern
+Nachrichten möglichst automatisch verschlüsseln
+Nachrichten beim Speichern als Entwurf & niemals signieren/verschlüsseln@title:tab General settings
+Postfachname:
+Port:
+Sie haben von Ihrem Internetanbieter einen Benutzernamen zur Anmeldung an dessen Server bekommen. Oft stimmt dieser mit dem ersten Teil der E-Mail-Adresse überein (der Teil vor dem @).
+Markieren Sie dieses Ankreuzfeld, damit KMail Ihr Passwort speichert. Falls die digitale Brieftasche verfügbar ist, wird das Passwort dort gespeichert. Das gilt als verhältnismäßig sicher. Andernfalls wird das Passwort in der Konfigurationsdatei von KMail gespeichert. Das Passwort wird zwar in einem verschlüsselten Format gespeichert, dieses ist allerdings nicht besonders sicher gegenüber ernsthaften Entschlüsselungsversuchen, falls jemand Zugriff auf diese Datei erhält.
+Bei manueller Prüfung einbeziehen
+Posteingang & regelmäßig überprüfen
+IMAP-Einstellungen
+Ordner automatisch komprimieren (beseitigt als & gelöscht markierte Nachrichten)
+& Versteckte Ordner anzeigen
+Nur serverseitig & abonnierte Ordner anzeigen
+Nur & lokal abonnierte Ordner anzeigen
+Anhänge auf Anforderung laden
+Mülleimer-Ordner:
+Identität:
+Namensräume:
+...
+Die persönlichen Namensräume umfassen Ihre persönlichen Ordner.Personal namespaces for imap account.
+Persönlich:
+Diese Namensräume enthalten die freigegebenen Ordner anderer Benutzer.
+Diese Namensräume enthalten die gemeinsam benutzten Ordner.
+Sicherheit
+Verschlüsselung
+& Keine
+& SSL für sicheres Abholen von Nachrichten benutzen
+& TLS für sicheres Abholen von Nachrichten benutzen
+Anmeldeverfahren
+& CRAM-MD5
+& DIGEST-MD5
+& Anonym
+& Fähigkeiten des Servers testen
+Vor dem Versand unverschlüsselter Nachrichten & warnen
+Zur Signierung
+Zur Verschlüsselung
+Für Wurzelzertifikate:
+Für Zwischen-CA-Zertifikate:
+Für Endbenutzerzertifikate/Schlüssel:
+Postfachtyp: POP-Postfach
+& POP-Passwort speichern
+Bei manueller Prüfung einbeziehen
+POP-Einstellungen
+Abgeholte Nachrichten auf dem & Server lassen
+Abgeholte Nachrichten auf dem Server lassen fürNumber of days that the message will be left on the server.
+Nur die x neuesten Nachrichten werden auf dem Server belassen.
+Nur die & letzten
+Nachrichten
+Nur die letzten
+MB
+Falls diese Einstellung gewählt wird, werden POP-Filter zur Filterung von Nachrichten verwendet. Sie können sich entscheiden, ob die Nachrichten heruntergeladen, gelöscht oder auf dem Server belassen werden.
+Nachrichten & filtern, falls diese größer sind als
+& Zielordner:
+& Vorverarbeitungsbefehl:
+Pipelining zum schnelleren Abholen aktivieren
+Eine neue Identität hinzufügen
+Die ausgewählte Identität umbenennen
+Die ausgewählte Identität entfernen
+Als & Standard verwenden
+HTML-Nachrichten
+Warnung: Das Zulassen von HTML in E-Mails erhöht die Wahrscheinlichkeit, dass Ihr System durch aktuelle oder künftige Sicherheitslücken Schaden nimmt. Mehr über HTML in E-Mails... Mehr über externe Referenzen...
+Nachrichten dürfen externe Referenzen aus dem Internet laden
+Verschlüsselte Nachrichten
+Verschlüsselte Nachrichten beim Betrachten automatisch entschlüsseln, sofern möglich
+Empfangs- und Lesebenachrichtigungen
+Versandregelung:
+Nachfragen
+Immer senden
+Ursprüngliche Nachricht zitieren:
+Vollständige Nachricht
+Nur Vorspann
+Keine MDNs für verschlüsselte Nachrichten senden
+Warnung: Empfangsbestätigungen, die ohne Einschränkung versendet werden, beeinträchtigen Ihre Privatsphäre. Mehr über MDNs...
+Zertifikate & & Schlüsselbund-Anhänge
+Schlüssel und Zertifikate automatisch importierenName of the custom template.
+An: @info
+Kopie: Universal custom template type.
+Vorlagentyp:
+Textbaustein hinzufügen
+Gruppe:
+& Textbaustein:
+& Kurzbefehl:
+& Hinzufügen@title:window
+Antwort an Absender@title Message template
+Allen antworten / der Liste antworten@title Message template
+Online-Zertifikatsüberprüfung
+Adresse des OCSP-Antwortservers:
+Signatur des OCSP-Antwortservers:
+Dienst-Adresse von Zertifikaten ignorieren
+Zertifikateinstellungen nicht überprüfen
+Fehlende Ausstellerzertifikate herunterladen
+HTTP-CRL-Verteilungspunkt von Zertifikaten ignorieren
+LDAP-CRL-Verteilungspunkt von Zertifikaten ignorieren
+Postfachtyp: Lokales Postfach
+Datei-Speicherort:
+Sperrmethode
+& Mutt-dotlock
+Mutt-dotlock mit Zugriffsrechten
+& Keine (mit Vorsicht zu benutzen)
+In manuelle Prüfung einbeziehen
+Zielordner:
+Vorverarbeitungsbefehl
+Ordnereinstellungen für IMAP-Ressourcen
+Funktionen für IMAP-Ressourcen aktivieren
+Wählen Sie das Format, das zur Speicherung der Arbeitsgruppenordner verwendet werden soll.
+& Format der Arbeitsgruppenordner:
+Setzt die Sprache für die Ordnernamen
+& Sprache der Arbeitsgruppenordner:@item:inlistbox Adjective, language
+Englisch@item:inlistbox Adjective, language
+Deutsch@item:inlistbox Adjective, language
+Französisch@item:inlistbox Adjective, language
+& Arbeitsgruppenordner ausblenden
+Für dieses Postfach nur Arbeitsgruppenordner anzeigen
+Eingangspostfächer (fügen Sie mindestens eines hinzu):
+Beim & Start nach E-Mail sehen
+Benachrichtigung bei neuen Nachrichten
+& Signalton
+E-Mail-Benachrichtigung verwenden
+Für jeden Ordner die Anzahl neuer Nachrichten anzeigen
+& Ausführliche Benachrichtigung bei neuen Nachrichten
+Andere Aktionen...
+Zugangstyp: Lokales Postfach (Maildir-Format)
+Ordner-Position:
+Bei manueller Prüfung einbeziehen
+Vorverarbeitungsbefehl:
+Schalten Sie diese Einstellung ein, damit Outlook (tm) Ihre Antworten auf Terminanfragen versteht.
+Optionen
+Einladungen löschen, nachdem eine Antwort versendet wurdeCorresponds to Folder- > Move All Messages to Trash
+Nachfrage vor dem & Werfen aller Nachrichten in den Mülleimer
+& Regelung für die Suche nach ungelesenen Nachrichten:what's this help
+Nicht zyklisch suchen
+Im aktuellen Ordner zyklisch suchen
+In allen Ordnern zyklisch suchen
+In allen markierten Ordnern zyklisch suchento be continued with "jump to first new message", "jump to first unread or new message", and "jump to last selected message"
+Beim Öffnen eines Ordners:
+Zur ersten neuen Nachricht springen
+Zur ersten ungelesenen oder neuen Nachricht springen
+Zur zuletzt ausgewählten Nachricht springen
+Aktuelle Nachricht nach dieser Zeitspanne als & gelesen markieren:
+Beim & Verschieben von Nachrichten in einen anderen Ordner nach der gewünschten Aktion fragento be continued with "flat files" and "directories", resp.
+Standardmäßig sind E-Mail-Ordner auf der Festplatte:what's this help
+Ordner („ maildir“ -Format)
+Diesen Ordner beim & Start öffnen:
+Beim Beenden lokalen Mülleimer leeren
+Wartende Nachrichten beim Mailabruf versenden
+Regelungen zur Anzeige des Kontrollleistensymbols
+Ausführliche Benachrichtigung bei neuen Nachrichten
+E-Mail-Benachrichtigung verwenden
+Editor angeben:
+Externen Editor verwenden
+Arbeitsgruppenfunktionen aktivieren
+Original-Zeichensatz beim Beantworten oder Weiterleiten möglichst beibehalten
+Signatur automatisch einfügen
+Zeilenumbruch bei Spalte:
+Feste & Zeichenbreiten
+Schalten Sie diese Einstellung ein, damit Outlook & #8482; die Namen von Anhängen akzeptiert, die Sonderzeichen enthalten
+Automatisch Empfangs- und Lesebestätigungen anfordern
+Intervall für automatisches Speichern:
+Signatur über zitiertem Text einfügen
+Der Signatur ein Trennzeichen voranstellen
+& Erkannte Präfixe durch„ Re :“ ersetzen
+Erkannte Präfixe durch„ Fwd :“ ersetzen
+Intelligent zitieren
+Nachrichtenvorschaubereich nicht anzeigen
+Lange Ordnerliste
+Kurze Ordnerliste
+Oberhalb des Nachrichtenbereichs
+Unterhalb des Nachrichtenbereichs
+Niemals anzeigen
+Immer anzeigen
+HTML-Statusleiste anzeigen
+Empfangs- und Lesebenachrichtigungen mit leerem Absender senden.
+Nachrichtenvorlage für neue Nachricht
+Nachrichtenvorlage für Antwort
+Nachrichtenvorlage für Antwort an alle
+Nachrichtenvorlage für Weiterleitung
+Zitatzeichen
+Zitierter Nachrichtentext
+Original-Nachrichtentext
+Nachrichtenkennung
+Adresse im„ An“ -Feld
+Name im„ An“ -Feld
+Vorname im„ An“ -Feld
+Nachname im„ An“ -Feld
+Adresse im„ Kopie“ -Feld
+Name im„ Kopie“ -Feld
+Vorname im„ Kopie“ -Feld
+Nachname im„ Kopie“ -Feld
+Adresse im„ Von“ -Feld
+Name im„ Von“ -Feld
+Vorname im„ Von“ -Feld
+Nachname im„ Von“ -Feld
+Adressen aller EmpfängerTemplate value for subject of the message
+Nachrichtenvorspann (als Zitat)
+Nachrichtenvorspann (unverändert)
+Inhalt einer Vorspannzeile
+Name im„ Von“ -FeldTemplate subject command.
+Nachrichtentext dieser Nachricht durch Vorverarbeitungsprogramm laufen lassen und durch Ergebnis ersetzenInserts user signature, also known as footer, into message
+Dateiinhalt einfügenAll characters, up to and including the next newline, are discarded without performing any macro expansion
+Kommentar zur Vorlage
+Keine Aktion
+Erzeugte Nachricht löschen
+& Platzhalter einfügen
+Platzhalter einfügen
+Ursprüngliche Nachricht
+Diese Nachricht
+Mit externen Programmen vorverarbeitenMiscellaneous template commands menu
+Verschiedenes
+Neu erstellen
+Problembeseitigung im IMAP-Zwischenspeicher
+& Index neu aufbauen@label:listbox Scope used when rebuilding index.
+Nur aktuellen Ordner
+Aktuellen Ordner und alle Unterordner
+Alle Ordner dieses Postfachs
+Zwischenspeicher neu aufbauen
+Ordner wird umbenannt
+Fehler beim Herunterladen der Ordnerliste
+Herunterladen der Nachrichtenliste
+Überprüfung der Unterstützung für Notizen
+Herunterladen der Notizen
+Abfragen der Rechte
+Abfrage der Kontingent-Informationen
+Abgebrochen
+Fehler beim Festlegen der IMAP-Notizen:
+Verschieben
+Quell-Adresse ist fehlerhaft
+Fehlermeldung des Ein-/Ausgabemoduls
+Der POP3-Server (Postfach: %1) unterstützt den Befehl UIDL nicht. Dieser Befehl wird benötigt, um zuverlässig festzustellen, welche Nachrichten bereits von KMail verarbeitet wurden. Die Funktion, E-Mails auf dem Server zu belassen, funktioniert daher nicht zuverlässig.
+Abholen von Nachricht %1 von %2 (%3 von %4 KB) für %5@%6 (noch %7 KB auf dem Server).
+Abholen von Nachricht %1 von %2 (%3 von %4 KB) für %5@%6.
+LIST-Operation kann nicht abgeschlossen werden.
+Da der POP3-Server (Zugang %1) den TOP-Befehl nicht unterstützt, ist es nicht möglich, von großen E-Mails zuerst nur den Vorspann abzuholen.%1: identity name. Used in the config dialog, section Identity, to indicate the default identity
+%1 (Standard)
+Name der Identität
+E-Mail-Adresse
+Als Zitat einfügen
+Zitatzeichen einfügen
+Zitatzeichen entfernen
+Name des Anhangs:
+Als & Text hinzufügen@label:listbox Recipient of an email message.
+Undefinierter Empfängertyp @label:listbox
+Wählen Sie die Art des Empfängers@action:button
+Liste speichern ...@info:tooltip
+Empfänger als Verteilerliste speichern@action:button Open recipient selection dialog.
+Auswählen ...@info:tooltip
+Empfänger aus dem Adressbuch auswählen@info:status No recipients selected
+Keine Empfänger@info:status Number of recipients selected
+An: %1@info:tooltip %1 list of emails
+Kopie: %1@info:tooltip %1 list of emails
+Blindkopie: %1@info:status
+Früherer Betreuer
+Früherer Mitbetreuer
+Kernentwickler
+Ehemalige Hauptentwickler
+Dokumentation
+Unterstützung für PGP 6 und weitere Verbesserungen bei Verschlüsselung
+Ursprüngliche Unterstützung für Verschlüsselung Unterstützung für PGP 2 und PGP 5
+Unterstützung für GnuPG
+Unterstützung für Virenscanner
+POP-Filter
+Testen der Benutzerfreundlichkeit und Verbesserungen
+Ägypten- und Kroupware-Projektverwaltung
+Betatest der PGP 6-Unterstützung
+Zeitstempel für die Statusnachricht„ Übertragung beendet“
+Mehrere Schlüssel zur Verschlüsselung pro Adresse
+Das E-Mail-Programm für KDE
+(c) 1997-2009, die KMail-Entwickler
+Zertifikats-Signierungsanfrage
+Postausgang
+Versendete Nachrichten
+Mülleimer
+Vorlagen
+Sie haben keine Lese-/Schreibrechte für Ihren Vorlagenordner.%1-%3 is the application name, %4-%7 are folder path
+Die Datei %1 existiert bereits. Möchten Sie die Datei ersetzen?
+Nachricht in Datei speichern
+& Ersetzen
+& Ablehnung senden
+& SendenView- >
+& Vorspann
+Anzeigestil für den Nachrichtenvorspann auswählenView- > headers- >
+& Grafisch
+Zeigt die Vorspannliste in einem grafischen FormatView- > headers- >
+& Dekorativ
+Zeigt die Vorspannliste in einem dekorativen FormatView- > headers- >
+& Kurz
+Zeigt die Vorspannliste in einem kurzen FormatView- > headers- >
+& Standard
+Zeigt die Vorspannliste im StandardformatView- > headers- >
+& Lang
+Zeigt die Vorspannliste im langen FormatView- > headers- >
+& Alle
+Zeigt alle VorspannfelderView- >
+Anzeigestil für die Anhänge auswählenView- > attachments- >
+Als & Symbole
+Zeigt Anhänge als Symbole an. Auf Mausklick werden sie angezeigt.View- > attachments- >
+& Intelligent
+Zeigt Anhänge nach den Vorschlägen des Absenders an.View- > attachments- >
+& Im Text
+Zeigt alle Anhänge eingefügt, wenn möglich (inline)View- > attachments- >
+Ausgeblendet
+Anhänge werden nicht angezeigt
+& Kodierung festlegen
+Neue Nachricht an...
+Antwort an...
+Weiterleiten an...
+Im Adressbuch öffnen
+Gesamten Text auswählen
+Verknüpfungsadresse kopieren
+Adresse aufrufen
+Verknüpfung speichern unter...
+Nachrichtenstruktur anzeigen
+Nachricht nach oben blättern
+Nachricht nach unten blättern
+Offline KMail ist momentan im Offline-Modus. Klicken Sie hier, um online zu gehen... nbsp;%1: KMail version; %2: help: / / URL; %3: homepage URL; %4: generated list of new features; %5: First-time user text (only shown on first start); %6: generated list of important changes; --- end of comment ---
+Willkommen bei KMail %1 KMail ist das E-Mail-Programm für KDE. Es wurde vollständig kompatibel zu den E-Mail-Standards für das Internet entwickelt, inklusive MIME, SMTP, POP3 und IMAP. KMail verfügt über viele leistungsfähige Funktionen, die alle in der Dokumentation beschrieben werden. Auf der KMail-Homepage finden Sie Informationen über neue Versionen von KMail. %6 %4 %5 Wir wünschen viel Freude mit KMail. Vielen Dank nbsp;nbsp; Das KMail-Team
+(Inhalt)
+MDN kann nicht versendet werden.
+Anhang ansehen: %1
+Anhänge:
+Bitte warten
+Die Adresse wurde in die Zwischenablage kopiert.
+Die URL wurde in die Zwischenablage kopiert.@info
+Eine Datei namens %1 existiert bereits. Soll sie ersetzt werden?
+Nachricht als Klartext
+Als MIME-Katalog senden
+Dies ist eine Weiterleitung in Form eines MIME-Katalogs. Der Inhalt der Nachricht befindet sich im Anhang.
+Möglicherweise ist nicht genügend Platz auf dem Datenträger.
+Nachrichten werden verschoben
+Nachrichten werden gelöscht
+Adresse wird aufgerufen ...@info
+Möchten Sie %1 wirklich ausführen?
+Ausführen
+Es wurden keine Anhänge zum Speichern gefunden.
+Anhänge speichern unterfilename for an unnamed attachment
+Anhang speichernfilename for the %1-th unnamed attachment
+Eine Datei namens %1 existiert bereits. Soll die Datei überschrieben werden?
+& Alle überschreiben
+KMail-Frage
+Verschlüsselung beibehalten
+Entschlüsseln
+Signatur beibehalten1 = file name, 2 = error string
+Die Datei %1 kann nicht geschrieben werden%2
+E-Mail: %1
+& Identität:
+& Wörterbuch:
+Ordner für & versendete Nachrichten:
+& Versandweg:sender address field
+Antwort an:@label:textbox Subject of email.
+Betreff:@option:check Sticky identity.
+Beibehalten
+Automatisches Speichern der Nachricht unter %1 fehlgeschlagen. Grund: %2
+Automatisches Speichern ist fehlgeschlagen
+E-Mail versenden
+E-Mail versenden & mit
+Senden
+Später senden mit
+In Postausgang
+& Als Entwurf speichern
+Datei & einfügen...
+& Kürzlich verwendete Datei einfügen
+& Neue Nachricht
+Neues & Hauptfenster
+Empfänger auswählen...
+& Verteilerliste speichern...
+Als Anhang einfügen
+& Leerräume komprimieren@action:inmenu Mark the email as urgent.
+& Dringend
+& Kodierung festlegen
+Zeilenumbruch
+Automatisch erkennen
+HTML
+& Alle Felder
+& Identität
+Ordner für & versendete Nachrichten
+Versandweg
+& Von
+Antwort an@action:inmenu Show the subject in the composer window.
+Betreff
+Signatur anfügen
+Signatur & voranstellen
+Signatur an der & Schreibmarke einfügen
+Öffentlichen Schlüssel anhängen...
+& Eigenen öffentlichen Schlüssel anhängen
+& Datei anhängen...
+Anhängen
+Anhang & entfernen
+Anhang speichern & unter...
+Eigenschaften des Anhangs
+Rechtschreibprüfung...
+Rechtschreibprüfung
+Nachricht mit Chiasmus verschlüsseln...
+Nachricht & verschlüsseln
+Nachricht & signieren
+Schriftart zurücksetzen
+Rechtschreibprüfung: %1
+Zeile: %1
+Möchten Sie die Nachricht verwerfen oder für später speichern?
+Editor schließen
+Erinnerungsfunktion für Dateianhänge
+Schlüsselexport fehlgeschlagen
+Schlüssel wird exportiert...
+Öffentlichen OpenPGP-Schlüssel anhängen
+Bearbeiten mit...
+Anhang hinzufügen...
+Die Datei kann nicht komprimiert werden.
+Nicht komprimieren
+Die Datei kann nicht entpackt werden.@info
+Anhang speichern unter
+Verschlüsselungsschlüssel nicht definiert
+Signaturschlüssel nicht definiert
+Kein Hauptempfänger angegeben
+Kein Betreff angegeben
+& Betreff angeben
+Signieren/Verschlüsseln (Formatierungen entfernen)
+Verschlüsseln (Formatierungen entfernen)
+Signieren (Formatierungen entfernen)
+Nachricht signieren/verschlüsseln?
+Der eingestellte Ordner für Entwürfe oder Vorlagen für die Identität„ %1“ existiert nicht (mehr). Stattdessen wird der Standardordner für Entwürfe oder Vorlagen verwendet.
+Nachrichten werden versendet...
+Bestätigung senden
+Zu viele Empfänger
+Empfänger ändern
+Formatierungen verwerfen
+Rechtschreibprüfung: an
+Rechtschreibprüfung: aus
+Keine Chiasmus-Schlüssel gefunden
+Die Nachricht wird signiert
+Die Nachricht wird nicht signiert
+Die Nachricht wird verschlüsselt
+Die Nachricht wird nicht verschlüsselt
+POP3-Filterregeln
+Filterregeln
+Importieren...
+Exportieren...
+Vorhandene FilterGeneral mail filter settings.
+Filterbedingungen
+Filteraktion
+Globale Einstellungen
+Filteraktionen
+Weitere Einstellungen
+Diesen Filter auf eingehende Nachrichten anwenden:
+von allen Postfächern
+Nach unten
+Filter umbenennen
+Import abgeschlossen.
+Archiv-Import fehlgeschlagen.
+Der Unterordner im Ordner„ %1“ kann nicht angelegt werden.
+Ordner„ %1“ wird importiert.
+Archiv wird importiert
+Bearbeiten...
+& Nächste Karte
+& Vorherige Karte
+Ordner auswählen
+Unbekannter Ordner„ %1“
+Bitte wählen Sie einen Ordner aus.
+Aufbewahrungsfrist für gelesene NachrichtenExpire messages after %1
+Aufbewahrungsfrist für ungelesene Nachrichten
+Abgelaufene Nachrichten verschieben nach:
+Abgelaufene Nachrichten endgültig löschen
+Bitte wählen Sie einen Zielordner für Nachrichten mit abgelaufener Aufbewahrungsfrist.
+Kein Ordner ausgewählt
+Postfachtyp wird nicht unterstützt.
+Postfach einrichten
+Postfachtyp :„ Disconnected IMAP“ -Postfach
+Postfachtyp: IMAP-Postfach
+FilternPlaceholder for the case that there is no folder.
+Bitte beachten Sie, dass diese Funktion einige POP3-Server, die kein Pipelining unterstützen, zum Versenden kaputter E-Mails veranlassen kann. Die Funktion ist einstellbar, da einige Server Pipelining unterstützen, dies aber nicht bekannt machen. Verwenden Sie den Knopf auf der Karteikarte„ Sicherheit“, um die Pipelining-Fähigkeiten Ihres Servers zu überprüfen. Wenn Ihr Server diese Fähigkeit nicht bekannt gibt, Sie aber eine höhere Geschwindigkeit wünschen, sollten Sie diese Funktion zuerst durch das probeweise Versenden einiger E-Mails an sich selbst überprüfen.
+Bitte geben Sie auf der Karteikarte„ Allgemein“ einen Server und einen Port an.
+Pfad auswählen
+Es werden momentan nur lokale Dateien unterstützt.
+Namensräume werden abgeholt ...Empty namespace string.
+PersönlichNamespace accessible for others.
+Namensraum„ %1“ bearbeiten
+Assistent für Spam-Filter
+Assistent für Anti-Virus
+Willkommen beim KMail-Assistenten für Spam-Filter
+Willkommen beim KMail-Assistenten für Anti-Virus
+Erkannte unerwünschte Nachrichten als gelesen & markieren
+Erkannte Viren-Nachrichten zusätzlich als gelesen markieren
+Archiv importieren
+& Ordner:
+& Archivdatei:
+Keine Archivdatei ausgewählt
+Bitte wählen Sie einen Zielordner für den Import des Archivs.
+Kein Zielordner ausgewählt@info:status
+abgeschlossen
+Postfach %1
+Für das Postfach %1 ist kein Posteingang definiert. Der E-Mail-Abruf wurde abgebrochen. Prüfen Sie Ihre Postfach-Einstellungen.
+Postfach %1 wird nach neuen Nachrichten durchsucht
+POP-Postfach
+IMAP-Postfach
+Sie müssen ein Postfach in den Netzwerk-Einstellungen angeben, um E-Mail empfangen zu können.%1: name; %2: number appended to it to make it uniqueamong a list of names
+%1 #%2Message- >
+& Antworten
+Antwort an Verfasser...
+& Ohne Zitat antworten...
+Nachricht & markieren
+Nachricht als & gelesen markieren
+Ausgewählte Nachrichten als gelesen markieren
+Nachricht als & neu markieren
+Ausgewählte Nachrichten als neu markieren
+Nachricht als & ungelesen markieren
+Ausgewählte Nachrichten als ungelesen markieren
+Nachricht als wichtig markieren
+Markierung„ Wichtige Nachricht“ entfernen
+Nachricht als & Aufgabe markieren
+Markierung„ Aufgabe“ entfernen
+Nachricht & bearbeiten@action:inmenu Message- > Forward- >
+Mailingliste
+Nachricht im Mailinglisten-Archiv öffnen
+Neue Nachricht senden
+Zum Mailinglisten-Archiv gehen
+Mailinglisten-Hilfe anfordern
+Mailinglisten-Inhaber kontaktieren
+E-Mail
+Web%1 is a 'Contact Owner' or simlar action. %2 is a protocol normally web or email though could be irc/ftp or other url variant
+Nachrichten werden versendet
+Versenden fehlgeschlagen.
+Unverschlüsselt senden%3: subject of message
+Nachricht %1 von %2 wird versendet: %3
+Versenden fortsetzen
+Versenden & fortsetzen
+Versenden & abbrechen
+Archiv
+Archiv-Ordner
+& Format:
+Bitte wählen Sie den Ordner, den Sie archivieren möchten.
+Filter auswählen
+Importfilter
+%1's %2folder name (folder storage name)
+Meine %1
+Standardordner%1 is one of the messages with context 'type of folder content'
+Sie haben keine Lese-/Schreibrechte für den Ordner %1.
+Vollständige Nachricht
+Irgendwo im Nachrichtenvorspann
+Alle Empfänger
+Nachrichten-Status
+Suchkriterien
+Das Löschen der alten Nachrichten in Ordner %1 ist fehlgeschlagen.
+Das Verschieben der alten Nachrichten von Ordner %1 nach Ordner %2 ist fehlgeschlagen.
+Die Datei„ %1“ kann nicht geöffnet werden: %2
+Abwesenheitsbenachrichtigungen einrichten
+Betreff der Nachricht setzen
+Kopie an„ Adresse“ senden
+Blindkopie (BCC) an„ Adresse“ senden
+Text der Nachricht festlegen
+Nur nach neuen Nachrichten schauen
+Anzeige der angegebenen Nachrichtendatei
+Ordner wird gelöscht
+Fehler beim Löschen eines Ordners.
+Fehler beim Abfragen des Serverstatus.
+Abfrage des Nachrichtenstatus
+Nachrichten werden abgeholt
+Fehler beim Auflisten des Inhalts von Ordner %1.
+Fehler beim Abholen der Nachrichten.
+Fehler beim Erstellen eines Ordners.
+Aktualisierung der Nachrichtenanzahlen
+Fehler beim Abrufen der Ordnerinformationen.
+Kurzbefehl für den Ordner %1
+Kurzbefehl für Ordner auswählen
+vCard-Import fehlgeschlagen
+Auf %1 kann nicht zugegriffen werden.
+Die Ausführung des Vorverarbeitungsbefehls ist fehlgeschlagen.
+Datei kann nicht geöffnet werden:
+Übertragung fehlgeschlagen: %1 kann nicht gesperrt werden.
+Nachricht kann nicht aus Postfach %1 gelöscht werden: %2
+Inhalt aus Datei %1 kann nicht eingefügt werden: %2
+„ Sieve“ -Skripte verwalten
+Verfügbare Skripte
+Keine Sieve-Adresse eingerichtet
+Skript löschen
+Skript bearbeiten...
+Skript deaktivieren
+Neues Skript...
+Bestätigung für das Löschen des Sieve-Skripts
+Neues Sieve-Skript
+Sieve-Skript bearbeiten
+Die Datei„ %1“ existiert bereits. Soll die Datei überschrieben werden?
+Datei überschreiben?
+Adressbuch öffnen
+Klangdatei auswählen
+Überschreiben
+Nach Absender
+Nach Empfänger
+Nach Absender/Empfänger (intelligent)
+Nach Betreff
+Nach Größe
+Nach Aufgaben-Status
+Nach Neu/Ungelesen-Status
+AufsteigendSort order for mail groups
+AbsteigendUnknown date
+nach Absender/Empfänger
+nach Absender
+Absender/Empfänger, flach
+Anhang
+Neu/Ungelesen
+Spam/Ham
+Überwacht/Ignoriert
+Markierungsliste
+Zusammenstellung löschen
+Designs einrichten
+Neues Design
+Design löschen
+Unbenanntes Design
+Neue Spalte
+Heute
+Symbol für Anhänge
+Aufgaben-Symbol
+Wichtig-Symbol
+Symbol für Signaturstatus
+Max.-DatumDescription for an Unknown Type
+Niemals anzeigen
+Vollständige Suche öffnen
+Jeder Status@action:inmenu Status of a message
+Einrichten...
+Sortierkriterium für Nachrichten
+Sortierung für Nachrichten
+Aktuelle Gruppen aufklappen
+Oberste Nachricht
+Neueste Nachricht
+Gruppen nie aufklappen
+Gruppen mit neuen Nachrichten aufklappen
+Gruppen mit ungelesenen Nachrichten aufklappen
+Gruppen mit ungelesenen oder wichtigen Nachrichten aufklappen
+Gruppe immer aufklappen
+Zusammenstellung und Gruppierung
+Diskussionsfaden-Gruppierung:
+Diskussionsleiter:
+Ein Klick auf die Spaltenüberschrift sortiert die Nachrichten:
+Unbenannte Spalte
+Nachrichtengruppe
+Abschwächen@action:inmenu Font setting
+Schriftart@action:inmenu Foreground color setting
+Gruppenüberschrift@action:inmenu Group header background color setting
+Spalten-Eigenschaften
+Spalte hinzufügen
+Spalte löschen
+Neue Spalte hinzufügen
+Vorspann:
+Symbolgröße:suffix in a spinbox
+Beschreibung:
+Standard-Spalten anzeigen
+NichtsReceiver of the emial
+Nachrichten gesendet am %1@info:tooltip Formats to something like 'Messages received on 2008-12-21'
+%1 empfangene Nachrichten
+Nachrichten versendet an %1
+Nachrichten versendet von %1
+Nachrichten empfangen durch %1
+Datum (Ankunftzeit)Number of unsent messages
+0 nicht versendetNumber of unread messages
+0 ungelesenNumber of unread messages
+0 Nachrichten%1 = n messages, m unread.
+Form
+Nach Status filtern
+Spalten anzeigen@title:column Mail account name
+Ergebnis eines Befehls einfügen
+Mein %1 (%2)
+Spalten-Eigenschaften ...@info
+Kritisch: KMail kann nicht zur D-Bus-Kommunikation gestartet werden: %1; %2 Vergewissern Sie sich, dass KMail installiert ist.
+Ordner %1 kann in KMail nicht erstellt werden
+Nachricht kann nicht zu Ordner %1 in KMail hinzugefügt werden
+Importfilter für KMail
+(c) 2000-2009, Die Entwickler von KMailCVT
+& Doppelte Nachrichten beim Importieren entfernenNAME OF TRANSLATORS
+Matthias Kiefer, Frank SchütteEMAIL OF TRANSLATORS
+kiefer@kde.org, F.Schuette@t-online.de
+Nachrichten werden gezählt ...'directories 'means directories on hard disc, not email-folders.
+Dateisystem-Ordner werden gezählt ...'folders 'means email-folders, not folders on disc.
+& Bearbeiten...
+& Drucken...
+Druckvorschau ...cut this event
+& Ausschneidencopy this event
+& Einfügendelete this incidence
+& Löschen@info
+Als & iCalendar senden...
+In Kalender kopieren
+In Kalender & verschieben@info:whatsthis
+Nameaddressee email
+E-Mailaddressee name
+Funktion
+uAwgno icon, so use the html tag
+Delegiert an@title:column attendee delegated from
+Delegiert von@info
+Ungültige E-Mail-Adresse@option
+Kalenderfilter bearbeiten@info:whatsthis
+Drücken Sie diesen Knopf, um einen neuen Filter anzulegen.@info:whatsthis
+Drücken Sie diesen Knopf, um den ausgewählten Filter zu löschen.@label default filter name
+Neuer Filter %1@info
+Möchten Sie den Filter„ %1“ wirklich löschen?@title:window
+Filter löschen?@info:tooltip
+Ort: %1@label
+Skalierung: @info:tooltip
+Vergrößerungsstufe der Gantt-Tafel festlegen@info:whatsthis
+Stunde@item:inlistbox range in days
+Woche@item:inlistbox range in months
+Monat@item:inlistbox range is computed automatically
+automatisch@action:button
+Um den Start zentrieren@info:tooltip
+Datum aussuchen@info:tooltip
+Neu laden@info:tooltip
+Frei/Belegt-Informationen aller Teilnehmer neu laden@info:whatsthis
+Frei/Belegt-Informationen aller Teilnehmer anzeigen@info:whatsthis
+Teilnehmer@info
+Keinen passenden Termin gefunden.@label
+1.@item:inlistbox
+2.@item:inlistbox
+3.@item:inlistbox
+4.@item:inlistbox
+5.@item:inlistbox last week of the month
+letztem@item:inlistbox
+2-letztem@item:inlistbox
+3-letztem@item:inlistbox
+4-letztem@item:inlistbox
+5-letztem@info:whatsthis
+& Wiederholt alle@label recurrence expressed in days
+Tag(e)
+Woche(n) am:@info:whatsthis
+Wiederholen am %1@label
+& Wiederholt am@info:whatsthis
+6.@item:inlistbox
+7.@item:inlistbox
+8.@item:inlistbox
+9.@item:inlistbox
+10.@item:inlistbox
+11.@item:inlistbox
+12.@item:inlistbox
+13.@item:inlistbox
+14.@item:inlistbox
+15.@item:inlistbox
+16.@item:inlistbox
+17.@item:inlistbox
+18.@item:inlistbox
+19.@item:inlistbox
+20.@item:inlistbox
+21.@item:inlistbox
+22.@item:inlistbox
+23.@item:inlistbox
+24.@item:inlistbox
+25.@item:inlistbox
+26.@item:inlistbox
+27.@item:inlistbox
+28.@item:inlistbox
+29.@item:inlistbox
+30.@item:inlistbox
+31.@item:inlistbox last day of the month
+6-letztem@item:inlistbox
+7-letztem@item:inlistbox
+8-letztem@item:inlistbox
+9-letztem@item:inlistbox
+10-letztem@item:inlistbox
+11-letztem@item:inlistbox
+12-letztem@item:inlistbox
+13-letztem@item:inlistbox
+14-letztem@item:inlistbox
+15-letztem@item:inlistbox
+16-letztem@item:inlistbox
+17-letztem@item:inlistbox
+18-letztem@item:inlistbox
+19-letztem@item:inlistbox
+20-letztem@item:inlistbox
+21-letztem@item:inlistbox
+22-letztem@item:inlistbox
+23-letztem@item:inlistbox
+24-letztem@item:inlistbox
+25-letztem@item:inlistbox
+26-letztem@item:inlistbox
+27-letztem@item:inlistbox
+28-letztem@item:inlistbox
+29-letztem@item:inlistbox
+30-letztem@item:inlistbox
+31-letztem@label
+Tag@info:whatsthis
+Jahr(e)@option:radio part before XXX of 'Recur on day XXX of month YYY'
+Wiederholen am & Tag @option:radio
+& Tag @info:whatsthis
+Legt einen genauen Kalendertag in genau einem Monat fest, an dem sich dieses Ereignis oder diese Aufgabe wiederholen soll.@label part between XXX and YYY of 'Recur on day XXX of month YYY'
+& im @option:radio Part before XXX in 'Recur on NNN. WEEKDAY of MONTH', short version
+& Am@info:whatsthis
+Legt einen genauen Kalendertag in genau einer Woche eines bestimmten Monats fest, an dem sich dieses Ereignis oder diese Aufgabe wiederholen soll.@label part between WEEKDAY and MONTH in 'Recur on NNN. WEEKDAY of MONTH'
+im @option:radio
+Tag Nr.@option:radio
+Wiederholt am Tag & Nr.@info:whatsthis
+Legt einen genauen Tag im Jahr fest, an dem sich dieses Ereignis oder diese Aufgabe wiederholen soll.@label part after NNN of 'Recur on day #NNN of the year'
+des & Jahres@label part after NNN of 'Recur on day #NNN of the year', short version
+des Jahres@title:group
+Das momentan ausgewählte Datum mit diesem Datum ersetzen.@action:button
+Ausnahmen bearbeiten@title:group
+Wiederholungszeitraum@info:whatsthis
+Beginn am:@info:whatsthis
+Kein Abschlussdatum@info:whatsthis
+Beenden & nach@label
+Wiederholungen@info:whatsthis
+Ende & am:@info:whatsthis
+Beginnt am: %1@title:window
+Wiederholungszeitraum bearbeiten@info:whatsthis
+Täglich@item:inlistbox recur weekly
+Wöchentlich@item:inlistbox recur monthly
+Monatlich@item:inlistbox recur yearly
+Jährlich@title:group
+Wiederholungsarten@option:radio recur daily
+& Täglich@info:whatsthis
+& Wöchentlich@info:whatsthis
+& Monatlich@info:whatsthis
+& Jährlich@info:whatsthis
+& Eintrag wiederholen@info:whatsthis
+Zeitliche Eckdaten @info:whatsthis
+Zeigt Zeitinformationen für Termine an.@title:group
+Wiederholung@info:whatsthis
+Wiederholungszeitraum ...@info:whatsthis
+Ausnahmen ...@info
+& Vorlagen verwalten ...@info:tooltip
+Vorlagen für dieses Element erstellen oder anwenden@info:whatsthis
+Möchten Sie wirklich abbrechen?@title:window
+& Teilnehmer@info:whatsthis
+Die Vorlage‚ %1‘ wurde nicht gefunden.@info
+Fehler beim Laden der Vorlagendatei‚ %1‘ .@title:window
+Neue Aufgabe erstellen@title:window
+Gegenvorschlag@option unknown alarm type
+Unbekannt@item:inlistbox no timezone selected
+Erinnerungsdialog@option run application or script
+Klang@item@intable N days/hours/minutes before/after the start/end
+%1 vor dem AnfangN days/hours/minutes before/after the start/end
+%1 nach dem AnfangN days/hours/minutes before/after the start/end
+%1 vor dem EndeN days/hours/minutes before/after the start/end
+Jano, not a recurring to-do
+Erinnerungen bearbeiten@item:inlistbox
+Bevor die Aufgabe beginnt@item:inlistbox
+Nachdem die Aufgabe beginnt@item:inlistbox
+Bevor die Aufgabe fällig wird@item:inlistbox
+Nachdem die Aufgabe fällig wird@info:tooltip
+Erinnerung@label to-do due date
+Kategorien@info:whatsthis
+Einen Monat vorwärts gehendelimiter for joining holiday names
+,
+Teilnehmer hinzugefügt
+- %1short_weekday date (e.g. Mon 13)
+Was kommt als Nächstes?date from - to
+Aufgabe:
+Aufgaben und Ereignisse, die eine Antwort erfordern:date, from - to
+%1, %2 - %3to-do due date
+Klicken Sie hier, um eine neue Aufgabe hinzuzufügenCheckbox to display todos not hirarchical
+Aufgaben als Liste anstelle einer Baumansicht anzeigen@info:whatsthis
+& Verschieben nachdelete completed to-dos
+Erledigte & löschenunspecified priority
+nicht festgelegt@action:inmenu highest priority
+1 (höchste)@action:inmenu
+2@action:inmenu
+3@action:inmenu
+4@action:inmenu medium priority
+5 (mittel)@action:inmenu
+6@action:inmenu
+7@action:inmenu
+8@action:inmenu lowest priority
+Suchen@item:inlistbox
+Kategorien auswählen@item:intext delimiter for joining category names
+Neindelimiter for joining category names
+Priorität@title:column percent complete
+Erledigt@label to-do due date
+Beschreibung
+Aufgabe fallen lassen@action:inmenu Unspecified priority
+& Bearbeiten
+Diesen Journaleintrag bearbeiten
+Diesen Journaleintrag löschen
+& Drucken
+Öffnen einen Druck-Dialog für diesen Journaleintrag
+ZeiterfassungDate from - to
+Keine Kategorienumber of hours spent
+Zu verwendendes Design@title:tab personal settings
+Persönlichincidence category: typically associated with leaving home for business, and not pleasure
+E-Mail-Einstellungen@title:tab
+Speichern@title:group
+Kalender wird gespeichert@title:tab systray settings
+Systemabschnitt der Kontrollleiste@title:group
+Optionen anzeige/ausblenden@info:tooltip
+Regionales@title:group
+Zeit und Datum (allgemein)@title:group
+Feiertage@label
+(Keine)@title:group
+Arbeits-/Bürozeiten@info:whatsthis
+Voreinstellungen@title:group
+Termine@title:group
+Erinnerungen@action:button
+Standard-Erinnerungszeit:@item:inlistbox reminder units in minutes
+Minute(n)@item:inlistbox alarm offset expressed in hours
+Allgemein@title:tab general to-do settings
+Datumsnavigator@title:tab
+Tagesansicht@label suffix in the hour size spin box
+Pixel@label suffix in the N days spin box
+Tage@title:tab
+Andere Optionen
+Schriften@label
+Text zum Termin@label
+Zusätzliche E-Mail-Adressen:@info:whatsthis
+Zusätzliche E-Mail-Adresse:@info:whatsthis
+Neu@info:whatsthis
+Entfernen
+Modul einrichten ...@info:whatsthis
+Oben in der Tagesansicht anzeigen@option:check
+Unten in der Tagesansicht anzeigen@title:group
+Kalender-Dekorationen@title:group
+Andere Module@info
+Zeitzone:
+Zeitzonen & hinzufügen...
+Zeitzone: %1
+Legt den Titel dieses Ereignisses oder dieser Aufgabe fest.@info:tooltip
+Legen Sie den Titel fest@label event or to-do title
+& Titel:
+Legt den Ort dieses Ereignisses oder dieser Aufgabe fest.@info:tooltip
+Legen Sie den Ort fest.@label
+& Ort:@info:whatsthis
+Legen Sie die Kategorien fest.@label
+Kategorien: @action:button select a category
+& Auswählen ...recipient name
+& Zugriff:@info:whatsthis
+Legen Sie die Stufe der Sichtbarkeits-Beschränkung fest@option:check
+Rich-Text@info:whatsthis
+Rich-Text umschalten@info:tooltip
+& Erinnerung:@info:whatsthis
+Schaltet eine Erinnerung für dieses Ereignis oder diese Aufgabe ein.@info:tooltip
+Stellen Sie eine Erinnerung ein.@info:whatsthis
+Eine Erinnerung einstellen@item:inlistbox alarm expressed in minutes
+Erweitert ...@info:whatsthis
+Erweiterte Erinnerung einstellen@label
+1 erweiterte Erinnerung eingerichtet@label
+Keine Teilnehmer@label
+Datum & & Zeit@info:whatsthis
+Legt das Startdatum für diese Aufgabe fest.@option:check to-do start datetime
+& Start:
+Setzt das Fälligkeitsdatum für diese Aufgabe.to-do due datetime
+& Fällig:
+%1 %percent completed
+Das Startdatum kann nicht nach dem Enddatum liegen.to-do start datetime
+Start: %1to-do due datetime
+Fällig: %1to-do completed on datetime
+E-Mail senden
+Aktualisierung senden
+Alte Einträge löschensave failure cause unknown
+Das Archiv kann nicht geschrieben werden. %1@item:intext delimiter for joining holiday names
+kalender.htmlincidence category: appointment
+Terminincidence category
+Geschäftlichincidence category
+Besprechungincidence category: phone call
+Telefonanrufincidence category
+Schulungincidence category: official or unofficial observance of religious/national/cultural/other significance, often accompanied by celebrations or festivities
+Feiertag
+Urlaubincidence category: examples: anniversary of historical or personal event; big date; remembrance, etc
+Besonderer Anlassincidence category
+Reiseincidence category
+Sonstigesincidence category
+Geburtstag
+Filter angewendet@info
+Möchten Sie den Eintrag„ %1“ wirklich löschen?@title:window
+Eintrag löschen?
+Unteraufgaben verselbständigen@info
+"%1" wurde erfolgreich nach %2 kopiert.@title:window
+Kopieren erfolgreich@info
+Der Eintrag„ %1“ kann nicht nach %2 kopiert werden.@title:window
+"%1" wurde erfolgreich von %2 nach %3 verschoben.@title:window
+Verschieben erfolgreich@info
+Die Groupware-Nachricht für Eintrag„ %1“ wurde erfolgreich versendet. Methode: %2Groupware message sending failed. %2 is request/reply/add/cancel/counter/etc.
+Möchten Sie„ %1“ überschreiben?@info
+*.vcs_BAR_vCalendar@info
+Kein Filter
+Nur diese Aufgabe löschen
+Alle löschen
+Erledigte Aufgaben löschen@info
+Aufgabe löschen@info
+KMail ist nicht aktiv.start/end week number of line in date picker
+Jahr auswählenmonthname
+KOrganizer-Erinnerungsmodul@info
+TestKabc@title:window
+Das Symbol für den Systembereich kann nicht geladen werden.@action:inmenu
+An alle später erinnern@action:inmenu
+Alle Erinnerungen ausblenden@action:inmenu
+Erinnerungen aktivieren@action:inmenu
+Erinnerungsmodul bei der Anmeldung starten@info:status
+Keine aktiven Erinnerungen@info
+KOrganizer-Erinnerungsmodul beenden@info
+Starten@action:button do not start the reminder daemon
+Nicht Starten@title:window
+Erinnerung ausblenden@info:tooltip
+Erinnerungen für die ausgewählten Ereignisse bestätigen@action:button
+Alle ausblenden@info:tooltip
+Erinnerungen für alle aufgelisteten Ereignisse bestätigen@action:button
+Das ausgewählte Ereignis bearbeiten@action:button
+Später erinnern@info:tooltip
+Erinnerungen: Klicken Sie auf einen Titel, um die Detailansicht für den Eintrag ein-/auszuschalten.@title:column reminder title
+Titel@title:column happens at date/time
+Datum, Zeit@title:column trigger date/time
+Auslösezeitpunkt@info:tooltip
+Titel des Ereignisses oder der Aufgabe@info:tooltip
+Die Erinnerung ist für diesen Zeitpunkt eingerichtet@info:tooltip
+Der Zeitpunkt, an dem die Erinnerung ausgelöst wurde@info default incidence details string
+& Wartezeit bis zur nächsten Erinnerung:@info:tooltip
+Erinnerungen für die angegebene Wartezeit aussetzen@info:whatsthis
+Erinnerung mit dieser Zeiteinheit aussetzen.@info:whatsthis
+Erinnerung: %1
+Neuer Kalenderthe calendar is read-only
+Ort für Frei/Belegt-Informationen von %1 %2 :@info:whatsthis
+Identität als Organisator:@info:tooltip
+Legt die Identität des Organisators fest.@info:whatsthis
+& Name:@label
+Klicken Sie hier, um einen neuen Teilnehmer hinzuzufügen@info:whatsthis
+& Rolle:@info:tooltip
+Legt die Rolle des Teilnehmers fest.@info:whatsthis
+& Status:@info:tooltip
+Legt den Teilnahmestatus des Teilnehmers fest.@info:tooltip
+Antwort von dem Teilnehmer erbitten@info:whatsthis
+& Antwort erbitten@action:button new attendee
+& Neuer Teilnehmer@action:button remove this attendee
+Teilnehmer hinzufügen@info:whatsthis
+Den ausgewählten Teilnehmer entfernen@info:whatsthis
+Entfernt den Teilnehmer aus der obigen Liste.@action:button
+Adressaten auswählen ...@info:tooltip
+Adressbuch öffnen@info:whatsthis
+Bitte bearbeiten Sie zunächst den Beispielteilnehmer, bevor Sie weitere hinzufügen.@item:intext sample attendee name
+Vorname Nachname@item:intext sample attendee email name
+Name@info:tooltip
+Wählen Sie den Organisators@info:whatsthis
+Wählen Sie Ihre Identität als Organisator für dieses Ereignis.@label
+Organisator: %1@label
+Delegiert an %1@label
+Delegiert von %1@label
+Nicht delegiert@title general journal settings
+Journal bearbeiten: %1@title:window
+Neues Journal@info
+Inhalt aus einem anderen iCalendar zusammenführen
+Aus einem UNIX-Ical & importieren
+& Monat
+& Woche
+& Aufgabenliste
+Zeitleiste
+& Aktualisieren
+& Filter
+Vertikal verkleinern@action Jump to today
+Heutigen Tag anzeigenscroll backward
+& Zurückscroll backward
+Gehe Zurückscroll forward
+& Vorwärtsscoll forward
+Gehe Vorwärts@action:intoolbar create a new event
+Aufgabe
+Nach Aktualisierung & fragen
+Aktualisierung versendencounter proposal
+Frei/Belegt-Informationen per & E-Mail versenden...
+& Adressbuch
+Aufgaben-Ansicht anzeigen
+Betrachter für Einträge anzeigen
+Ansichtsfilter verwalten...
+& Kategorien verwalten...
+& Kalender einrichten...
+Kalender für die Adresse "%1" hinzugefügt.
+Exportstatus
+Aufgabe bearbeiten...
+Im & Text hinzufügen
+& Abbrechen@title
+Anhänge entfernen
+Filter-Detailsfilter name
+Ändern...
+Erinnerungen
+Zeit
+Erinnerung mit dieser Zeiteinheit festlegen.
+In diesem Kombinationsfeld können Sie die Zeiteinheit zur Auslösung der Erinnerung festlegen.@item:inlistbox alarm offset expressed in minutes
+& Intervall:
+& Wiederholen:
+Wählen Sie hier die Zeit, die zwischen zwei Erinnerungen vergehen soll.@label:spinbox repeat interval expressed in minutes
+Minute(n)repeat every X minutes
+& Anzeigen
+Anzeigetext:
+Klangdatei:
+& Bis:
+Ausgewählte Erinnerung entfernen
+Eine neue Erinnerung basierend auf der ausgewählten anlegen
+Server-Information
+& Benutzername:
+Vollständige E-Mail hinzufügen
+Standard-Erinnerungszeit
+Ereignis-Symbole anzeigen
+Aufgaben anzeigen
+Aufgaben in der Tagesansicht anzeigen
+Nur Kategoriefarbe
+Nur Kalenderfarbe
+Ereignis-Symbole in der Monatsansicht anzeigen
+Aufgaben in der Monatsansicht anzeigen
+Journale In der Monatsansicht anzeigen
+Monatsansicht
+Aufgaben archivieren
+& Datei
+& Ansicht
+& Zoom
+& Hilfemain toolbar
+E-Mail:
+& Aufgaben
+& Kategorien
+Adressen
+& Beschreibungen
+& Von:
+& Neu...
+Ausgewählte Vorlage entfernen
+Zeitzone
+& OKNAME OF TRANSLATORS
+Stefan WinterEMAIL OF TRANSLATORS
+& Anfangsdatum:
+Anfangszeit:
+& Enddatum:
+& Beschreibung einschließen
+& Notizzeilen anzeigen
+Aufgabenliste
+Zu druckende Aufgaben
+Informationen mitdrucken
+& Beschreibung
+Sortierfeld:
+& Notizen, Unteraufgaben
+& Startmonat:
+& Aufgaben@info:whatsthis
+& Datumsbereich:@label attachment contains binary data
+[Binärdaten]@title
+Eigenschaften für %1@label
+Name des Anhangs@info:tooltip
+Geben Sie dem Anhang einen Namen.@info:whatsthis
+Typ:@label unknown mimetype
+Anhang eingebettet speichern@info:tooltip
+Anhang eingebettet im Kalender speichern@info:whatsthis
+Geben Sie den Speicherort des Anhangs an.@info:whatsthis
+Größe:@label
+Neuer Anhang@label
+Einen Anhang hinzufügen @info:whatsthis
+Ausgewählten Anhang entfernen@info:whatsthis
+Entfernt den oben ausgewählten Anhang vom Ereignis oder von der Aufgabe.@action:inmenu open the attachment in a viewer
+Öffnen@action:inmenu remove the attachment
+& Eigenschaften ...@info
+Hiermit & verknüpfen@action:inmenu
+Hierher & kopieren@action:inmenu
+Anhang bearbeiten@info
+Möchten Sie den Anhang %1 wirklich löschen?@title:window
+Anhang entfernen?
+Kalender suchensearch in calendar
+Aufgaben
+Don Sanders
+Fester Zigterman@info:whatsthis
+Kalender@info:tooltip
+Kalender hinzufügen@info:whatsthis
+Kalendereinstellungen bearbeiten@info:whatsthis
+Kalender entfernen@info:whatsthis
+Kalender-Ordner hinzufügen
+Bitte geben Sie einen Namen für den neuen Kalender-Ordner ein
+Einstellungen für Kalender
+Bitte wählen Sie den Typ des neuen Kalenders:
+%1-Kalender
+Kalender-Ordner umbenennen
+Bitte geben Sie einen neuen Namen für Kalender-Ordner ein
+Kalender & hinzufügen ...reload the resource
+& Neu ladensave the resource
+Kalenderfarben
+Kalender-Ordner & hinzufügen...
+Anfangsdatum:
+Kein Anfangsdatum
+Enddatum:
+Dauer: @label
+Kein Enddatum
+Fälligkeitsdatum:
+Kein Fälligkeitsdatumexcept for listed dates
+Keine Erinnerungen
+, @label
+Ort:
+Keine Untereinträge
+Keinunknown status
+unbekanntsubitem start date
+Anfangsdatum %1 subitem start time
+Startzeit: %1 subitem due date
+Fälligkeitsdatum: %1 subitem due time
+Fälligkeitszeit: %1 subitem counter
+%1: subitem Status: statusString
+Status: %1 subitem Priority: N
+Priorität: %1 subitem Secrecy: secrecyString
+Vertraulich: %1
+Keine Anhänge
+Keine Teilnehmer
+Status: %1
+Privatheit: %1
+Kategorien: date from-to
+%1 - %2 (Woche %3)date from - to (week number)
+%1 - %2 (Woche %3)monthname year
+Prozent beendet@option sort in increasing order
+Aufsteigend@option sort in descreasing order
+Aufgabenliste@label to-do percentage complete
+Bis
+%1, %2starttime - endtime summary
+%1-%2 %3starttime - endtime summary, location
+%1-%2 %3, %4weekday, shortmonthname daynumber
+%1 %Description - date
+Person: %1Date range: Month dayStart - dayEnd
+%2. - %3. %1Date range: monthStart dayStart - monthEnd dayEnd
+%2. %1- %4. %3print date: formatted-datetime
+gedruckt: %1
+& Aufgaben ausdrucken
+Details@title:tab general event settings
+& Allgemein@title:window
+& Wiederholung@info:whatsthis
+Termin bearbeiten: %1@title:window
+Neuer Termin@info
+Keine Änderungen@item
+Mein Gegenvorschlag für: %1@info
+Aufgabe bearbeiten: %1@title:window
+Neue Aufgabe@info
+Geburtstage
+Die angegebenen Dateien als separate Kalender importieren
+Die angegebenen Dateien in den Standardkalender zusammenführen
+Stellt Optionen bezüglich Zeit und Datum eines Ereignisses oder einer Aufgabe ein.@label event start time
+& Start:@info:tooltip
+Legen Sie das Anfangsdatum fest@info:whatsthis
+Legen Sie ein Anfangsdatum für dieses Ereignis fest.@info:tooltip
+Legt die Startzeit fest.@info:whatsthis
+Wählt die Startzeit für dieses Ereignis.@info:whatsthis
+Wählt die Zeitzone für Anfangszeit und -datum.@info:tooltip
+& Ende:@info:tooltip
+Legt die Endzeit fest.@info:whatsthis
+Wählen Sie das Enddatum für dieses Ereignis.@info:tooltip
+Legen Sie die Endzeit fest.@option:check
+& Zeit festgelegt@label
+Erinnerung:@label
+& Zeit anzeigen als:@info:whatsthis
+Dieses Ereignis als Beschäftigt oder Freizeit markieren@item:inlistbox show event as busy time
+Beschäftigt@item:inlistbox show event as free time
+Frei@info
+Sie haben auf diese Einladung noch nicht verbindlich geantwortet.@action:button
+Akzeptieren@title:column reminder date/time
+Die Einladung annehmen@info:whatsthis
+Drücken Sie diesen Knopf, um die Einladung anzunehmen.@action:button
+Ablehnen
+Einladung ablehnen@info:whatsthis
+Von: %1 Bis: %2 %3@info
+Prüfung der Ereignis-Eingaben@info
+Im Kalender anzeigen@title:window
+Zurückliegende Einträge archivieren/löschen@action:button
+& Archivieren@info:whatsthis
+Jetzt Einträge archivieren, die älter sind als:@info:whatsthis
+Automatisch alle Einträge & archivieren, die älter sind als:@info:whatsthis
+Tag(e)@item:inlistbox expiration in weekly units
+Woche(n)@item:inlistbox expiration in monthly units
+Monat(e)@label
+Archivdatei:@label filter for KUrlRequester
+*.ics_BAR_iCalendar-Dateien@info:whatsthis
+Diese Ereignistypen archivieren@option:check
+Nur & löschen, nicht archivieren@info:whatsthis
+Legt den Titel des Journaleintrags fest.journal title
+& Datum:
+& Zeit:
+& Kategorien...
+%1-Vorlagen verwalten
+Bitte geben Sie einen Namen für die neue Vorlage ein:
+Vorlage entfernen
+%1 / %2n weeks since the beginning of the year n weeks until the end of the year
+Woche %1
+%1 (%2)Week weekOfYear (year)
+Woche %1 (%2)
+Dieser Tag in der GeschichteLocalized Wikipedia website
+http://de.wikipedia.org/wiki/Qt date format used by thelocalized Wikipedia
+Dieser Monat in der GeschichteQt date format used by the localized Wikipedia
+Bild-SeiteThese are weekly readings and do not have translations. They may have different spellings in your language; otherwise, just translate the sound to your characters
+Bereschit
+Noach
+Tezave
+Re´eh
+Ha´asinuThese are Jewish holidays and mostly do not have translations. They may have different spellings in your language; otherwise, just translate the sound to your characters.
+Schawuot
+Zom Tevet
+Tu B'ShWaT
+Chol HaMoed anzeigenChange the next two strings if emphasis is done differently in your language.
+Druckt eine Liste der Ereignisse und Aufgabendate from - to
+Druckt eine Liste aller anstehenden Ereignisse und Aufgaben
+Ereignisincidence type is to-do/task
+Aufgabeincidence type is journal
+Journaleintrag@title:column reminder date/time
+Erinnerungsdatum/-zeitpunkt
+Standard-ErinnerungszeitweekOfYear (year)
+Vergrößern
+Minuten@item:inlistbox alarm offset expressed in hours
+Löschen bestätigen
+Löschen@info:whatsthis
+Ressourcenansicht anzeigen
+Unterressource hinzufügen
+In der Monatsansicht anzeigen
+& Hinzufügen ...Summary - date
+Reihenfolge für Vervollständigung bearbeiten...
+Geburtstag anzeigen
+Postanschrift anzeigen
+E-Mail-Adressen anzeigen
+Instant-Messaging-Adressen anzeigen
+E-Mail
+Homepage
+Notizen
+Name des ManagersWife/Husband /...
+IM-Adresse
+Adressbuch: %1
+Adressauswahl
+An
+CC
+BCC
+Kürzlich gewählte Adressen
+Andere Adressen
+Neue Verteilerliste
+Bitte geben Sie einen Namen ein:
+Eine Verteilerliste mit dem Namen %1 existiert bereits. Bitte wählen Sie einen anderen Namen.
+Verteilerlisten%1 is a time, %2 is a status message
+Jaboolean no
+Nein
+Beschreibung
+Kategorien
+Ausnahmezeitentodo creation time
+Erstellt
+Enddatum
+Fälligkeitsdatum
+Fertigstellungsdatum festgelegtto-do completion percentage
+Fertigstellungsdatumif to-do is completed
+fertiggestellt
+Kategorien bearbeiten
+Neue Kategorie
+Kategorien auswählen
+Reihenfolge für das Vervollständigen bearbeiten@title:column, address books overview
+Adressbücher@title:column, name of a person
+Privat@title:column, home address of a person
+Dienstl.@title:column, phone numbers of a person
+Telefonnummern@title:column, the preferred email addresses of a person
+Bevorzugte E-Mail@title:column, all email addresses of a person
+IMAP@item mbox account
+Nachrichten@item DIMAP account
+Keine
+MBOX@item maildir account
+Disconnected IMAP@item local mailbox account
+Lokale Mailbox@item pop3 account
+POP3@item unknown mail account
+Adressbuch auswählen
+Auswahl
+Datum
+Import-Seite
+Verfügbare Seiten
+Seite importieren...
+Einstellungswert ändern@title:window
+Regeln@title:window
+Regeln einrichten@title:column source file,group,entry
+Quelle@title:column target file,group,entry
+Bedingung@title:tab
+Einrichtungs-Änderungen@title:column change action
+Aktion@title:column option to change
+Option@title:column value for option
+Wert@info
+Warnung@action:button
+morgenthis day
+gestern@option today
+& Heute@option tomorrow
+& Morgen@option next week
+Nächste & Woche@option next month
+Nächsten Monat@option do not specify a date
+Kein Datum@title:window
+Es ist ein Konflikt aufgetreten@info
+Lokalen Eintrag verwenden@info:tooltip
+Die lokale Kopie des Eintrags verwenden@info:whatsthis
+Neuen Eintrag verwenden@info:tooltip
+Die serverseitige Kopie des Eintrags verwenden@info:whatsthis
+Beide verwenden@info:tooltip
+Beide Einträge verwenden@info:whatsthis
+Lokales Ereignis@title:column
+Zusammenfassung des lokalen Ereignisses@label
+Zuletzt geändert:@label
+„ Zuletzt geändert“ einstellen@action:button
+Details anzeigen@label
+Eintragsdetails ein/ausblenden@info:whatsthis
+Drücken Sie diesen Knopf um Details zum Kalendereintrag ein/auszublenden.@action:button
+Unterschiede anzeigen@info:tooltip
+Unterschiede zwischen beiden Kalendereinträgen anzeigen@info:whatsthis
+Einstellungen zum Abgleich@option:radio
+Bei Konflikten die lokale Kopie verwenden@info:tooltip
+Bei Konflikten den serverseitigen Eintrag verwenden@info:tooltip
+Bei Konflikten den neuesten Eintrag verwenden@info:tooltip
+Bei jedem Konflikt nachfragen@info:tooltip
+Bei jedem Konflikt nachfragen@info:whatsthis
+Bei Konflikten beide Einträge verwenden@info:tooltip
+Bei Konflikten beide Einträge verwenden@info:whatsthis
+Konfliktlösung für diesen Abgleichvorgang beibehalten@info:tooltip
+Lokaler Termin@label
+Lokale Aufgabe@label
+Lokaler Journal-Eintrag@label
+Neues Ereignis@label
+Neue Aufgabe@label
+Neuer Journal-Eintrag@action:button
+Details ausblenden@action:button
+Eintragsdetails@info:whatsthis
+In diesem Bereich sehen Sie Details zum Kalendereintrag.@action:button
+Details anzeigen ...@title:window
+Unterschiede zwischen %1 und %2@title:window
+Unterschiede von %1@title:column
+Servergespeichertes Ereignis@label
+& Einfügen@title:window
+Datei einfügen@info
+Externer Editor wird ausgeführt@action:button
+Editor beenden@action:button
+Auswählen...
+Einstellungen
+Sie sind dabei, alle Einstellungen auf den Standardwert zurückzusetzen. Alle von Ihnen durchgeführten Änderungen gehen verloren.
+Standardeinstellungen werden gesetzt
+Nicht
+Eigenschaften@label rule name
+Mehrfewer widgets
+Vollständiger Name
+Bundesland
+Postanschrift
+Suche nach:
+Alle auswählen
+Ausgewählte hinzufügen
+E-Mail-Adresse
+An > >
+& CC > >
+& BCC > >
+< < & Entfernen
+& Ausgewählte Adressaten
+& Adressbuch
+& Filtern nach:
+Als & Verteilerliste speichern...
+Unterkategorie & hinzufügen
+& Entfernen
+Kategorienliste
+Standard-Kategorie
+Kategorie
+Auswahl & aufheben
+Kategorien & bearbeiten ...NAME OF TRANSLATORS
+Stefan WinterEMAIL OF TRANSLATORS
+Kürzlich gewählte Adressen bearbeiten & #160;
+Beweglich
+Unsortiert (serverseitige Speicherung)
+Älteste oben
+Neueste obenSort order for messages
+Standard-Nachrichtenliste
+Diskussionsleiter
+Absender@title:column
+Empfänger@title:column
+Datum@title:column
+Neuestes DatumSize of a message
+Beantwortetmessage status
+Wichtig@title:column Subject of message.
+Aufgabemessage status
+Gestern
+Letzte Woche
+Symbol für Neu/Ungelesen/Gelesen
+Gruppenüberschrift
+Symbol für Spam/Ham
+Symbol für Überwacht/Ignoriert
+Symbol für Verschlüsselungsstatus
+Waagrechter Zwischenraum
+Max.-Datum
+Nachrichten-MarkierungenDescription for an Unknown Type
+Immer anzeigen
+Stilgetreue verbundene RechteckeSearch for messages.
+Suchentype of folder storage
+Vollständige Suche öffnen
+Neu
+Weitergeleitetmessage status
+Überwachtmessage status
+Ignoriertmessage status
+Hat einen Anhang
+Spammessage status
+Hammessage status
+Sortierung für Nachrichten
+Sortierkriterium für Gruppen
+Sortierung für Gruppen
+Sortierung für diesen Ordner merkenNo grouping of messages
+KeinePermissions
+Nach intelligenten Datumsbereichen (des Diskussions-Beginns)
+Aktuelle Gruppen aufklappen
+Gruppen immer aufklappenNo threading of messages
+Gruppe immer aufklappen
+Stapelverarbeitung (keine Interaktivität)Status of an item
+Gelesenmessage status
+Versendetmessage status
+Kurzinfos anzeigen
+Sortierung
+VonReceiver of the emial
+Diskussionen wurde gestartet am %1@info:tooltip Formats to something like 'Threads started Yesterday'
+Diskussion startete %1
+Nachrichten empfangen am %1@info:tooltip Formats to something like 'Messages sent Yesterday'
+Diskussionen begonnen innerhalb von %1
+Diskussionen mit Nachrichten im Datumsbereich %1
+Nachrichten versendet innerhalb von %1
+Nachrichten empfangen innerhalb %1
+Diskussionen gestartet von %1
+Diskussion mit der neuesten Nachricht von %1
+Nachrichten empfangen von %1
+Diskussionsfäden gerichtet an %1
+Diskussionen mit der neuesten Nachricht gerichtet an %1
+Neue Zusammenstellung
+Zusammenstellung kopieren
+Unbenannte Zusammenstellung
+Design kopieren
+Neue Spalte
+Zusammenfassung:
+Aufklapprichtlinie für Zusammenfassungen:
+Füllstrategie:@label:textbox Property name
+Name:
+In der Voreinstellung sichtbar
+Beispiel-Markierung 1
+Beispiel-Markierung 2
+Beispiel-Markierung 3Indicates whether or not a header label is visible
+Sichtbar@action:inmenu soften the text color
+Standard@item:inlistbox Show sender.
+VordergrundfarbeHide a mark if the mail does not have the attribute, e.g. Important mark on a non important mail
+AusblendenKeep a empty space in the list if the mail does not have the attribute, e.g. Important mark on a non important mail
+Leerstelle beibehaltenShow the icon softened in the list if the mail does not have the attribute, e.g. Important mark on a non important mail
+Automatisch@action:inmenu Group header background color setting
+Hintergrundfarbe
+Hintergrundstil
+Inhalts-Elemente
+Symbolgröße:suffix in a spinbox
+& Abbrechen@info:tooltip
+Aktuelles Unterfenster schließen@title:tab Empty messagelist
+Alle anderen Unterfenster schließen
+Bitte Übertragung der Nachricht abwarten
+Suchordner öffnen
+Anhänge speichern...
+Jetzt senden
+Speichern & unter ...to open
+Öffnen mit ...to view something
+Suche entfernen
+Nächste & ungelesene Nachricht@action:inmenu Goto next unread message
+Nachrichtenmarkierung %1 umschalten
+Ordnerliste@action:inmenu Always display tooltips
+Niemals@action:inmenu
+Namensräume werden abgeholt
+Bild hinzufügen
+Fingierte Empfangsbestätigung sendenMDN type
+Vorhandene Filter
+Dieser Anhang wurde gelöscht.
+Empfänger auswählen
+E-Mail@info
+Ausgewählte Empfänger
+& Bild mit jeder Nachricht versenden
+Bitte Namen eingeben:@info
+Jetzt komprimierenFile size in bytes
+POP-Filter@info/plain
+Nachrichten übersteigen Maximalgröße@title:group
+Gruppenüberschrift einklappenshortcut
+Quoted Printablemessage encoding type
+An: @info
+& Zitatkennzeichnung:@info:whatsthis
+Französisch@item:inlistbox Adjective, language
+& Regelung für die Suche nach ungelesenen Nachrichten:
+In allen Ordnern zyklisch suchento be continued with "jump to first new message", "jump to first unread or new message", and "jump to last selected message"
+& Nicht anzeigen
+& Lange Ordnerliste
+& Kurze Ordnerliste
+& Oberhalb des Nachrichtenbereichs
+& Unterhalb des Nachrichtenbereichs
+& Immer anzeigen
+Zitierte Nachricht
+Alle EmpfängerTemplate value for subject of the message
+Diese Nachricht
+Undefinierter Empfängertyp @label:listbox
+Wählen Sie die Art des Empfängers@action:button
+Keine Empfänger@info:status Number of recipients selected
+& Dekorativ
+& Alle
+Nachrichtenstrukturbereich
+Anhang speichernfilename for the %1-th unnamed attachment
+Empfänger auswählen...
+Keine Empfänger
+Empfänger ändern
+Nachricht & bearbeitenMessage- > Forward- >
+& Umleiten...
+Alle Empfänger
+Skript löschen
+Skript deaktivieren
+K e i n e H T M L - N a c h r i c h t message encoding type
+Bearbeiten
+E-Mail-Betrachter
+Nachricht & speichern
+Nachricht als Klartext
+Es wurden keine Anhänge zum Speichern gefunden.@title column attachment name.
+Test für den Empfängereditor
+Alle Gruppen einklappen@info:tooltip
+Startvorgang...
+Ungültiger Spezialbefehl %1
+Das Auslesen der Nachrichten-Seriennummern aus der Antwort des Servers ist nicht möglich: %1
+Das Auslesen der ersten Nachrichtenkennung aus der Antwort des Servers ist nicht möglich: %1
+Das Auslesen der Nachrichtenkennung aus der Antwort des Servers ist nicht möglich: %1
+Unerwartete Serverantwort auf %1-Befehl: %2
+Thomas Diehl, Frederik SchwarzerEMAIL OF TRANSLATORS
+thd@kde.org, schwarzerf@gmail.com@item:inmenu
+C++-Header (GPL)@item:inmenu
+Quelltext@info:whatsthis
+Eine sehr einfache C++-Header-Datei (GPL)@info:credit
+Anders Lund < anders\@alweb\.dk > @item:inmenu
+C++-Quelltext-Datei (GPL)@info:whatsthis
+Eine sehr einfache C++-Quelltext-Datei (GPL)@item:inmenu
+HTML-4.01-Dokument (strict)@item:inmenu
+Internet@info:whatsthis
+C++-Quelltext-Datei (LGPL)@info:whatsthis
+Eine sehr einfache C++-Quelltext-Datei (LGPL)@item:inmenu
+Erstellt den passenden Anfang eines Docbook-Kapitels für ein Kate-Modul.@item:inmenu
+C++-Header (LGPL)@info:whatsthis
+Eine sehr einfache C++-Header-Datei (LGPL)@item:inmenu
+Hervorhebungsdefinition@info:whatsthis
+Diese Vorlage erstellt ein Grundgerüst einer Datei für Kate-Hervorhebungsdefinitionen.@info:credit
+& Datei
+Zeile: %1 Spalte: %2
+Einf
+ZEILE
+Neues Dokument erstellen
+Existierendes Dokument öffnen
+Hier werden Dokumente angezeigt, die Sie zuletzt geöffnet haben. Diese Dateien können von hier aus auch leicht erneut geöffnet werden.
+& Alle speichern
+Speichert alle offenen, geänderten Dokumente ab.
+Alle offenen Dokumente neu laden.
+Das aktive Dokument schließen.
+Andere offene Dokumente schließen.
+Alle & schließen
+Alle offenen Dokumente schließen.
+Schließt dieses Fenster
+Öffnen & mit
+Hiermit werden nützliche Tipps zur Benutzung angezeigt.
+Über EditorkomponenteMenu entry Session- > New
+Öffnen...
+& Speichern
+Speichern & unter...
+Als Standard speichern...
+& Verwalten...
+Beenden abgebrochen'document name [*] ', [*] means modified
+Programm nicht gefunden.
+Durch Fremdprogramm geänderte Dateien
+Dateiname
+Geändert
+Erstellt
+Gelöscht
+Das Dokument lässt sich nicht speichern„ %1“
+Alle Dokumente gespeichert
+Programm-Einstellungen
+(nie)
+Dokumentliste
+Zu öffnendes Dokument
+Datei löschen?
+Speichern unter
+Standardsitzung
+SitzungsnameThe number of open documents
+Geöffnete Dokumente
+& Umbenennen...
+Adresse
+Projekte
+Sitzung & nicht speichern
+Sitzung speichern?
+Dateitypen:
+Datei
+Datei öffnen...
+Indiziere Dateien...
+Abbruch gescheitert
+Warnung
+Zahllose Fehlerberichte, Tests der Benutzbarkeit, technische UnterstützungNAME OF TRANSLATORS
+Stephan Johach, Jannick KuhrEMAIL OF TRANSLATORS
+Datenbezeichner :„ %1“ .Translate this word using only lowercase alphanumeric characters (a..z, 0..9). Use '_' character instead of spaces. First character should be a..z character. If you cannot use latin characters in your language, use english word.
+Objektdatabase connection
+& Textansicht
+Klicken Sie auf„ OK“, um den Vorgang fortzusetzen.Keep this text narrow: split to multiple rows if needed
+Kexi erstellt eine neue, leere Datenbank.Keep this text narrow: split to multiple rows if needed
+Kexi erstellt ein neues Datenbankprojekt unter Verwendung der ausgewählten Vorlage. Wählen Sie die Vorlage und klicken Sie auf„ OK“ um fortzufahren.Keep this text narrow: split to multiple rows if needed
+Datenbankserver: %1unspecified user
+Anlegen
+Einfügen SpezialClose the current tab page in Kexi tab interface
+Projekt-Einstellungen
+Tabellen importieren
+Komprimiert das aktuelle Datenbankprojekt, so dass es weniger Speicher belegt und schneller arbeitet.
+Importiert Tabellendaten aus einer Datei.
+Zeigt die Seiteneinstellungen für das Drucken der aktive Tabelle oder Abfrage.
+Fügt Daten aus der Zwischenablage in eine Tabelle ein.
+Eigenschafteneditor
+Drucken"executing object "action
+Öffnen
+Eigenschaften
+Extras
+(Aktuelles Feld)
+Nächste Seite
+Letzte SeitePage (number) of (total)
+Bitte geben Sie den Titel ein.
+Projektnavigator
+Importieren
+NeinEditable combobox
+Spalte %1
+Datum
+TextNumeric type for column
+KeinerFor Word Wrap Position
+Nicht nÃ¤her bestimmter Fehler aufgetretenshort for 'expression' word, e.g. 'expr' (only latin letters, please)
+Ausschneiden
+Inhalt von %1Edit rich text for a widget
+FormularThis string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+formulartooltip
+Benutzerdefiniertes OberflächenelementThis string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+TextfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+textfeld
+GrafikfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+bild
+ZeileneditorWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+ZwischenraumWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+zwischenraum
+KnopfWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+knopf
+Ein einfacher Knopf, um Aktionen auszuführen
+AuswahlknopfWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+auswahlknopf
+AnkreuzfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+DrehfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+KombinationsfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+ListenfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+ListenelementWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
+TexteditorWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.
