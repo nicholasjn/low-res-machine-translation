@@ -1,0 +1,15 @@
+check_name	check_type	left	right	left_unique_n	right_unique_n	overlap_n	percent_of_smaller
+original_train_vs_dev_pair_overlap	pair	original/train	original/dev	14893	1568	887	56.5689
+original_train_vs_test_pair_overlap	pair	original/train	original/test	14893	1866	129	6.9132
+original_dev_vs_test_pair_overlap	pair	original/dev	original/test	1568	1866	14	0.8929
+original_train_de_vs_test_de_source_overlap	source	original/train.de	original/test.de	14245	1798	209	11.6240
+original_train_hsb_vs_test_hsb_target_overlap	target	original/train.hsb	original/test.hsb	10124	1390	307	22.0863
+cleaned_train_vs_dev_pair_overlap	pair	cleaned/train	cleaned/dev	11035	2000	0	0.0000
+cleaned_train_vs_test_pair_overlap	pair	cleaned/train	cleaned/test	11035	2000	0	0.0000
+cleaned_dev_vs_test_pair_overlap	pair	cleaned/dev	cleaned/test	2000	2000	0	0.0000
+cleaned_train_de_vs_test_de_source_overlap	source	cleaned/train.de	cleaned/test.de	10574	1942	107	5.5098
+cleaned_train_hsb_vs_test_hsb_target_overlap	target	cleaned/train.hsb	cleaned/test.hsb	8261	1447	212	14.6510
+original_train_vs_cleaned_test_pair_overlap	pair	original/train	cleaned/test	14893	2000	0	0.0000
+cleaned_train_vs_original_test_pair_overlap	pair	cleaned/train	original/test	11035	1866	115	6.1629
+original_test_vs_cleaned_test_pair_overlap	pair	original/test	cleaned/test	1866	2000	1563	83.7621
+original_train_vs_cleaned_train_pair_overlap	pair	original/train	cleaned/train	14893	11035	11035	100.0000

@@ -1,0 +1,10 @@
+LPD tiskárna čeká v řadě na cizích počítačích
+SMB tiskový zdroj (Windows)
+Služební tiskárny (TCP)
+Druhovač souborů Unknown type of local printer queue
+Neznámé
+Místní tiskárna čeká v řadě (%1)
+Neznámý řidič
+LPD tiskárna v cizím počítači: %1@%2
+Vytvoření složky %1 pro řádek tiskárny %2 není možné.
+Ukládání informací pro tiskárny %1 není možné.

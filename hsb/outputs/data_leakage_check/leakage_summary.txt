@@ -1,0 +1,24 @@
+Data leakage check
+Output directory: D:\Desktop\26ss\NLP\outputs\data_leakage_check
+
+check_name	type	overlap	percent_of_smaller
+original_train_vs_dev_pair_overlap	pair	887	56.57%
+original_train_vs_test_pair_overlap	pair	129	6.91%
+original_dev_vs_test_pair_overlap	pair	14	0.89%
+original_train_de_vs_test_de_source_overlap	source	209	11.62%
+original_train_hsb_vs_test_hsb_target_overlap	target	307	22.09%
+cleaned_train_vs_dev_pair_overlap	pair	0	0.00%
+cleaned_train_vs_test_pair_overlap	pair	0	0.00%
+cleaned_dev_vs_test_pair_overlap	pair	0	0.00%
+cleaned_train_de_vs_test_de_source_overlap	source	107	5.51%
+cleaned_train_hsb_vs_test_hsb_target_overlap	target	212	14.65%
+original_train_vs_cleaned_test_pair_overlap	pair	0	0.00%
+cleaned_train_vs_original_test_pair_overlap	pair	115	6.16%
+original_test_vs_cleaned_test_pair_overlap	pair	1563	83.76%
+original_train_vs_cleaned_train_pair_overlap	pair	11035	100.00%
+
+Automatic interpretation:
+- Exact train-test parallel sentence-pair leakage was found for this split: original (129 pairs).
+- No exact parallel sentence-pair leakage was found for this split: cleaned.
+- Source-only or target-only overlap is non-zero. This may be expected for KDE4 UI data because of short repeated interface strings, and is weaker evidence than exact pair overlap.
+- IMPORTANT: cleaned train vs original test has non-zero exact pair overlap. This matters because cleaned-trained models are evaluated on the original test set.

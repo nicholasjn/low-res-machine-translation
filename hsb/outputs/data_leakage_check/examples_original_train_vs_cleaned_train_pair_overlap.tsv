@@ -1,0 +1,51 @@
+de	hsb
+# Aktiviert oder deaktiviert das Netzwerk für dieses System.	# Zmóžni abo hasnje syć na tutym systemje.
+# Listet Bluetooth-Geräte und -Schnittstellen auf	# bluetooth- adaptery/ interfejsy naličić
+# Zeigt das Standard-Bluetooth-Gerät an	# standardny bluetooth- adaptery/ interfejsy naličić
+# Zeigt die Netzwerke an, die dem Gerät‚ uni‘ bekannt sind.	# Naliči syće, kotrež grat znaje, specifikowane wot 'uni'.
+# Zeigt die verfügbaren Netzwerkgeräte an.	# Naliči syćowe graty.
+# erstellt von KDE, %1 # # Wenn Sie nicht möchten, dass KDE Ihre GTK-Einstellungen überschreibt, # wählen Sie bitte Erscheinungsbild - > Farben in den KDE-Systemeinstellungen # und deaktivieren Sie das Ankreuzfeld #„ Farben auf Nicht-KDE4-Programme anwenden“. # #	# stworjene přez KDE,% 1 # # jeli nochceće, zo KDE waše GTK- opcije ignoruje, wubjerće # Napohlady & Temy - > Barby w Kontrolnym Centrumje a njewubjerće # "Wužiwaj barby za programy, njespisane za KDE" # #
+$%1 @message/plain	$% 1 @ message/ plain
+%	%
+% vollständigDownload first	Download first
+%1	% 1
+%1 %2	% 1% 2
+%1 %2 %3@label Short date: %1 day in the month, %2 short month name	% 1% 2% 3@ label Short date:% 1 day in the month,% 2 short month name
+%1 %2@item Text character set	% 1% 2@ item Text character set
+%1 & lt;%2gt;@email-with-name/rich %1 is name, %2 is address	% 1 & lt;% 2gt; @ email- with- name/ rich% 1 is name,% 2 is address
+%1 (%2% %3/%4) %5	% 1 (% 2,% 3),% 4
+%1 (%2% %3/%4) Geschwindigkeit: %5/s%1 filename, %2 percent complete, %3 downloaded out of %4 total size, %5 status	% 1 (% 2,% 3),% 4Items (Folders, Files), Size
+%1 (%2)	% 1 (% 2)
+%1 (%2)	% 1% 2
+%1 (%2) %3%1 filename, %2 percent complete, %3 downloaded out of %4 total size	% 1% 2Items (Folders, Files), Size
+%1 (%2) [%3]dictionary name. %1-language and %2-country name	% 1 (% 2) [% 3] dictionary name.% 1- language and% 2- country name
+%1 (%2) an %3 Label of the search bar textedit	% 1 (% 2) na% 3
+%1 (%2)Action that reorganizes the windows to try to have them less cluttered	Action that reorganizes the windows to try to have them less cluttered
+%1 (%2)Describes documentation entries that are in English	% 1 (% 2)
+%1 (%2)items: folders, files (size)	% 1 (% 2) items: folders, files (size)
+%1 (%2)no storage volume	% 1 (% 2)
+%1 (%2)size in bytes	% 1 (% 2)
+%1 (Aktuelle)@action:button verb	% 1 (tuchwilu nastajene) @ action: button verb
+%1 (Auto)Automatic refresh rate configuration	Automatic refresh rate configuration
+%1 (Deaktiviert)	% 1 (znjepřistupnjene)
+%1 (Teilweise)	% 1 (zdźěla)
+%1 (nicht verfügbar)	% 1 (njepřistupne)
+%1 (nicht verfügbar)	% 1 (njesteji k dispoziciji)
+%1 (vorherige)	% 1 (prjedawše)
+%1 (wird für die Desktopsuche indiziert)@info:tooltip %1 is the path of the folder in a listview	@ info: tooltip% 1 is the path of the folder in a listview
+%1 (ändern...)	% 1 (změnić...)
+%1 - Bildschirmgröße	Wobrazowka% 1
+%1 - Hochladen von Erweiterungen	% 1 Add- On Instalowar
+%1 - Präsentation	Prezentacija
+%1 - Typ des benutzerdefiniertes Pfades unbekannt	% 1 - njeznata družina userpath
+%1 - unbekannter Typ	% 1 - njeznata družina
+%1 @envar/plain	% 1 @ envar/ plain
+%1 @info bug report label and value	@ info bug report label and value
+%1 @item/plain	% 1 @ item/ plain
+%1 @note/plain	% 1 @ note/ plain
+%1 @placeholder/plain	% 1 @ placeholder/ plain
+%1 @shortcut/plain	% 1 @ shortcut/ plain
+%1 @subtitle/plain	% 1 @ subtitle/ plain
+%1 Bsize in 1000 bytes	% 1 B
+%1 Datei	% 1 dataja
+%1 Dienst-ExplorerSource: name of the data, Service: writes data instead of fetching	% 1 Wuslědźer słužbow

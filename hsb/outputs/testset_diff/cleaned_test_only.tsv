@@ -1,0 +1,438 @@
+de	hsb
+SchiebereglerWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+Ein waagerechter Schieberegler	& Wodorunje
+FortschrittsanzeigeWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+LinieWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+DatumWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+ZeitWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+Datum/ZeitWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+UmschaltenButton is checkable	Button is checkable
+Automatisch wiederholenAuto Repeat Button's Delay	Auto Repeat Button' s Delay
+Verzögerung für automatische WiederholungAuto Repeat Button's Interval	Auto Repeat Button' s Interval
+StandardTristate checkbox, yes	Tristate checkbox, yes
+FlachEcho mode for Line Edit widget eg. Normal, NoEcho, Password	Echo mode for Line Edit widget eg. Normal, NoEcho, Password
+AusrichtungChecked checkbox	Checked checkbox
+AktiviertTristate checkbox	Tristate checkbox
+TextformatFor Text Format	For Text Format
+EinfachRaised (HINT: for Frame Shadow)	Raised (HINT: for Frame Shadow)
+HypertextFor Text Format	For Text Format
+Protokollproperty: Can open external links in label	property: Can open external links in label
+Ext. Verknüpfungen öffnen	Property: "Click Me" message for line edit
+BefehlsknopfPassword Mode for line edit	Stłóč kneflPassword Mode for line edit
+PasswortmodusSqueezed Text Mode for line edit	Squeezed Text Mode for line edit
+Zeilenumbruch-RegelungFor Word Wrap Policy	For Word Wrap Policy
+An WortgrenzeFor Word Wrap Policy	For Word Wrap Policy
+IrgendwoFor Word Wrap Policy	For Word Wrap Policy
+Zeilenumbruch-PositionFor Word Wrap Position	For Word Wrap Position
+ElementbreiteFor Word Wrap Position	For Word Wrap Position
+In PixelnFor Word Wrap Position	For Word Wrap Position
+Waagerechte Bildlaufleiste	& Wodorunje
+Senkrechte BildlaufleisteShow Scroll Bar As Needed	& PadorunjeShow Scroll Bar As Needed
+Bei BedarfScroll Bar Always Off	Scroll Bar Always Off
+Rich TextProperty: HTML value of text edit	Property: HTML value of text edit
+Inhalt des Listenelements bearbeitendefault indent value	default indent value
+Seite hinzufügenRemove tab widget's page	Remove tab widget' s page
+Seite entfernenGo to Previous Page of a Stacked Widget	Go to Previous Page of a Stacked Widget
+Geben Sie einen neuen Titel für die aktuelle Seite ein:Add page to a stacked widget	Add page to a stacked widget
+Seite hinzufÃ¼gen ...Remove page from a stacked widget	Remove page from a stacked widget
+Zur vorherigen SeiteGo to Next Page of a Stacked Widget	Go to Next Page of a Stacked Widget
+KnopfgruppeWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+KarteikarteGroup Box (HINT: for Frame Shape)	Group Box (HINT: for Frame Shape)
+BasiscontainerWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+GruppenfeldPlain (HINT: for Frame Shadow)	Plain (HINT: for Frame Shadow)
+RahmenWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+StapelWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+Waagerechtes FeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+Senkrechtes FeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+GitterfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+TrennerWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+ZeilenanordungWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+SpaltenanordungWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+UnterformularWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+ReiterformEcho mode for Line Edit widget eg. Normal, NoEcho, Password	Tab Widget' s Elide Mode
+Echo-ModusTab Widget uses scroll buttons	Tab Widget uses scroll buttons
+Abgerundetfor Tab Shape	for Tab Shape
+KurzinfoWidget's Whats This	HorjeWidget' s Whats This
+Senkrechte Bildlaufleiste	& Padorunje
+VordergrundpaletteAuto (HINT: for AutoText)	Auto (HINT: for AutoText)
+Links	Do lěwa
+Rechts	Do prawa
+Zentriert	Wutřihać
+BündigTop (HINT: for Align)	Top (HINT: for Align)
+Oben	Horje
+Unten	Dele
+Kein RahmenBox (HINT: for Frame Shape)	Box (HINT: for Frame Shape)
+BoxPanel (HINT: for Frame Shape)	Panel (HINT: for Frame Shape)
+KontrollleisteWindows Panel (HINT: for Frame Shape)	Windows Panel (HINT: for Frame Shape)
+Windows-KontrollleisteHoriz. Line (HINT: for Frame Shape)	Horiz. Line (HINT: for Frame Shape)
+Waagr. LinieVertical Line (HINT: for Frame Shape)	Vertical Line (HINT: for Frame Shape)
+Senkrechte LinieStyled (HINT: for Frame Shape)	Styled (HINT: for Frame Shape)
+StilvollPopup (HINT: for Frame Shape)	Popup (HINT: for Frame Shape)
+AufklappmenüMenu Bar (HINT: for Frame Shape)	Menu Bar (HINT: for Frame Shape)
+MenüleisteToolbar (HINT: for Frame Shape)	Toolbar (HINT: for Frame Shape)
+WerkzeugleisteText Box (HINT: for Frame Shape)	Text Box (HINT: for Frame Shape)
+TextfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+ErhöhtSunken (HINT: for Frame Shadow)	Sunken (HINT: for Frame Shadow)
+Eingesunkenfor Frame Shadow	for Frame Shadow
+Keine AktivierungTab (HINT: for Focus)	Tab (HINT: for Focus)
+TabulatorClick (HINT: for Focus)	Click (HINT: for Focus)
+KlickTab/Click (HINT: for Focus)	Tab/ Click (HINT: for Focus)
+Tabulator/KlickTab/Click/MouseWheel (HINT: for Focus)	Tab/ Click/ MouseWheel (HINT: for Focus)
+Links nach Rechts	Do prawa
+Rechts nach Links	Do lěwa
+Die Anordnung kann nicht erstellt werden. Alle gewählten OberflÃ¤chenelemente müssen vom gleichen Ã¼bergeordneten Element abgeleitet sein.Translators: please keep this string short (less than 20 chars)	Translators: please keep this string short (less than 20 chars)
+Waagerechte AusrichtungTranslators: please keep this string short (less than 20 chars)	Translators: please keep this string short (less than 20 chars)
+Aktuell	Wutřihać
+Seiteneinstellungen anzeigenNote: use multiple rows if needed	Note: use multiple rows if needed
+In Datei exportieren Als DatentabelleNote: use multiple rows if needed	Note: use multiple rows if needed
+Aktion einem Befehlsknopf zuweisenAssign action	Assign action
+Name des OberflächenelementsWidget's type	Widget' s type
+Aktivierungs-Reihenfolge automatisch vergebenInsert Horizontal Widget	Insert Horizontal Widget
+Waagerecht einfÃ¼genInsert Vertical Widget	Insert Vertical Widget
+& Rechnername:port: default	port: default
+Socket-Datei anstelle eines TCP/IP-Ports verwendensocket: default	socket: default
+Spalte:	Po & špaltach
+Parameter	Kajkosće
+* (Alle Spalten)	Po & špaltach
+Aktuelle Zeilennummer"of "in row number information: N of M	"of" in row number information: N of M
+& Nicht ersetzenObject name: Object type	Object name: Object type
+Exportiert die Daten der ausgewählten Tabelle oder Abfrage in eine Datei.Export- > To File As Data & Table...	Export - > To File As Data & Table...
+Außen- bereichEnter Query Parameter Value	Enter Query Parameter Value
+Parameterwert eingebenBoolean True - Yes	Boolean True - Yes
+JaGeneral properties	Tristate checkbox, no
+Tabelle:Insert table/query into relations view	Insert table/ query into relations view
+Ausgewählte & Tabelle/Abfrage Ã¶ffnenText encoding: Default	Text encoding: Default
+Abfrage definieren ...Question	Question
+Korrekt	Wutřihać
+OriginalWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+Textfeld	Pomjenowanje
+BildfeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters.	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters.
+AutofeldWidget name. This string will be used to name widgets of this class. It must _not_ contain white spaces and non latin1 characters	Widget name. This string will be used to name widgets of this class. It must _ not _ contain white spaces and non latin1 characters
+Befehlsknopf	Stłóč knefl
+Ein Befehlsknopf, um Aktionen auszuführen	Jednory knefl za wuwjedźenje přikazow
+Schatten aktiviertOn: button	On: button
+EditortypAutoField editor's type	AutoField editor' s type
+Mehrzeiliger TextAutoField editor's type	AutoField editor' s type
+AufklapplisteAutoField editor's type	AutoField editor' s type
+Automatische Beschriftung	Pomjenowanje teksta
+Textfarbe der Beschriftung(a property name, keep the text narrow!)	(a property name, keep the text narrow!)
+Keine Beschriftung	Pomjenowanje teksta
+Skalierter InhaltKeep Aspect Ratio (short)	Keep Aspect Ratio (short)
+RahmenfarbeDrop-Down Button for Image Box Visible (a property name, keep the text narrow!)	Drop- Down Button for Image Box Visible (a property name, keep the text narrow!)
+Auswahl Knopf sichtbarTristate checkbox, default	Tristate checkbox, default
+Mehreren Elementen kann keine Datenquelle zugeordnet werden.Table Field or Query Field	Table Field or Query Field
+Verfügbare FelderInsert selected field into form	Insert selected field into form
+Fügt die ausgewählten Felder in ein Formular einTranslate this word using only lowercase alphanumeric characters (a..z, 0..9). Use '_' character instead of spaces. First character should be a..z character. If you cannot use latin characters in your language, use english word.	Translate this word using only lowercase alphanumeric characters (a.. z, 0.. 9). Use '_' character instead of spaces. First character should be a.. z character. If you cannot use latin characters in your language, use english word.
+Neues Formular erstellenwhat's this	what' s this
+Oberflächenelement anordnen	K najšěršemu
+& Waagerecht	& Wodorunje
+& Senkrecht	& Padorunje
+Waagerecht in einem & Trenner	& Wodorunje
+Andere Oberflächenelemente	K najšěršemu
+Nach links	Do lěwa
+Nach rechts	Do prawa
+Nach oben	Horje
+An Gitter	K najšěršemu
+Größe der Oberflächenelemente anpassen	K najšěršemu
+Passend	Do prawa
+An das Kürzeste	K najwušemu
+An das Längste	K najwjetšemu
+An das Schmalste	K najwušemu
+An das Breiteste	K najšěršemu
+Oberflächenelemente	K najšěršemu
+(ungebunden)Widget's Whats This	Unbound Auto Field
+%1 (ungebunden)Unbound Auto Field	Unbound Auto Field
+Spalten abfragen	Po & špaltach
+Spalte	Po & špaltach
+Summen	K najwjetšemu
+Sortieren	Skoč
+Seite	Zasunyć
+Ring	Skoč
+Nach vorne	Zasunyć
+Nach hintenTranslate this word using only lowercase alphanumeric characters (a..z, 0..9). Use '_' character instead of spaces. First character should be a..z character. If you cannot use latin characters in your language, use english word.	Translate this word using only lowercase alphanumeric characters (a.. z, 0.. 9). Use '_' character instead of spaces. First character should be a.. z character. If you cannot use latin characters in your language, use english word.
+Berichttooltip	tooltip
+Neuen Bericht erstellenwhat's this	what' s this
+Kopiere	Skoč
+Exportiere	Skoč
+falsch	Zasunyć
+Primärschlüssel hinzufügenDo Not Add Database Primary Key to a Table	Do Not Add Database Primary Key to a Table
+Die Daten wurden erfolgreich in die Tabelle„ %1“ importiert.Text type for column	Text type for column
+Währungrow count	Wutřihaćrow count
+(Zeilen: %1)row count	row count
+Tagdo not reorder placeholders, just translate e.g. and - to the separator used by dates in your language	do not reorder placeholders, just translate e. g. and - to the separator used by dates in your language
+Tabellenfeld„ %1“ einfügenTranslate this word using only lowercase alphanumeric characters (a..z, 0..9). Use '_' character instead of spaces. First character should be a..z character. If you cannot use latin characters in your language, use english word.	Translate this word using only lowercase alphanumeric characters (a.. z, 0.. 9). Use '_' character instead of spaces. First character should be a.. z character. If you cannot use latin characters in your language, use english word.
+tabelletooltip	tooltip
+Neue Tabelle erstellenwhat's this	what' s this
+UntertypImage object type	Image object type
+Sichtbare DezimalstellenAuto Decimal Places	Auto Decimal Places
+Gebundene Spalte	Po & špaltach
+& PrimÃ¤rschlÃ¼ssel hinzufügenIdentifier%1	Identifier% 1
+Tabellenfeldâ %1â Empty table row	Empty table row
+Optionen	Knefl za móžnosće
+Spalte 1	Po & špaltach
+KWord HTML-ExportfilterDescriptive encoding name	Descriptive encoding name
+Empfohlen (%1)Descriptive encoding name	Descriptive encoding name
+KWord Importfilter für einfachen TextDescriptive encoding name	Descriptive encoding name
+Tabelle %1Object name	Object name
+Bild %1Frameset name	Frameset name
+Kopfzeile für gerade Seiten	Hłowa za rune strony
+Kopfzeile für ungerade Seiten	Hłowa za njerune strony
+Fußzeile für gerade Seiten	Nóžka za rune strony
+Fußzeile für ungerade Seiten	Nóžka za njerune strony
+Kopfzeile für erste Seite	Hłowa za prěnju stronu
+Fußzeile für erste Seite	Nóžka za prěnju stronu
+KWord Microsoft Write-ImportfilterFrameset name	Frameset name
+Fußnote %1Table_Name Cell row,column	Frameset name
+AbiWord-ImportfilterFrameset name	Frameset name
+Speichern des Dokuments nicht möglichObject name	Object name
+Tabellenrahmen %1Pseudo-author for annotations	Pseudo- author for annotations
+Land (%1)	Tabulka% 1
+Folie kopieren	Sćin
+Erste Folie	Sćin
+Letzte Folie	Sćin
+Normal	Normalizować
+Objekt bearbeiten	Forma
+Folienlayouts	Sćin
+Seiteneffekt erstellen	& Wobrazowy efekt:
+Seiteneffekt bearbeiten:	& Wobrazowy efekt:
+Seiteneffekt löschen	& Wobrazowy efekt:
+Schwarz	Barby:
+Linie	Smuha
+Form	Forma
+Objekte & anordnen	Objekty & rjadować
+Typ	Typ
+Rechtschreibprüfung	Prawopisna kontrola
+Autokorrektur	Samokorektura
+Werkzeuge	Nastroje
+Ergebnis der Rechtschreibprüfung	Wuslědki prawopisneje kontrole
+PräsentationNAME OF TRANSLATORS	NAME OF TRANSLATORS
+Thomas Diehl, Jannick KuhrEMAIL OF TRANSLATORS	EMAIL OF TRANSLATORS
+Schließen	Barby:
+Folien	Sćin
+& Folie	Sćin
+Schlangen in Kasten	& Wobrazowy efekt:
+Zwei Kästen links beginnend	& Wobrazowy efekt:
+Zwei Kästen rechts beginnend	& Wobrazowy efekt:
+Zwei Kästen links endend	& Wobrazowy efekt:
+Wasserfall	& Wobrazowy efekt:
+Parallele Schlangen	& Wobrazowy efekt:
+Diag. oben links gegenläufig beginnend	& Wobrazowy efekt:
+Spirale	Kužoł
+Im Uhrzeigersinn oben li. beginnend	& Wobrazowy efekt:
+Im Uhrzeigersinn oben li. endend	& Wobrazowy efekt:
+Im Uhrzeigersinn oben re. beginnend	& Wobrazowy efekt:
+Im Uhrzeigersinn unten li. beginnend	& Wobrazowy efekt:
+Im Uhrzeigersinn unten li. endend	& Wobrazowy efekt:
+Ggn. Uhrzeigersinn oben li. beginnend	& Wobrazowy efekt:
+Ggn. Uhrzeigersinn oben li. endend	& Wobrazowy efekt:
+Ggn. Uhrzeigersinn unten li. beginnend	& Wobrazowy efekt:
+Ggn. Uhrzeigersinn unten li. endend	& Wobrazowy efekt:
+Schlange	Forma
+Rechteck	& Wobrazowy efekt:
+Pfeilspitze	& Wobrazowy efekt:
+Doppelter Schwung	& Wobrazowy efekt:
+Parallel diagonal oben links	& Wobrazowy efekt:
+Parallel diagonal unten links	& Wobrazowy efekt:
+Parallel diagonal oben links invertiert	& Wobrazowy efekt:
+Parallel diagonal unten links invertiert	& Wobrazowy efekt:
+Windrad	& Wobrazowy efekt:
+Uhr	Barby:
+Saloon-Tür	& Wobrazowy efekt:
+Windschutzscheibe	& Wobrazowy efekt:
+Doppelter Fächer	& Wobrazowy efekt:
+Einzelner Schwung	& Wobrazowy efekt:
+Im Uhrzeigersinn links	& Wobrazowy efekt:
+Einschieben	Sćin
+An Ecken endend	Kontrast
+Verschiedenes diagonal	& Wobrazowy efekt:
+Scheunentor	& Wobrazowy efekt:
+Diagonal unten links	& Wobrazowy efekt:
+Diagonal oben links	& Wobrazowy efekt:
+Diagonal	& Wobrazowy efekt:
+Scheunentor zickzack	& Wobrazowy efekt:
+KThesaurus - Synonyme auflisten	KThesaurus - synonymowy słownik
+Begriff, nach dem beim Start gesucht werden sollNAME OF TRANSLATORS	Słowo, za kotrymž ma so při startowanju pytać
+Thomas Diehl, Jannick KuhrEMAIL OF TRANSLATORS	Edward WornarEMAIL OF TRANSLATORS
+thd@kde.org, opensource@kuhr.org	e. werner@ rz. uni- leipzig. de
+Allgemein	generalny
+Anzahl Seiten:	Čisło:
+Anzahl Rahmen:	Čisło:
+Anzahl Abbildungen:	Čisło:
+Anzahl Tabellen:	Čisło:
+Wörter:	Kromy
+Silben:	Stil:
+Ostasiatische Zeichen	Napohlad
+Haupttextbereich erstellen	in
+Spalten	Špalta
+Anlegen	Nowe.
+Lesezeichen auswählen	Znamješko do knihi wubrać
+Lesezeichen	Lubušk.
+Name des Rahmensatzes:	Mjeno:
+Neuen Rahmensatz erstellen:	Tekst
+Name für Rahmensatz	Nałožić
+Position	Pozicija
+Breite:	Šěrokosć:
+Höhe:	Wysokosć:
+Unten:	Deleka:
+Oben:	Horjeka:
+Rechts:	Prawy:
+Links:	Lěwy:
+Neues Lesezeichen erstellen	Nowe znamješko do knihi
+Lesezeichen ermöglichen es Ihnen, zwischen Abschnitten Ihres Dokuments zu springen. Bitte geben Sie den Namen Ihres Lesezeichens ein.	Znamjenja do knihi Wam dowola z jednoho městna Wašeho dokumenta na druhe skočić. Prošu zapodajće pomjenowanje za tute znamješko do knihi.
+Neue Seite erstellen	Tekst
+Textlayout in anderen Rahmen	Layout Tekst in Druhe
+Text durchfließt diesen Rahmen	& Tekst
+Seite umfließen	Tekst
+Links	Pozicija
+Rechts	Pozicija
+Spalten:	Špalta
+Spaltenabstand:	Standard:
+Wörter	Kromy
+...	Nowy...
+Automatisch neu zählen	Awtomatisce
+& Datei	Wuslědk & filtra
+AnzeigemodusInsert menu	pokazowanjeInsert menu
+& Format	Format
+& Rahmen	Ramiki
+Autokorrektur	Awtomatiska korektura
+& Einstellungen	Wšelčizny
+Bearbeiten	Sortěrować
+Tabelle	Tabulka
+Absatz	Wotrězk
+Schriftart	PIsmo.
+Umrandungen	Kromy
+Serienbrief	Do mejlki zapřijeć
+Formel	Formula
+Variable ändern inStyle name	Wariablu změnić naStyle name
+StandardStyle name	StilStyle name
+Überschrift 1	Stil
+Überschrift 2	Stil
+Überschrift 3	Stil
+Nummerierte ListeStyle name	StilStyle name
+Alphabetische ListeStyle name	StilStyle name
+Aufzählungszeichen	Stil
+Inhalt-TitelStyle name	StilStyle name
+Inhalt-Überschrift 1Style name	StilStyle name
+Inhalt-Überschrift 2Style name	StilStyle name
+Inhalt-Überschrift 3Style name	StilStyle name
+DokumenttitelStyle name	StilStyle name
+Kopfzeile	StilStyle name
+Fußzeile	StilStyle name
+EinfachStyle name	StilStyle name
+Umrandung 1Style name	StilStyle name
+Umrandung 2Style name	StilStyle name
+Umrandung 3Style name	StilStyle name
+Zeile	StilStyle name
+Spalte	StilStyle name
+HellgrauStyle name	StilStyle name
+DunkelgrauStyle name	StilStyle name
+SchwarzStyle name	StilStyle name
+HellblauStyle name	StilStyle name
+DunkelblauStyle name	StilStyle name
+RotStyle name	StilStyle name
+GelbStyle name	StilStyle name
+FarbenfrohStyle name	StilStyle name
+BläulichStyle name	StilStyle name
+Einfach 1Style name	StilStyle name
+Einfach 2Style name	StilStyle name
+Einfach 3Style name	StilStyle name
+Überschrift 1Style name	StilStyle name
+Überschrift 2Style name	StilStyle name
+Überschrift 3Style name	StilStyle name
+Überschrift 4Style name	StilStyle name
+Spalten 1Style name	StilStyle name
+Spalten 2Style name	StilStyle name
+Gitter 1Style name	StilStyle name
+Gitter 2Style name	StilStyle name
+Gitter 3Style name	StilStyle name
+Graue ÜberschriftStyle name	StilStyle name
+Blaue ÜberschriftStyle name	StilStyle name
+Blau traditionellStyle name	StilStyle name
+Grau traditionellStyle name	StilStyle name
+Oben und unten blauStyle name	StilStyle name
+Textrahmen verbinden	Tekst
+Geometrie	Wotstronić
+Textumfluss	Tekst
+Rahmensatz	Ramiki
+Lesezeichen umbenennen	Znamješko do knihi wubrać
+Zu öffnende Datei	Dataja
+Seite entfernen	Wotstronić
+Seiteneigenschaften	Swójstwa
+Benutzerdefinierten Umriss erstellen	Tekst
+Rahmen erstellen	Tekst
+Seite einfügen	Zasunyć
+Rahmen löschen	Zničić
+Haupttext	Zasunyć
+Rahmen/Rahmensatz-Eigenschaften	Swójstwa.
+Rahmensatz-Eigenschaften ändern	wobdźěłać
+Seitenumbruch	Strona
+Rahmen nach vorne	Zasunyć
+Den aktiven Rahmen vor alle anderen bringen	Zawěsćić in in.
+Rahmen nach hinten	Sunyć
+Ganz nach vorne	Změnić Tekst
+Variable	Zasunyć
+Lesezeichen...	Lubušk.
+Lesezeichen auswählen...	Lubušk.
+Bild einfügen...	Zasunyć
+Rahmenumrandungen	Kromy ramika nastajeć
+Seitenlayout...	Strona & Layout.
+Indexseite	Zasunyć
+Seite löschen	Zničić
+Formatierungszeichen	Napohlad
+Alle Rahmen auswählen	Zničić
+Umrisse erstellen	Tekst
+Gespeichert	Zawěsćić
+Seite: %1/%2	Strona
+KFormula	Formula
+Kopie	Kopěrować
+Bei Erstellung von neuen Seiten	Zapnyte Nowe Strona
+(Keine Übereinstimmung)	(Žadyn wotpowědnik)
+Suchen nach:	& Pytaj:
+Suchen@action:button Go back to the previous word in history	Pytaj@ action: button Go back to the previous word in history
+Sprache ändern...	Rěč wubrać...
+Sinnverwandte Wörter	Synonymy
+Allgemeinere Ausdrücke	Powšitkowniše słowa
+Speziellere Ausdrücke	Specielniše słowa
+& Ersetzen durch:@action:button Close thesaurus dialog	& Narunaj z: @ action: button Close thesaurus dialog
+& Ersetzen	& Narunaj
+Wort ersetzen	& Narunaj
+Verwandte Wörter - %1	Přiwuzne słowa -% 1
+Die Thesaurusdatei„ %1“ ist nicht auffindbar. Bitte benutzen Sie„ Sprache ändern“, um eine solche Datei auszuwählen.	Njemóžach thesaurusowu dataju '% 1' namakać. Prošu wužiwajće "Rěč wubrać", zo byšće dataju wubrali.
+Fehler: Das Programm„ grep“ ließ sich nicht ausführen.	Zmylk: Njemóžach grep startować. Powěsć:% 1
+Sinnverwandte u. übergeordnete Wörter (nach Häufigkeit)	Synonymy/ hyperonymy - po frekwency rjadowane
+Sinnverwandte Wörter (nach Ähnlichkeit; nur Verben)	Synonymy - rjadowane po bliskosći woznama
+Gegensätze (Antonyme)	Antonymy - słowa z napřećiwnym woznamom
+Untergeordnete Wörter (Hyponyme): %1	Hyponymy -... je (specielna družina)% 1
+Meronym (Teil eines Ganzen in der Art von: %1 hat ein...)	Meronymy -% 1 ma...
+Holonyme (Gesamtheit, die %1 als Teil enthält)	Holonymy -... ma% 1
+Attribute	Atributy
+Verbumfang (Anwendungsbeispiele)	Walencne ramiki (přikłady wužiwanja)
+Liste zusammengesetzter Wörter	Lisćina zestajanych słowow
+Bedeutungsübersicht	Přehlad woznamow
+Fehler: Ausführung des WordNet-Programms„ wn“ fehlgeschlagen. WordNet muss auf Ihrem Rechner installiert sein, wenn Sie es benutzen möchten, und„ wn“ muss sich in Ihrem PATH befinden. WordNet erhalten Sie unter http://www.cogsci.princeton.edu/~wn /. Beachten Sie, dass WordNet nur die englische Sprache unterstützt.	Zmylk: Njemóžach WordNet- program 'wn' startować. WordNet dyrbi być instalowany, chceće- li jón wužiwać a 'wn' dyrbi we wašim PATH być. Móžeće WordNet dóstać wot http: // www. cogsci. princeton. edu/ ~wn /. WordNet pak jenož jendźelšćinu podpěruje.
+Keine Fundstellen für„ %1“	Žadyn wotpowědnik za '% 1'.
+Druckerverwaltung als normaler Benutzer Manche Verwaltungsfunktionen im Druckbereich erfordern die Rechte des Systemverwalters (Benutzer root). Drücken Sie auf den Knopf„ Systemverwaltungsmodus“, um das Modul mit diesen Rechten zu starten.	Rjadowanje ćišćaka jako wšědny wužiwar Někotre operacije móhli sej prawa administratora žadać. Stłóčće na "Administratorowy modus", zo byšće tutón grat z prawami administratora startowali.
+KDE-Druckerverwaltung	KDE rjadowanje ćišćenja
+Michael Goffioul	(c) 2000 - 2002 Michael Goffioul
+Fehlender Druckbefehl.	Přikaz za ćišćenje prózdny.
+PostScript-Drucker	PS_ ćišćak
+Erstellung von PostScript-Dateien	Generator za PostScriptowe dataje
+A3	A3
+B4	B4
+B5	B5
+Deaktiviert	Znjemóžnjene
+Ghostscript-Einstellungen	Parametry za GhostScript
+Treiber	Ćěrjak
+Auflösung	Rozpušćenje
+Farbtiefe	Ličba barbow
+Zusätzliche Ghostscript-Optionen	Dalše opcije za GS
+Seitenformat	Wulkosć strony
+Seiten pro Blatt	Kelko stronow na łopjeno
+Linker/rechter Rand (1/72 Zoll)	Lěwa/ prawa kroma (1/ 72 in)
+Oberer/unterer Rand (1/72 Zoll)	Hornja/ delnja kroma (1/ 72 in)
+Text-Optionen	Opcije za tekst
+EOF (Dateiende-Signal) senden, um die Seite auszuwerfen	Pósćel EOF po zakónčenju ćišćenja, zo by so łopjeno wućisnyło.
+Treppenartigen Text ausgleichen	Schodojty tekst wurunać
+Schnelle Druckausgabe (nur für Nicht-PostScript-Drucker)	Spěšne ćišćenje teksta (nic za PS- ćišćaki)
+Die ausführbare Datei %1 ist über Ihren PATH nicht auffindbar. Überprüfen Sie die Installation.	Program% 1 njesteji w puću. Přepruwuj swoju instalaciju.
+Lokaler Drucker (parallel, seriell, USB)	Lokalny ćišćak (paralelny, serielny, USB)

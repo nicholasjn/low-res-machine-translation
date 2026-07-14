@@ -1,0 +1,51 @@
+de	hsb
+% der Originalgröße	% přirodneje wulkosće wobraza
+% der Seite	% strony
+%1 %2	% 1% 2Name
+%1 (%2x%3 Pixel)Media controller status message when the media is loading	% 1 (% 2x% 3) dypkowMedia controller status message when the media is loading
+%1 - [%2]	% 1 [% 2]
+%1 / %2Spectators not allowed	Spectators not allowed
+%1 Byte	% 2 (% 1 bytes)
+%1 Byte(s)	% 2 (% 1 bytes)
+%1 GB	% 1 GiB
+%1 KB	% 1 KiB
+%1 MB	% 1 MiB
+%1 Minuten %2 SekundenMedia time description	Media time description
+%1 Stunden %2 Minuten %3 SekundenMedia time description	Media time description
+%1 TB	% 1 TiB
+%1 einrichten	% 1 konfigurować
+%1 einrichten	Konfiguruju% 1
+%1 enthält ungültige Daten.	% 1 a% 2
+%1 hat %2 gewonnen	% 1% z% 2
+%1 hat Sie zu einem unbegrenzten Spiel eingeladenIf the format of the (U) and (R) strings is changed, it should also be changed here	If the format of the (U) and (R) strings is changed, it should also be changed here
+%1 is the nick, %2 is the message	% 1 is the nick,% 2 is the message
+%1 ist ein unbekannter Schema-Typ.	% 1 - njeznata družina
+%1 ist ein ungültiger %2	% 1 a% 2
+%1 ist ein ungültiger Schalter für reguläre Ausdrücke. Gültige Schalter sind:	@ item: intext days and hours. This uses the previous item: intext messages. If this does not fit the grammar of your language please contact the i18n team to solve the problem
+%1 ist ein ungültiger regulärer Ausdruck als Suchmuster: %2	Njekorektny prawidłowny wuraz
+%1 ist kein gülties XML-1.0-Zeichen.	'% 1' njeje walidny QLayout.
+%1 ist kein gültiger Name für die Kodierung.	'% 1' njeje walidny QWidget.
+%1 ist kein gültiger Name für die Kodierung.	'% 1' njeje walidny QWidget. Socket error code NotSupported
+%1 ist kein gültiger Name für eine Prozessing-Instruktion.	'% 1' njeje walidny QLayout.
+%1 ist kein gültiger Name für einen Vorlagenmodus.	'% 1' njeje walidny QWidget.
+%1 ist kein gültiges Zahlwort.	'% 1' njeje walidny QLayout.
+%1 ist ungültig als Wert vom Typ %2.	'% 1' njeje walidny QLayout.
+%1 kann nicht als Eingabe geöffnet werden.	Njemóžu dataju% 1 čitać
+%1 kann nicht geöffnet werden: Es handelt sich um einen Ordner.	Njemóžu dataju% 1 čitać
+%1 kann nicht geöffnet werden: Pfad ist ein OrdnerQNetworkAccessFileBackend	Njemóžu dataju% 1 čitać
+%1 represents the error message	% 1 represents the error message
+%1 wird gefiltert...	% 1 filtruju...
+%1 wird hochgeladen	Kopěrjuju% 1 na server
+%1 wird übersprungen...	% 1 sym přeskočił...
+%1%QPrintPreviewDialog	F% 1
+%1:	% 1:% 2
+%1: Ausführung fehlgeschlagen mit Meldung: %2	% 1: wuwjedźenje je so zwrěšćiło z powěsću:% 2
+%1: Schlüssel-Fehler	Družinowy zmylk
+%1: UNIX-Schlüssel-Datei ist nicht vorhanden	Dataja% 1 njeeksistuje
+%1: Zugriff verweigertQSystemSemaphore	QSystemSemaphore
+%1: bereits vorhanden	Tag% 1 hižo eksistuje
+%1: bereits vorhanden	Tag% 1 hižo eksistujeSocket error code NotBound
+%1: bereits vorhandenQSystemSemaphore	Tag% 1 hižo eksistuje
+%1: ftok fehlgeschlagen	% 1 dataja
+%1: nicht vorhanden	Dataja% 1 njeeksistuje
+%1: nicht vorhanden	Dataja% 1 njeeksistujeQSystemSemaphore

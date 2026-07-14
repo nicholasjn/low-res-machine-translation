@@ -1,0 +1,438 @@
+de	hsb	likely_reason
+LPD-Druckerwarteschlange auf Fremdrechner	LPD- rynk na druhim ličaku	other_or_resplit
+Unbekannt	Njeznaju	other_or_resplit
+Unknown Driver	Unknown Driver	identical
+Drucken	Ćišćeć	other_or_resplit
+Drucker	Ćišćak	other_or_resplit
+Typ:	Družina:	other_or_resplit
+Kommentar:	Komentar:	other_or_resplit
+& Drucken	Ćišćeć	other_or_resplit
+Beim Laden der Druckerliste ist ein Fehler aufgetreten:	Zmylk je so stał při dóstawanju lisćiny ćišćakow	other_or_resplit
+Sofort	Hnydom	other_or_resplit
+Standard	Standard	identical
+Benutzername:	Mjeno wužiwarja:	other_or_resplit
+& Passwort:	Škitne & hesło:	other_or_resplit
+& Abbrechen	& Přetorhnyć	other_or_resplit
+Keine	Žane	other_or_resplit
+Rechner:	Server:	other_or_resplit
+Port:	Port:	identical
+Zugelassene Benutzer	Wužiwarjo z přistupom	other_or_resplit
+Nicht zugelassene Benutzer	Wužiwarjo bjez přistupa	other_or_resplit
+Ordner	Filter	other_or_resplit
+Name	Mjeno	other_or_resplit
+Wert	Hódnota	other_or_resplit
+Nur lesen	Jenož čitać	other_or_resplit
+Server	Server	identical
+HP-GL/2-Optionen	HP- GL/ 2- opcije	length_ratio
+IPP-Druckerinformationen	Informacija wo IPP- ćišćaku	length_ratio
+URI:	URI:	identical
+& Port:	& Port:	identical
+& Passwort:	& Hesło:	other_or_resplit
+Proxy	Proxy	identical
+Drucksystem	Ćišćenski system	other_or_resplit
+Angehalten	zastajene	other_or_resplit
+Abgebrochen	přetorhnjene	other_or_resplit
+Gerät:	Grat:	other_or_resplit
+Symbole,Liste,Baum	& Piktogramy, & Lisćina, Štomik	length_ratio
+Entfernen	Wotstronić	other_or_resplit
+& Einrichten...	Konfiguracija...	other_or_resplit
+%1-Webseite	& Domjaca strona% 1	length_ratio
+Hinzufügen	Dodaj	other_or_resplit
+Dokumentation	Dokumentacija	other_or_resplit
+Assistent für die Druckereinrichtung	Dodaj ćišćakoweho kuzłarja	other_or_resplit
+USB	USB	identical
+Beschreibung:	Wopisanje:	other_or_resplit
+Modell:	Model:	other_or_resplit
+Allgemeine Einstellungen	Powšitkowne nastajenja	other_or_resplit
+& Einstellungen	& Nastajenja	other_or_resplit
+Durchsuchen	Pytaj	other_or_resplit
+Vorschau	Přehladka	other_or_resplit
+Hersteller:	Fabrikant:	other_or_resplit
+Modell:	Model:	other_or_resplit
+Beschreibung:	Wopisanje:	other_or_resplit
+& Test	& Test	identical
+Ändern...	Změnić...	other_or_resplit
+Rohdaten-Drucker	ćišćak za syre daty	length_ratio
+Status	Staw	other_or_resplit
+& Wiederaufnehmen	& Pokročować	other_or_resplit
+Entfernen	Wotstronić	other_or_resplit
+Aktualisieren	Ponowić	other_or_resplit
+Anhalten	Zastajić	other_or_resplit
+Fortsetzen	Pokročować	other_or_resplit
+Entfernen	Wotstronić	other_or_resplit
+Kommentar	Komentar	other_or_resplit
+Bestätigung	Wobkrućenje	other_or_resplit
+Beschreibung	Wopisanje	other_or_resplit
+Gerät	Grat	other_or_resplit
+Port	Port	identical
+Nach & oben	& Horje	other_or_resplit
+& Hinzufügen	Dodaj	other_or_resplit
+Abbrechen	Přetorhnyć	other_or_resplit
+& Beschreibung:	& Wopisanje:	other_or_resplit
+& Format:	& Format:	identical
+Befehl:	Přikaz:	other_or_resplit
+Änderungen anwenden	Změny přiwzać	other_or_resplit
+Datei:	Dataja:	other_or_resplit
+Filter	Filter	identical
+Neuer Befehl	Nowy přikaz	other_or_resplit
+& Auswählen...	& Přelistuj...	other_or_resplit
+Name:	Mjeno:	other_or_resplit
+Neu...	Nowy...	other_or_resplit
+Test...	Test...	identical
+(Standard)	(standard)	other_or_resplit
+Eigenschaften	Swójstwa	other_or_resplit
+& Adresse:	& Městno:	other_or_resplit
+Datei öffnen	Dataju wočinić	other_or_resplit
+Modul-Informationen:	Informacija wo & wotličenju:	length_ratio
+ISO A4	ISO A4	identical
+Folio	Folio	identical
+Tabloid	Tabloid	identical
+Wert:	Hódnota:	other_or_resplit
+& Alle	& Wšitke	other_or_resplit
+Seiten	Strony	other_or_resplit
+Poster	Poster	identical
+& Exportieren...	& Eksportować...	other_or_resplit
+Filter	Filtry	other_or_resplit
+Befehl:	Přikaz:	other_or_resplit
+Fax/Modem-Gerät:	& Faksowy/ Modemowy nastroj:	length_ratio
+A4	A4	identical
+& Name:	& Mjeno:	other_or_resplit
+& Firma:	& Firma:	identical
+Thomas Diehl,Thomas ReitelbachEMAIL OF TRANSLATORS	EMAIL OF TRANSLATORS	other_or_resplit
+Drucker/Druckziel	Ćišćak/ cil na kotryž ma so ćišćeć	length_ratio
+Druckerwarnung	Ćišćenske warnowanje	other_or_resplit
+Druckerfehler	Ćišćenski zmylk	other_or_resplit
+(c) 2006-2008, die KDE-Entwickler	Copyright 2006- 2008, KDE skupina	other_or_resplit
+Aaron J. Seigo	Aaron J. Seigo	identical
+Autor und Betreuer	Awtor a zastaraćel	other_or_resplit
+Thomas ReitelbachEMAIL OF TRANSLATORS	Edward WornarEMAIL OF TRANSLATORS	other_or_resplit
+tr@erdfunkstelle.de	edi. werner@ gmx. de	length_ratio
+Autor	Awtor	other_or_resplit
+NAME OF TRANSLATORS	NAME OF TRANSLATORS	identical
+EMAIL OF TRANSLATORS	EMAIL OF TRANSLATORS	identical
+GenericName	GenericName	identical
+Name	Name	identical
+Name	Name	identical
+Sie können hier Ihre Gamefu-Sammlung konfigurieren.Name	Name	length_ratio
+Sie können hier den Emulator für jedes System konfigurieren.Name	Name	length_ratio
+Sie können hier die allgemeinen Module konfigurieren.Name	Name	length_ratio
+Gamefu - Eine KDE Alle-Maschinen-Emulator-Oberfläche für UNIXName	Name	length_ratio
+Game Boy Advance ROM-DateiName	Name	length_ratio
+Game Boy/Game Boy Color ROM-DateiName	Name	length_ratio
+Füllt das Titelbild und ein Bildschirmfoto in eine Datenbank.Name	Name	length_ratio
+Wählt ein zufälliges ROM aus der Datenbank aus.Name	Name	length_ratio
+Fügt die Unterstützung für Game Boy Advance in Gamefu hinzuName	Name	length_ratio
+Fügt die Unterstützung für Game Boy/Game Boy Color in Gamefu hinzuName	Name	length_ratio
+Fügt die Unterstützung für Sega Genesis/Megadrive in Gamefu hinzuName	Name	length_ratio
+Fügt die Unterstützung für MAME in Gamefu hinzuName	Name	length_ratio
+Fügt die Unterstützung für Nintendo Entertainment System in Gamefu hinzuName	Name	length_ratio
+Fügt die Unterstützung für Super Nintendo Entertainment System in Gamefu hinzuName	Name	length_ratio
+GenericName	GenericName	identical
+SPIEL BEENDET. Sie haben gewonnen!Comment	Comment	length_ratio
+Sie haben das aktuelle Backgammonspiel gewonnenName	Name	length_ratio
+SPIEL BEENDET. Sie haben verloren!Comment	Comment	length_ratio
+Sie haben das aktuelle Backgammonspiel verlorenName	Name	length_ratio
+Sie sind dran zu würfeln oder den Einsatz zu verdoppelnName	Name	length_ratio
+Sie sind dran zu würfelnName	Name	length_ratio
+Comment	Comment	identical
+Name	Name	identical
+Comment	Comment	identical
+Name	Name	identical
+GenericName	GenericName	identical
+Name	Name	identical
+Description	Description	identical
+Name	Name	identical
+Description	Description	identical
+Standard-Design für Kigo in KDE 4Name	Name	length_ratio
+Name	Name	identical
+SpielName	HraName	other_or_resplit
+StandardDescription	StandardDescription	identical
+Standard-Design für Kombination in KDE 4Name	Name	length_ratio
+Das altertümliche afrikanische ZahlenspielName	Name	length_ratio
+Ein Browser für Online-SpieleserverName	Name	length_ratio
+Description	Description	identical
+Name	Name	identical
+Name	Name	identical
+Name	Name	identical
+Die erste Karte für Testzwecke.Name	Name	length_ratio
+Ein Tic-Tac-Toe Spiel für KDEComment	Comment	length_ratio
+Comment	Comment	identical
+Name	Name	identical
+Comment	Comment	identical
+Name	Name	identical
+Comment	Comment	identical
+Name	Name	identical
+Comment	Comment	identical
+Name	Name	identical
+Name	Name	identical
+Comment	Comment	identical
+Name	Name	identical
+Comment	Comment	identical
+Name	Name	identical
+Comment	Comment	identical
+Name	Name	identical
+Description	Description	identical
+Name	KCharselect unicode block name	length_ratio
+Ein abstraktes Design mit hohem Kontrast.Name	Name	length_ratio
+Ein Spiel zum Puzzle-Lösen.Name	Name	length_ratio
+Name	Name	identical
+Das Standard-Design mit grünen Knöpfen.Name	Name	length_ratio
+& Datei	& Dataja	other_or_resplit
+Öffnen	Wočinić	other_or_resplit
+Speichern unter	Zawěsćić jako	other_or_resplit
+& Spiel	& Hra	other_or_resplit
+& Ansicht	& Přehladka	other_or_resplit
+Haupt-Werkzeugleiste	Hłowny nastrojowy pas	other_or_resplit
+Abbrechen	Přetorhnyć	other_or_resplit
+...	...	identical
+OK	OK	identical
+Einstellungen	Nastajenja	other_or_resplit
+International	Mjezynarodny	other_or_resplit
+EMAIL OF TRANSLATORS	EMAIL OF TRANSLATORS	identical
+Dies ist die Statusleiste. Sie zeigt in der rechten Ecke das zurzeit eingestellte Spielprogramm an.	Comment	length_ratio
+Allgemein	Generelnje	other_or_resplit
+Information	informacija	other_or_resplit
+Optionen	Operacija	other_or_resplit
+Dies ist das Haus des Spielbrettes. Je nach Richtung des Spiels enthält eines der beiden Häuser die Würfel und das andere die Spielsteine, die vom Brett entfernt wurden. Spielsteine, die einmal im Haus sind, können aus diesem nicht mehr herausgenommen werden. Wenn dieses Haus die Würfel enthält und der Spielstand dies zulässt, so werden die Würfel durch einen Doppelklick geworfen. Außerdem kann sich der Verdoppelungswürfel auf der Werkzeugleiste befinden. Wenn verdoppelt werden kann, so geschieht dies durch einen Doppelklick darauf.	@ note- with- label/ plain% 1 is the note label,% 2 is the text	length_ratio
+Wiederaufnehmen	Pokročować	other_or_resplit
+Passwort:	Hesło:	other_or_resplit
+%1 will mit Ihnen ein gespeichertes Spiel fortsetzenU means unlimited	U means unlimited	length_ratio
+Zurück	Wróćo	other_or_resplit
+Ablehnen	Wotpokazać	other_or_resplit
+Status	Status	identical
+Client	Client	identical
+Aktualisieren	Aktualizowanje	other_or_resplit
+& Wiederaufnehmen	& Pokročować	other_or_resplit
+Ablehnen	& Wotpokazać	other_or_resplit
+Autor	Awtor	other_or_resplit
+& Spiel	& Hra	other_or_resplit
+& Hilfe	Pomoc	other_or_resplit
+Haupt-Werkzeugleiste	Hłowny nastrojowy pas	other_or_resplit
+& Datei	& Dataja	other_or_resplit
+Haupt-Werkzeugleiste	Hłowny nastrojowy pas	other_or_resplit
+Zusammenfassung:	Zjeće:	other_or_resplit
+EMAIL OF TRANSLATORS	EMAIL OF TRANSLATORS	identical
+& Datei	& Dataja	other_or_resplit
+Haupt-WerkzeugleisteNAME OF TRANSLATORS	Hłowny nastrojowy pasNAME OF TRANSLATORS	other_or_resplit
+EMAIL OF TRANSLATORS	EMAIL OF TRANSLATORS	identical
+%1 is the nick, %2 is the message	% 1 is the nick,% 2 is the message	other_or_resplit
+Kommentar	Komentar	other_or_resplit
+Ablehnen	& Wotpokazać	other_or_resplit
+& Annehmen	& Přiwzać	other_or_resplit
+Name	Mjeno	other_or_resplit
+Fehler	Zmylk	other_or_resplit
+Status	Status	identical
+Bereit	Hotowo	other_or_resplit
+Name:	Mjeno:	other_or_resplit
+& Sprache:	& Rěč:	other_or_resplit
+Kommentar:	Komentar:	other_or_resplit
+Abbrechen	Přetorhnyć	other_or_resplit
+OK	OK	identical
+1	1	identical
+2	2	identical
+& OK	& OK	identical
+& Abbrechen	& Přetorhnyć	other_or_resplit
+EMAIL OF TRANSLATORS	EMAIL OF TRANSLATORS	identical
+Herz	Znowa startowaćkeyboard- key- name	length_ratio
+Fehler	Zmylk	other_or_resplit
+Hauptfenster	Hłownewokno	other_or_resplit
+Allgemein	Generelnje	other_or_resplit
+Johannes ObermayrEMAIL OF TRANSLATORS	EMAIL OF TRANSLATORS	other_or_resplit
+Start	Započeć	other_or_resplit
+Beenden	Kónc	other_or_resplit
+Bereit	Hotowo	other_or_resplit
+Keine	Žane	other_or_resplit
+Einstellungen	Nastajenja	other_or_resplit
+Burkhard LückEMAIL OF TRANSLATORS	EMAIL OF TRANSLATORS	other_or_resplit
+NAME OF TRANSLATORS	NAME OF TRANSLATORS	identical
+Farben	Barby	other_or_resplit
+& DateiNAME OF TRANSLATORS	& DatajaNAME OF TRANSLATORS	other_or_resplit
+EMAIL OF TRANSLATORS	EMAIL OF TRANSLATORS	identical
+Hauptfenster	Hłownewokno	other_or_resplit
+Hinzufügen	Dodać	other_or_resplit
+EMAIL OF TRANSLATORS	EMAIL OF TRANSLATORS	identical
+DirectShow9Comment	DirectShow9Comment	identical
+GStreamerComment	GStreamerComment	identical
+Videoaufnahme-TestanwendungName	Testowa aplikacija za widejo- captureName	length_ratio
+videocapturetestappName	videocapturetestappName	identical
+XineComment	XineComment	identical
+& Name:	Mjeno	other_or_resplit
+Vorschau	Ćišćowa přehladkakeyboard- key- name	length_ratio
+& Rückgängig	Wróćo	other_or_resplit
+& Einfügen	& Zasunyć	other_or_resplit
+LRE Beginn der Links-nach-rechts-EinbettungQUnicodeControlCharacterMenu	QUnicodeControlCharacterMenu	length_ratio
+RLE Beginn der Rechts-nach-links-EinbettungQUnicodeControlCharacterMenu	QUnicodeControlCharacterMenu	length_ratio
+LRO Beginn der Links-nach-rechts-ÜberschreibungQUnicodeControlCharacterMenu	QUnicodeControlCharacterMenu	length_ratio
+LateinQFontDatabase	akcija1@ item Text character set	length_ratio
+GriechischQFontDatabase	Grjekske@ item Text character set	length_ratio
+KyrillischQFontDatabase	KyriliskeKCharselect unicode block name	length_ratio
+ArmenischQFontDatabase	armenšćina@ item Calendar system	length_ratio
+HebräischQFontDatabase	hebrejsce@ item Text character set	length_ratio
+ArabischQFontDatabase	ArabskeKCharselect unicode block name	length_ratio
+SyrischQFontDatabase	SyrišćinaKCharselect unicode block name	length_ratio
+ThaanaQFontDatabase	ThaanaKCharselect unicode block name	length_ratio
+DevanagariQFontDatabase	DevanagariKCharselect unicode block name	length_ratio
+BengalischQFontDatabase	BengaliKCharselect unicode block name	length_ratio
+GurmukhiQFontDatabase	GurmukhiKCharselect unicode block name	length_ratio
+GujaratiQFontDatabase	GujaratiKCharselect unicode block name	length_ratio
+OriyaQFontDatabase	OriyaKCharselect unicode block name	length_ratio
+TamilQFontDatabase	TamilKCharselect unicode block name	length_ratio
+TeluguQFontDatabase	TeluguKCharselect unicode block name	length_ratio
+KannadaQFontDatabase	KannadaKCharselect unicode block name	length_ratio
+MalayalamQFontDatabase	MalayalamKCharselect unicode block name	length_ratio
+SinhalaQFontDatabase	Sinhala@ item Text character set	length_ratio
+ThailändischQFontDatabase	TailandskeKCharselect unicode block name	length_ratio
+LaotischQFontDatabase	LaošćinaKCharselect unicode block name	length_ratio
+TibetischQFontDatabase	TibetšćinaKCharselect unicode block name	length_ratio
+MyanmarQFontDatabase	MyanmarKCharselect unicode block name	length_ratio
+GeorgischQFontDatabase	georgišćinaKCharselect unicode block name	length_ratio
+KhmerQFontDatabase	KhmerQFontDatabase	identical
+JapanischQFontDatabase	Japanske@ item Text character set	length_ratio
+SymbolQFontDatabase	SymboleKCharselect unicode block name	length_ratio
+OgamQFontDatabase	OghamKCharselect unicode block name	length_ratio
+Nein	Ně	other_or_resplit
+Wiederherstellen	Znowa činićkeyboard- key- name	length_ratio
+Pos1QShortcut	Pos1Banner page at end	length_ratio
+Name	Mjeno	other_or_resplit
+ZurückForward context menu item	Wróćo	length_ratio
+Ledger	KCharselect unicode block name	length_ratio
+Legal	Bengali@ label center justify	length_ratio
+Ungültiger Dateiname	njekorektne opcije	other_or_resplit
+GrößeMatch OS X Finder	Wulkosć	length_ratio
+Schriftart	& PIsmo@ option: check	length_ratio
+Schriftstil	Stil pisma@ option: check	length_ratio
+Durchgestrichen	Přešmórnjene@ action underline selected text	length_ratio
+SeitenbreiteQPrintPreviewDialog	Na šěrokosć strony připrawić	length_ratio
+UnbekanntTitle string for images	njeznate	length_ratio
+Aktiviert das Hauptfenster des ProgrammsQSoftKeyManager	QSoftKeyManager	length_ratio
+LeertasteQShortcut	Spacij/ Mjezotakeyboard- key- name	length_ratio
+Bild abQShortcut	StronuDele	other_or_resplit
+Zahlen-FeststelltasteQShortcut	NumLock	other_or_resplit
+AnhaltenReload context menu item	Stop	length_ratio
+Suchen	Pytać	other_or_resplit
+VorwärtsQShortcut	DoprědkaQShortcut	other_or_resplit
+QShortcut	QShortcut	identical
+Schließen	Začinić	other_or_resplit
+KopierenBack context menu item	Kopěrować	length_ratio
+AusschneidenPaste context menu item	Wutřihać	length_ratio
+QShortcut	QShortcut	identical
+MenüQShortcut	MeniQShortcut	other_or_resplit
+Adresse	akcija1	other_or_resplit
+QShortcut	KCharselect unicode block name	length_ratio
+QShortcut	QShortcut	identical
+QShortcut	QShortcut	identical
+AnrufenQShortcut	ZwołaćKCharselect unicode block name	length_ratio
+Strg	Strgkeyboard- key- name	other_or_resplit
+Umschalt	Wulkopisanjekeyboard- key- name	other_or_resplit
+pm	popołdnju	other_or_resplit
+Öffnen	Wočinić	other_or_resplit
+& Abbrechen	& Přetorhnyć	other_or_resplit
+Schließen	& Začinić	other_or_resplit
+Anwenden	Wužij	other_or_resplit
+Zurücksetzentext that appears at the start of nearly-obsolete web pages in the form of a 'searchable index'	Stary staw	length_ratio
+AbbrechenQDialogButtonBox	& Přetorhnyćkeyboard- key- name	length_ratio
+Minimieren	Minimalizować	other_or_resplit
+Maximieren	Minimalizować	other_or_resplit
+Fensterheber	Shanbedictionary name.% 1- language and% 2- variant name	length_ratio
+Wiederherstellen	Znowa startowaćkeyboard- key- name	length_ratio
+Nächstes kann nicht geholt werdenQODBCResult	QODBCResult	length_ratio
+Erste kann nicht geholt werdenQODBCResult	QODBCResult	length_ratio
+Verbindungsaufbau nicht möglich	Komponentu spřistupnić	other_or_resplit
+Transaktion kann nicht ausgeführt werdenQIBaseDriver	QIBaseDriver	length_ratio
+Transaktion kann nicht rückgängig gemacht werdenQMYSQLResult	QMYSQLResult	length_ratio
+Spalte kann nicht zur Stapelausfürung gebunden werdenQOCIResult	Parametry miniprograma	length_ratio
+„ Gehe zum Nächsten“ ist nicht möglichQOCIResult	Komponentu spřistupnić	length_ratio
+Transaktion kann nicht begonnen werdenQSQLite2Result	QSQLite2Result	length_ratio
+Zeile kann nicht geholt werdenQODBCResult	QODBCResult	length_ratio
+Vorherige kann nicht geholt werdenQODBCResult	QODBCResult	length_ratio
+Abfrage kann nicht ausgeführt werdenQMYSQLResult	QMYSQLResult	length_ratio
+Daten können nicht geholt werdenQMYSQLResult	QMYSQLResult	length_ratio
+Ergebnis kann nicht gespeichert werdenQMYSQLResult	QMYSQLResult	length_ratio
+Nächste Abfrage kann nicht ausgeführt werdenQMYSQLResult	QMYSQLResult	length_ratio
+Nächstes Ergebnis kann nicht gespeichert werdenQMYSQLResult	QMYSQLResult	length_ratio
+Ausgabewert kann nicht gebunden werdenQMYSQLResult	QMYSQLResult	length_ratio
+Zeile kann nicht abgeholt werdenQSQLiteResult	QSQLiteResult	length_ratio
+Durch Konsument ausgelöster FehlerQXml	QXml	length_ratio
+Ungültiger Name für die VerarbeitungsanweisungQXml	QXml	length_ratio
+Beim Lesen der XML-Deklaration wurde eine Versionsangabe erwartetQXml	QXml	length_ratio
+Falscher Wert für EinzeldeklarationQXml	QXml	length_ratio
+Es wurde eine Dekodierungs- oder Einzeldeklaration beim Lesen der XML-Deklaration erwartetQXml	QXml	length_ratio
+Es wurde eine Einzeldeklaration beim Lesen der XML-Deklaration erwartetQXml	QXml	length_ratio
+Bei der Feststellung des Dokumenttyps ist ein Fehler aufgetretenQXml	QXml	length_ratio
+Interne allgemeine Entität-Referenz ist nicht zulässig in der DTDQXml	QXml	length_ratio
+Extern eingelesene, allgemeine Entität-Referenz ist nicht zulässig bei AttributwertenQXml	QXml	length_ratio
+Extern eingelesene, allgemeine Entität-Referenz ist nicht zulässig in der DTDQXml	QXml	length_ratio
+Nicht eingelesene Entität-Referenz im falschen KontextQXml	QXml	length_ratio
+Unbekannter FehlerLeft to Right context menu item	Njeznaty zmylkDear Translator! Translate this string to the string 'LTR' in left- to- right languages (as English) or to 'RTL' in right- to- left languages (such as Hebrew and Arabic) to get proper widget layout.	length_ratio
+Ungültiges Dokument	Njekorektny serwer	other_or_resplit
+Falsche Syntax für ZeichenklasseQRegExp	QRegExp	length_ratio
+Falsche Syntax für VorausschauenQRegExp	QRegExp	length_ratio
+%1: ftok fehlgeschlagen	% 1 dataja	other_or_resplit
+Fehler beim Öffnen von %1: %2	Zmylk při wočinjenju PTY	other_or_resplit
+Unbekannter Fehler	Njeznaty zmylk	other_or_resplit
+Netzwerk-Zeitüberschreitung	sym předołho na zwisk čakał	length_ratio
+%1 ist ungültig als Wert vom Typ %2.	'% 1' njeje walidny QLayout.	other_or_resplit
+%1 ist ein ungültiger regulärer Ausdruck als Suchmuster: %2	Njekorektny prawidłowny wuraz	other_or_resplit
+Die Variable %1 wird nicht verwendet	Wudawany user- agent '% 1' so wužiwa.	other_or_resplit
+Der Name %1 referenziert keinen Schema-Typ.	Biblioteka '% 1' njeposkića funkciju '% 2'.	other_or_resplit
+Netzwerkfehler	Nowe	other_or_resplit
+Operation nicht unterstützt für %1	operacija so njepodpěruje	other_or_resplit
+Ungültiger Dateiname	njekorektne opcije	other_or_resplit
+Adresstyp wird nicht unterstützt	pominana družina socketa so njepodpěruje	other_or_resplit
+Socket ist nicht verbunden	socket njeje wjazany	other_or_resplit
+Einzelschritt	Step Intokeyboard- key- name	length_ratio
+Zurück	& Předchadna stronaOpposite to Previous	length_ratio
+nbsp;Die Suche hat das Ende erreicht	QScriptBreakpointsModel	length_ratio
+Protokolltyp wird nicht unterstützt	pominana družina socketa so njepodpěruje	other_or_resplit
+Phonon::MMF::EffectFactory	Phonon:: MMF:: EffectFactory	other_or_resplit
+QShortcut	keyboard- key- name	other_or_resplit
+Einfügen	Zasunyć	other_or_resplit
+Netzwerkfehler	NoweSocket error code NotSupported	length_ratio
+Netzwerkfehler	Nowe	other_or_resplit
+Unbekannter Fehler	Njeznaty zmylk	other_or_resplit
+Hinweis: Die grundlegenden GStreamer-Module scheinen nicht installiert zu sein. Daher wurden alle Audio- und Video-Funktionen deaktiviert.	@ note/ plain	length_ratio
+Absendendefault label for Reset buttons in forms on web pages	Wotpósłać	length_ratio
+Datei auswÃ¤hlentext to display in file button used in HTML forms when no file is selected	Wubrać...	length_ratio
+Bild kopierenOpen Frame in New Window context menu item	Wobraz kopěrować	length_ratio
+VorwärtsStop context menu item	Doprědka	length_ratio
+Im Internet suchenLook Up in Dictionary context menu item	Pytać	length_ratio
+Rechtschreibung prÃ¼fenCheck spelling while typing context menu item	Přepruwuj prawopis	length_ratio
+Rechtschreibung während dem Schreiben prüfenCheck grammar with spelling context menu item	Přepruwuj prawopis	length_ratio
+UmrandungWriting direction context sub-menu item	Opcija	length_ratio
+RichtungText direction context sub-menu item	Wopisanje	length_ratio
+Rechte KanteInspect Element context menu item	Naprawo	length_ratio
+InspizierenLabel for only item in menu that appears when clicking on the search field image, when no searches have been performed	Zasunyć	length_ratio
+Keine kürzlichen Suchenlabel for first item in the menu that appears when clicking on the search field image, used as embedded menu title	Žane zapisy	length_ratio
+Media controller status message when watching a live broadcast	Media controller status message when watching a live broadcast	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media controller element	Media controller element	identical
+Media time description	Media time description	identical
+Media time description	Media time description	identical
+%1 Tage %2 Stunden %3 Minuten %4 SekundenMedia time description	Media time description	length_ratio
+Durchgestrichendefault label for Submit buttons in forms on web pages	Přešmórnjene	length_ratio
+Einfügen	Zasunyć	other_or_resplit
+Eingabe	Zapodać	other_or_resplit
+Weniger	Testy	other_or_resplit
+Umschalter für mehrere Eingabemethoden, der das Kontextmenü von Text-Eingabefeldern verwendetQPrintPreviewDialog	@ action	length_ratio
+aRts	aRts	identical
+Esound (ESD)	Esound (ESD)	identical
+PulseAudio	PulseAudio	identical

@@ -1,0 +1,14 @@
+Deduplicated original test-set creation
+Original test pairs: 2000
+
+Dedup vs original train:
+Removed pairs: 188
+Remaining pairs: 1812
+Output: D:\Desktop\26ss\NLP\data\splits_original_test_dedup_vs_original_train
+
+Dedup vs cleaned train:
+Removed pairs: 147
+Remaining pairs: 1853
+Output: D:\Desktop\26ss\NLP\data\splits_original_test_dedup_vs_cleaned_train
+
+Removed-pair TSVs: D:\Desktop\26ss\NLP\outputs\data_leakage_check

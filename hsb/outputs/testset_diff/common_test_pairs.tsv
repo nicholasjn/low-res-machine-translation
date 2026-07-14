@@ -1,0 +1,1564 @@
+de	hsb
+LPD-Druckerwarteschlange auf Fremdrechner	LPD- rynk na druhim ličaku
+SMB-Druckressource (Windows)	zhromadny SMB- ćišćak (Windows)
+Netzwerkdrucker (TCP)	syćowy ćišćak (TCP)
+Dateidrucker (Drucken in Datei)Unknown type of local printer queue	Datajowy pseudoćišćak (ćišći do dataje) Unknown type of local printer queue
+Lokale Druckerwarteschlange (%1)	Lokalny ćišćenski rynk (% 1)
+LPD-Druckerwarteschlange auf Fremdrechner: %1@%2	LPD- rynk na druhim ličaku% 1 @% 2
+Erstellung des Ordners %1 für Warteschlange des Druckers %2 ist nicht möglich.	Njemóžu spoolowy zapisk% 1 za ćišćak% 2 stworić.
+Speichern der Informationen für Drucker %1 ist nicht möglich.	Njemóžu informaciju wo ćišćaku% 1 zawěsćić.
+Einrichten der korrekten Zugriffsrechte für Warteschlangenordner %1 des Druckers %2 ist nicht möglich.	Njemóžu prawe přistupne prawa nastajić za zapisk% 1 ćišćaka% 2.
+Zugriff verweigert: Sie müssen sich als Systemverwalter anmelden.	Njeje dowolene. Dyrbiće root być.
+Ausführen des Befehls„ %1“ ist nicht möglich.	Njemóžu přikaz "% 1" wuwjesć.
+Schreiben der printcap-Datei ist nicht möglich.	Njemóžu dataju printcap pisać.
+Der Treiber %1 ist in der printtool-Datenbank nicht vorhanden.	Njemóžach ćěrjak% 1 w datowej bazy printtoola namakać.
+Der Drucker %1 ist printcap-Datei nicht vorhanden.	Njemóžach ćišćak% 1 dataji printcap namakać.
+Kein Treiber auffindbar (raw printer)	Žadyn ćěrjak (syre daty)
+Druckertyp nicht erkannt.	Njespóznaju družinu ćišćaka.
+Der Treiber für das Gerät %1 ist in Ihrer Ghostscript-Distribution nicht einkompiliert. Bitte überprüfen Sie die Installation oder verwenden Sie einen anderen Treiber.	Ćišćakowy ćěrjak% 1 njebu do wašeho GhostScripta zakompilowany. Přepruwuj swoju instalaciju abo wubjerće hinaši ćěrjak.
+Schreiben der zugehörigen Treiberdateien im Warteschlangenordner ist nicht möglich.	Njemóžu za ćěrjak trěbne dataje do spooloweho zapiska pisać.
+APS-Treiber (%1)	APS- ćěrjak (% 1)
+Netzwerkdrucker (%1)	Syćowy ćišćak (% 1)
+Nicht unterstütztes Ausgabegerät: %1.	Njepodpěrowany backend:% 1
+Erstellen des Ordners %1 nicht möglich.	Njemóžu zapisk% 1 stworić.
+Fehlendes Element: %1.	Falowacy element:% 1.
+Ungültige Druckerspezifikation: %1	Njekorektna specifikacija za ćišćakowy ćěrjak:% 1
+Erstellen der Datei %1 nicht möglich.	Njemóžu dataju% 1 stworić.
+Es wurde kein APS-Treiber festgelegt.	APS- ćěrjak njeje definowany.
+Entfernen des Ordners %1 nicht möglich.	Njemóžu zapisk% 1 zničić.
+Unbekannt (Eintrag ist nicht zuzuordnen)	Njeznaty zapis
+Druckerwarteschlange (%1) auf %2	Dalokorynk (% 1) na% 2
+Lokaler Drucker an %1	Lokalny ćišćak na% 1
+Unbekannter Eintrag.	Njeznaty zapis.
+Die Datei printcap befindet sich auf einem fremden Rechner (NIS). Sie kann nicht gespeichert werden.	Printcap- dataja njeje lokalna (NIS). Njemóžu do njeje pisać.
+Die Datei„ printcap“ lässt sich nicht speichern. Überprüfen Sie, ob Sie Schreibrecht dafür besitzen.	Njemóžu printcap- dataju zawěsćić. Přepruwujće, hač směće do tuteje dataje pisać.
+Interner Fehler: Kein Handler angegeben.	Nutřkowny zmylk: žadyn handler definowany.
+Der Ordner für die Druckerwarteschlange kann nicht ermittelt werden. Siehe Optionen-Dialog.	Njewěm, hdźe je spoolowy zapisk. Pohladaj do opcijowy dialog.
+Erstellung des Ordners %1 für die Druckerwarteschlange ist nicht möglich. Stellen Sie sicher, dass Sie die erforderlichen Berechtigungen besitzen.	Njemóžu spoolowy zapisk% 1 stworić. Přepruwujće, hač maće trěbne přistupne prawa za tutu operaciju.
+Der Drucker wurde im System erstellt, aber der Druckdienst lässt sich nicht neu starten. %1	Ćišćak bu stworjeny, ale ćišćenski demon njehodźeše so znowa startować.% 1
+Entfernen des Warteschlangenordners %1 ist nicht möglich. Sie haben wahrscheinlich keine ausreichende Berechtigung für diesen Vorgang.	Njemóžu spoolowy zapisk% 1 zničić. Přepruwujće, hač maće prawo pisanja za tutón zapisk.
+& Printcap-Eintrag bearbeiten...	& Zapis do printcap wobdźěłać
+Die Bearbeitung eines Printcap-Eintrags sollte nur durch den Systemverwalter geschehen. Andernfalls wird der Drucker vielleicht nicht mehr funktionieren. Möchten Sie fortsetzen?	Manualne zapisy w printcap- dataji wobdźěłać měł jenož nazhonity administrator. To móže tomu zadźěwać, zo ćišćak funguje. Chceće woprawdźe pokročować?
+Warteschlangentyp: %1	Spoolowa družina:% 1
+Aktion wird nicht unterstützt.	Njepodpěrowana operacija.
+Druckerwarteschlange	Spooler
+Einstellungen zur Warteschlange	Nastajenje spoolera
+Die ausführbare Datei %1 ist über Ihren PATH nicht auffindbar.	Program% 1 njeje so w wašim PATH namakał.
+Zugriff verweigert.	Njeje dowolene.
+Drucker %1 existiert nicht.	Ćišćak% 1 njeeksistuje.
+Unbekannter Fehler: %1	Njeznaty zmylk:% 1
+Ausführung von lprm nicht möglich: %1	Njemóžu lprm startować:% 1
+unbekannt	njeznaju
+IFHP-Treiber (%1)	IFHP- ćěrjak (% 1)
+Es wurde kein Treiber für diesen Drucker festgelegt. Vielleicht handelt es sich um einen Rohdaten-Drucker.	Žadyn ćěrjak za tutón ćišćak definowany. Snadź bjerje syre daty (raw printer).
+LPRngTool-Standardtreiber (%1)	LPRngTool Common Driver (% 1)
+Netzwerkdrucker	Syćowy ćišćak
+Interner Fehler.	Nutřkowny zmylk.
+Es ist keine ausführbare Foomatic-Datendatei über Ihren PATH auffindbar. Vergewissern Sie sich, dass Foomatic korrekt installiert ist.	Njenamakam program foomatic- datafile w wašim PATH. Přepruwujće, hač je Foomatic korektnje instalowany.
+Erstellen des Foomatic-Treibers fehlgeschlagen (%1,%2). Entweder existiert der Treiber nicht an der erwarteten Position oder Sie haben keine ausreichende Berechtigung für diesen Vorgang.	Njemóžu Foomatic- ćěrjak stworić [% 1,% 2]. Pak ćěrjak njeeksistuje, abo nimaće trěbne prawa, zo by tutu akciju wukonjał( a).
+Sie haben wahrscheinlich keine ausreichende Berechtigung für diesen Vorgang.	Najskerje nimaće prawa, zo by tutu operaciju wuwjedł.
+Ausführbare Datei„ lpdomatic“ ist nicht auffindbar. Bitte vergewissern Sie sich, dass Foomatic korrekt und in einem der üblichen Pfade installiert ist.	Njejsym program lpdomatic namakał. Přepruwuj, hač je Foomatic prawje instalowany a hač je lpdomatic na standardnym městnje instalowany.
+Entfernen der Treiberdatei %1 ist nicht möglich.	Njemóžu ćěrjakowu dataju% 1 zničić.
+Aliase:	Dalše pomjenowanja:
+Zeichenkette	string
+Zahl	Čisło
+Boolsch	Booleowy
+Printcap-Eintrag: %1	Zapis w printcap:% 1
+Aufstellungsort des Druckers: Der Aufstellungsort kann eine Angabe enthalten, wo sich der Drucker befindet. Diese Angabe wird vom Verwalter des Drucksystems vorgenommen (kann aber auch fehlen).	Městno so wužiwa za wopisowanje stejnišćo ćišćaka. Wopisowanje napisa administrator systema, móže so pak tež wuwostajić.
+Kommentar zum Drucker: Der Kommentar kann den ausgewählten Drucker beschreiben. Diese Angabe wird vom Verwalter des Drucksystems vorgenommen (kann aber auch weggelassen werden).	Městno so wužiwa za wopisowanje stejnišćo ćišćaka. Wopisowanje napisa administrator systema, móže so pak tež wuwostajić.
+& Name:Status	& Mjeno: Status
+Status:	Staw:
+Aufstellungsort:	Městnosć:
+& Eigenschaften	Swójstwa
+Systemoptionen	Systemowe & opcije...
+Als Standard	Jako & standard postajić
+Drucker-Auswahlliste ein-/ausschalten	Njemóžu lisćinu ćišćakow dóstać.
+Drucker hinzufügen...	Ćišćak dodać...
+& Drucken	Ćišćeć
+Druckvorschau	Přehladka
+& Ausgabedatei:	Dataja za & output:
+Druckbefehl:	Přikaz za ćišćenje:
+Erweiterte Optionen ein-/ausblenden	Pokaž opcije za pokročenych
+Dialog nach Abschluss des Druckvorgangs geöffnet lassen	& Njezačiń tutón dialog po ćišćenju
+Beim Laden der Druckerliste ist ein Fehler aufgetreten:	Zmylk je so stał při dóstawanju lisćiny ćišćakow
+Es fehlt der Name der Ausgabedatei.	Dataja za output nima mjeno.
+Sie haben keine Schreibberechtigung für diese Datei.	Nimaće prawa do tuteje dataje pisać.
+Ausgabeordner existiert nicht.	Dataja abo zapisk% 1 njeeksistuje.
+Sie haben keine Schreibberechtigung für diesen Ordner.	Nimaće prawo do tutoho zapiska pisać.
+& Optionen > >	& Opcije
+Drucksystem wird initialisiert...	Initializuju ćišćenski system...
+In Datei drucken	Do dataje ćišćeć
+Alle Dateien	Wšitke dataje
+Optionen	Opcije za pokročenych
+Niemals (unbegrenzt anhalten)	Ženje (čaka wěčnje)
+Nachts	Prawy:
+Wochenende	Kónc tydźenja
+Dritte Schicht (nach Mitternacht)	Třeća změna (12. 00- 20. 00)
+Angegebene Zeit	Definowany čas
+Zeitversetztes & Drucken:	& Plan za ćišćenje:
+& Abrechnungsinformationen:	Informacija wo & wotličenju:
+Seitenbeschriftung & oben und unten:	Markěrowanja na stronach horjeka/ deleka:
+Auftragspriorität:	& Priorita nadawka:
+Der angegebene Zeitpunkt ist ungültig.	Specifikowany čas njeje walidny.
+Kein Vorspann/Nachspann	Žana chorhoj
+Verschlusssache	Interna informacija
+Vertraulich	Dowěrliwy
+Geheim	Tajna informacija
+Streng geheim	Cyle tajna informacija
+Keine Verschlusssache	Žana interna informacija
+Textauswahl für Trennseiten	Wubjerće chorhoje
+& Vorspann:	& Startowanska chorhoj:
+& Nachspann:	& Kónčna chorhoj:
+Wählen Sie Vor- und Nachspann, die mit diesem Drucker verknüpft werden sollen. Dieser Vor- bzw. Nachspann wird vor und/oder nach jedem Druckvorgang an den Drucker gesendet und auf separaten Trennseiten ausgedruckt. Wenn Sie keine solchen Seiten einfügen möchten, dann wählen Sie Kein Vorspann/Nachspann.	Wubjerće chorhoji, kiž maja so z tutym ćišćakom zwjazać. Tutej chorhoji so zasuwaja před a po kóždym ćišćenskim nadawku, kiž so ćišćakej sćele. Njechaće- li chorhoji wužiwać, wubjerće Žana chorhoj
+& Exportieren	& Eksportowanje
+Druckertreiber für Windows-Rechner anbieten	Ćišćek za Windows eksportować
+& Samba-Server:	& Samba server:
+Samba-Server Die Adobe PostScript-Treiber für Windows sowie die passende CUPS-PPD-Datei für den Drucker wird in die spezielle Ressource [print$] des Samba-Servers exportiert. (Um die Adresse des CUPS-Servers zu ändern, verwenden Sie zunächst Verwaltung einrichten - > CUPS-Server). Die Ressource [print$] muss bereits auf Seiten von Samba existieren, bevor Sie auf den Knopf Exportieren klicken.	Samba server Adobe Windows PostScript- ćěrjaki a CUPS PPD so jako specialna zhromadna resursa [print$] Samba- servera eksportuje (hdyž chceće CUPS- server změnić, wužiwaj Konfiguracija - > CUPS server). Zhromadna resursa [print$] dyrbi eksistować, prjedy hač deleka na eksportować kliknješ.
+Samba-Benutzername Der Benutzer muss Schreibzugriff auf die Ressource [print$] auf dem Samba-Server besitzen. [print$] enthält Druckertreiber, die sich von Windows-Stationen herunterladen lassen. Dieser Dialog funktioniert nicht für Samba-Server mit der Einstellung security = share (wohl aber mit security = user).	Samba- wužiwar Wužiwarjo dyrbja měć prawo pisanja na zhromadnu resursu [print$] na Samba- serveru. W [print$] su ćěrjaki za ćišćaki, přihotowane za Windowsowe ličaki. Dialog njefunguje ze Samba- serverami, konfigurowanymi z security = share (ale funguje derje za security = user).
+Samba-Passwort Die Samba-Einstellung encrypt passwords = yes (Standard) erfordert die vorherige Verwendung des Befehls smbpasswd -a [username] zur Erzeugung und Initialisierung eines verschlüsselten Samba-Passworts.	Samba- hesło Nastajenje Samba encrypt password = yes (standard) sej najprjedy wuwjedźenje přikaza smbpasswd - a [mjeno wužiwarja] žada za stworjenje šifrowaneho hesła za Samba.
+Ordner %1 wird erstellt	Stworju zapisk% 1
+%1 wird hochgeladen	Kopěrjuju% 1 na server
+Treiberinstallation für %1	Instaluju ćěrjak za% 1
+Drucker %1 wird installiert	Instaluju ćišćak% 1
+& Schließen	Klasy
+Treiber wurde erfolgreich exportiert.	Ćěrjak wuspěšnje eksportowany.
+Vorgang fehlgeschlagen. Mögliche Gründe: Zugriff verweigert oder fehlerhafte Samba-Einrichtung (nähere Informationen unter cupsaddsmb, Sie benötigen CUPS in Version 1.1.11 oder höher). Versuchen Sie es eventuell erneut mit einem anderen Benutzernamen und/oder Passwort.	Akcija je so zwrěšćiła. Móžnej přičinje stej dosahace prawa abo njekorektna Samba- konfiguracija (hlej přiručkowu stronu cupsaddsmb dla dalšeje informacije, móžno je, zo trjebaće CUPS - wersiju 1. 1. 11 abo wyšu). Abo spytaj hišće raz z hinašim mjenom wužiwarja a hesłom.
+Vorgang abgebrochen (Prozess beendet).	Akcija přetorhnjena (proces wottřěleny).
+Operation fehlgeschlagen %1	Akcija je so zwrěšćiła!% 1
+Sie sind im Begriff, den Treiber %1 durch Samba an Windows-Clients zu exportieren. Dazu benötigen Sie den Adobe-PostScript-Treiber, eine aktuelle Version von Samba 2.2.x und einen laufenden SMB-Service auf dem Zielserver. Klicken Sie auf Export, um die Operation zu starten. Lesen Sie die Handbuchseite zu cupsaddsmb in Konqueror oder geben Sie man cupsaddsmb in einem Konsolenfenster ein, falls Sie weitere Informationen zu dieser Funktionalität benötigen.	Přihotujeće ćěrjak% 1 za zhromadne wužiwanje wot Windowsowych ličakow přez Samba. Tuta operacija sej žada Adobe PostScript Driver,, nowšu wersiju Samba 2. 2. x a běžacy SMB- service na cilowym serveru. Klikńće na Eksportować, zo by akciju započała. Čitajće přiručkowu stronu cupsaddsmb z Konquerorom abo zapodajće man cupsaddsmb w přikazowym woknje, zo by wjace wo tutej funkcionalnosći zhonił.
+Einige Treiberdateien fehlen. Sie sind über die Webseiten von Adobe erhältlich. Weitere Details finden Sie auf der Handbuchseite cupsaddsmb (Sie benötigen CUPS in Version 1.1.11 oder höher).	Někotre ćěrjakowe dataje faluja. Móžeće je wot Adobe dóstać. Hlej přiručkowu stronu cupsaddsmb dla nadrobnišich informacijow (trjebaće CUPS - wersiju 1. 1. 11 abo nowšu).
+Übertragung des Treibers zu Rechner %1 wird vorbereitet	Přihotuju pósłanje ćěrjaka na server% 1
+Treiber für Drucker %1 ist nicht aufzufinden.	Ćěrjak za ćišćak% 1 njehodźeše so namakać.
+Installation des Treibers auf Rechner %1 wird vorbereitet	Přihotuju instalaciju ćěrjaka na serveru% 1
+Auswahl eines IPP-Druckers an Fremdrechner	Wubraće IPP- ćišćaku na druhim ličaku
+Sie müssen einen Drucker angeben.	Dyrbiće ćišćak wubrać!
+Sie haben keinen Zugriff auf die angeforderte Ressource.	Snadź nimaće prawa na resursu pisać.
+Sie sind nicht authorisiert, auf die angeforderte Ressource zuzugreifen.	Nimaće prawo tutón service startować.
+Die angegebene Operation ist nicht ausführbar.	Pominana akcija so njehodźeše zakónčić
+Der angeforderte Dienst ist momentan nicht verfügbar.	Server sej% 1 pomina, njesteji pak k dispoziciji.
+Verbindung zu CUPS-Server fehlgeschlagen. Überprüfen Sie, ob der CUPS-Server korrekt installiert wurde und aktiviert ist.	Zwisk na CUPS- server je skóncowany. Přepruwuj, zo je CUPS- server korektnje instalowany a zo běži.
+IPP-Anfrage ist aus unbekanntem Grund fehlgeschlagen.	IPP- pominanje je so z njeznatych přičin zwrěšćiło.
+Attribut	Atribut
+Werte	Hódnoty
+Wahr	Prawje
+Falsch	Wopak
+& Zeitraum:	& Časowy wobłuk:
+Größenbeschränkung (KB):	& Wobmjezowanje wulkosće (KB):
+& Seitenbeschränkung:	& Wobmjezowanje ličbow stron:
+Nutzungsbeschränkungen	Wobmjezowanje pomjatka
+Einstellungen zur Nutzungsbeschränkung (Quota)	Nastajenja wobmjezowanja pomjatka
+Ohne Nutzungsbeschränkung	Žane wobmjezowanja
+IPP-Server auf Fremdrechner	IPP- server na druhim ličaku
+Geben Sie hier Informationen zu demjenigen nicht-lokalen IPP-Server an, zu dem der Zieldrucker gehört. Der Assistent wird den Server abfragen, bevor Sie fortfahren.	zapodajće informaciju wo IPP- serveru na ličaku, na kotrymž běži cilowy ćišćak. Tutón kuzłar budźe so ze serverom do zwiska stajeć, prjedy hač pokročujemy.
+Fehlender Servername.	Mjeno servera faluje.
+Ungültige Portangabe.	Njekorektne portowe čisło!
+Verbindung zu %1 auf Port %2 nicht möglich.	Njemóžu so skontaktować z% 1 na porće% 2!
+Vorspann/Nachspann	Chorhoje
+Trennseiten-Einstellungen	Nastajenje chorhojow
+IPP-Bericht	IPP- rozprawa
+Interner Fehler: Erstellen eines HTML-Reports ist nicht möglich.	Nutřkowny zmylk: Njemóžu HTML- rozprawu generować.
+Einstellungen zu Benutzerzugriffen	Nastajenja přistupa za wužiwarja
+Benutzer	Wužiwarjo
+Zugelassene Benutzer	Wužiwarjo z přistupom
+Nicht zugelassene Benutzer	Wužiwarjo bjez přistupa
+Erstellen Sie hier eine Gruppe von zugelassenen oder nicht zugelassenen Benutzern für diesen Drucker.	Tu móžeće skupinu wužiwarjow definować, kiž smědźa abo njesmědźa tutón ćišćak wužiwać.
+& Typ:	& Družina:
+Text	Tekst
+Textformat	Tekstowy format
+Syntaxhervorhebung	Wuzběhowanje syntaksy
+Ränder	Kromy
+Zeichen pro Zoll (cpi):	& Pismiki po inchu:
+Zeilen pro Zoll (lpi):	& Linki po inchu
+Spalten:	Špalty:
+& Deaktiviert	Znjemóžnjene
+Aktiviert	Zmóžnjene
+Einstellungen für CUPS-Ordner	Nastajenja CUPS- servera
+Installationsordner	Instalaciski zapisk
+Standardinstallation (/)	Standardowa instalacija (/)
+Zusätzliche Einstellungen	Dalše opcije za ghostscript
+Das Feld„ Name“ darf keine Leerzeichen, Tabulatoren oder Anführungszeichen enthalten: %1.	W mjenje njesmědźa być mjezoty:% 1.
+& CUPS-Server (IPP/HTTP) auf Fremdrechner	CUPS- server na & druhim computeru (IPP/ HTTP)
+Netzwerkdrucker (IPP/HTTP)	Syćowy ćišćak (IPP/ HTTP)
+Serielles & Fax / Modemdrucker	Serielny faks/ modemowy ćišćak
+& Sonstiger Druckertyp	Hinaša & družina ćišćaka
+Druckerklasse	Klasa ćišćakow
+Priorität	Priorita
+Abrechnungsinformationen	Wotličenska informacija
+Serielles Faxgerät	Serielny faksowy grat
+Wählen Sie das Gerät aus, an das Ihr serielles Fax/Modem angeschlossen ist.	Wubjerće grat, na kotryž je waš serielny faks/ modem přizamknjeny.
+Sie müssen ein Gerät auswählen.	Dyrbiće grat wubrać.
+Bibliotheksdatei„ cupsdconf“ ist nicht aufzufinden. Überprüfen Sie bitte Ihre Installation.	Njemóžach biblioteku libcupsdconf namakać. Přepruwuj instalaciju.
+Symbol %1 ist in der Bibliothek„ cupsdconf“ nicht aufzufinden.	Njemóžach symbol% 1 w libcupsdconf namakać.
+Treiber exportieren...	Ćěrjak & eksportować...
+& IPP-Bericht für Drucker	IPP- rozprawa wo ćišćaku...
+IPP-Bericht für %1	IPP- rozprawa za% 1
+Fehler bei der Übermittlung von Druckerinformationen:	Njemóžach informaciju wo ćišćaku dóstać. Zmylk:
+IPP-Anfrage aus unbekannten Gründen fehlgeschlagen	IPP- pominanje je so z njeznateje přičiny zwrěšćiło
+Verbindung zu CUPS-Server fehlgeschlagen. Überprüfen Sie, ob der CUPS-Server korrekt installiert wurde und aktiv ist. Fehler: %1.	Zwisk z CUPS- serverom je skóncowany. Přepruwuj, hač je CUPS- server korektnje instalowany a zo běži. Zmylk:% 1.
+Verbindungsaufbau abgelehnt	zwisk wotpokazany
+Rechner ist nicht auffindbar	njejsym host namakał
+Lesen fehlgeschlagen (%1)	Njemóžach dataju% 1 čitać
+Die Verbindung zum CUPS-Server ist fehlgeschlagen. Überprüfen Sie, ob der CUPS-Server korrekt installiert wurde und aktiv ist. Fehler: %2: %1	Zwisk z CUPS- serverom je skóncowany. Přepruwuj, hač je CUPS- server korektnje instalowany a zo běži. Zmylk:% 1.
+& Nur schwarzen Stift verwenden	Jenož & čorny pisak wužiwać
+& Plot auf Seite einpassen	& Plot na wulkosć strony připrawić
+& Stiftbreite:	Šěrokosć pisaka:
+Drucker-URI:	& URI ćišćaka:
+Geben Sie entweder direkt die URI des Druckers an oder benutzen Sie das Programm zum Durchsuchen des Netzwerks.	Pak zapodajće URI ćišćaku direktnje, abo wužiwaj móžnosć, syć přepytować.
+& IPP-Bericht	IPP- rozprawa
+Sie müssen eine Drucker-URI angeben.	Dyrbiće URI ćišćaka zapodać!
+Kein Drucker an dieser Adresse / diesem Port.Unknown host - 1 is the IP	Njemóžach pod tutej adresu a portom žadyn ćišćak namakać! Unknown host - 1 is the IP
+< unbekannt > (%1)	(% 1)
+Name: %1	Mjeno:% 1
+Adresse: %1	Městno:% 1
+Beschreibung: %1	Wopisanje:% 1
+Modell: %1	Model:% 1
+Inaktiv	lěnjeho pase
+Angehalten	Zastajene
+Verarbeitung läuft...	Wobličuju... Unknown State
+Status: %1	Staw:% 1
+Druckerinformationen können nicht abgefragt werden. Drucker antwortet: %1	Njemóžu informaciju wot ćišćaka dóstać. Ćišćak wotmołwi:% 1
+IPP-Report lässt sich nicht erzeugen: IPP-Anfrage erzeugt die Meldung %1 (0x%2).	Njemóžu rozprawu generować. IPP- pominanje je so zwrěšćiło z powěsću:% 1 (0x% 2).
+URI-Auswahl	URI wubrać
+Geben Sie die Adresse (URI) für den zu installierenden Drucker an. Beispiele: smb://[login[:passwd]@]server/printer lpd://server/queue parallel:/dev/lp0	zapodajće URI ćišćaka, kiž ma so instalować. Na přikład: smb: // [wužiwar [: hesło] @] server/ ćišćak lpd: // server/ rynk parallel: / dev/ lp0
+CUPS-Server %1:%2	CUPS- server
+Serverinformation	Informacija wo serveru
+Zugangsinformationen	Informacija wo konće
+& Rechner:	& Server
+Benutzer:	& Wužiwar:
+& Passwort in Einrichtungsdatei speichern	Konfiguracisku dataju nowa začitać.
+Anonymen Zugang verwenden	Wužiwaj & anonymiski přistup
+Sekunde(n)	sekundy
+Minute(n)	mjeńšiny
+Stunde(n)	hodźiny
+Tag(e)	dny
+Woche(n)	tydźenje
+Monat(e)	mjesacy
+Drucker-Nutzungsbeschränkungen (Quota)	Nastajenja wobmjezowanja přistupa na ćišćak
+Hier können Sie Nutzungsbeschränkungen für den Drucker festlegen. Die Einstellung 0 bedeutet, dass keine Beschränkung angewendet wird und entspricht der Festlegung Keine Nutzungsbeschränkung (-1). Nutzungsbeschränkungen werden anhand eines Benutzers definiert und dann auf alle Benutzer übertragen.	Nastaj tu wobmjezowanja za wužiwanje ćišćaka. Womjezowanja typa 0 rěka, zo so žane wobmjezowanja njewužiwaja. Wobmjezowanja so na zakładźe jenoho šulerja definuja a so potom na wšěch wužiwarjow nałoža.
+Sie müssen zumindest eine Nutzungsbeschränkung angeben.	Dyrbiće znajmjeńša jedne wobmjezowanje zapodać!
+CUPS-Server	CUPS- server
+Einstellungen für CUPS-Server	Nastajenja CUPS- servera
+Alle Benutzer sind zugelassen	Wšitcy wužiwarjo maja přistup
+Bilder	Wobraz
+Farbeinstellungen	Nastajenja barbow
+Bildgröße	Wulkosć wobraza
+Bild-Position	Pozicija wobraza
+& Helligkeit:	& Swětłosć:
+& Farbton (Farbrotation):	& Wotsćin (rotacija barbow):
+& Sättigung:	& Sylnosć barbow:
+& Gamma (Farbkorrektur):	& Gamma (připrawjenje barbow):
+& Voreinstellungen	& Standardowe nastajenja
+Tatsächliche Bildgröße	Normalna wulkosć wobraza
+Auflösung (ppi)	Rozpušćenje (dpi)
+% der Seite	% strony
+% der Originalgröße	% přirodneje wulkosće wobraza
+Bildgröße:	& Wulkosć wobraza:
+Auftragsbericht	Rozprawa wo ćišćenju
+Fehler bei der Übermittlung von Auftragsinformationen:	Njemóžu informaciju wo ćišćenskim nadawku dóstać:
+& IPP-Bericht zum Auftrag	& IPP- rozprawa...
+Priorität & heraufsetzen	& Prioritu zwyšić
+Priorität herabsetzen	& Prioritu znižić
+& Attribute bearbeiten...	Atributy & wobdźěłać...
+Änderung der Auftragspriorität nicht möglich:	Njemóžu prioritu ćišćenskeho nadawka změnić:
+Drucker %1 ist nicht auffindbar.	Njemóžu ćišćak% 1 namakać.
+Attribute von Auftrag %1@%2 (%3)	Atributy nadawka% 1 @% 2 (% 3)
+Setzen der Auftragsmerkmale nicht möglich:	Njemóžu atributy nadawka nastajić:
+Die Angaben zum Drucker sind unvollständig. Versuchen Sie, ihn neu zu installieren.	Definicija ćišćaka njeje dospołna. Instaluj jón hišće raz.
+Einstellungen für Druckerwarteschlange auf Fremdrechner	Nastajenja LPD- rynka na druhim ličaku
+Druckerwarteschlage:	Rynk:
+Fehlender Rechnername.	Mjeno servera faluje.
+Fehlender Name für Druckerwarteschlange.	Mjeno rynka faluje.
+Druckerwarteschlange %1 auf %2	Rynk% 1 na druhim ličaku% 2
+Keine vorgegebenen Drucker	Žane predefinowane ćišćaki
+Druckerwarteschlage	Rynk
+Fehlender Druckername.	Mjeno ćišćaka faluje.
+Drucker ist nicht auffindbar.	Njejsym ćišćak namakał.
+Noch nicht verfügbar.	Hišće njeimplementowane.
+RLPR-Proxy-Einstellungen	Nastajenja RLPR- proxyja
+Proxy-Einstellungen	Nastajenja proxyja
+Proxyserver verwenden	& Wužiwaj proxy
+Dateiübertragung fehlgeschlagen.	Akcija je so zwrěšćiła.
+Unerwarteter Abbruch des Prozesses (%1).	Njewočakowane skónčenje procesa (% 1).
+%1: Ausführung fehlgeschlagen mit Meldung: %2	% 1: wuwjedźenje je so zwrěšćiło z powěsću:% 2
+Fehler bei der Druckausgabe. Das System meldet: %1	Zmylk je so při ćišćenju stał. Zmylkowa powěsć systema% 1
+Einige der zum Drucken vorgemerkten Dateien können vom KDE Druckhintergrundprogramm nicht gelesen werden. Das kann passieren, wenn sie mit einem anderen Benutzer drucken als dem gerade angemeldeten. Wenn Sie fortsetzen möchten, müssen Sie das Passwort des Systemverwalters eingeben.	Někotre z datajow, kiž maja so ćišćeć, njehodźa so wot KDE- demona za ćišćenje čitać. To móže so stać, hdyž spytaće jako hinaši wužiwar ćišćeć. Za ćišćenje trjebaće hesło roota.
+Passwort des Systemverwalters eingeben	Hesła roota
+Druckstatus - %1	Staw ćišćenja -% 1
+Drucksystem	Ćišćenski system
+Authentifizierung fehlgeschlagen (Benutzername %1)	Přizjewjenje je so zwrěšćiło!
+In Warteschlange	čaka
+Abgebrochen	přetorhnjene
+Abgeschlossen	zakónčene
+Dienstprogramme für Epson InkJet	Nastroje za EPSON InkJet
+& Direkte Verbindung benutzen (benötigt evtl. Rechte des Systemverwalters)	& Wužiwaj direktny zwisk (móhło sej žadać prawa roota)
+Drucker:	Ćišćak:
+Druckkopf & reinigen	Ćišćensku hłójčku & rjedźić
+Testmuster für & Düsen drucken	& Muster za přepruwowanje ćišćenskeje hłójčki wućišćeć
+Druckkopf ausrichten	Ćišćensku hłójčku & justěrować
+& Tintenstand	& Staw čornidła
+Druckerkennung	Identifikacija ćišćaka
+Interner Fehler: Kein Gerät angegeben.	Nutřkowny zmylk: žadyn grat postajeny.
+Nicht unterstützter Verbindungstyp: %1	Njepodpěrowana družina zwiska:% 1
+Ein läuft noch ein Prozess für escputil. Sie müssen seine Beendigung abwarten, bevor Sie fortsetzen können.	Dalši escputil hišće běži. Dyrbiće čakać, doniž so njeje zakónčił.
+Die ausführbare Datei„ escputil“ ist nicht in Ihrem PATH auffindbar. Stellen Sie bitte sicher, dass„ gimp-print“ installiert und„ escputil“ über die Umgebungsvariable PATH zugänglich ist.	Program escputil njeje w zapiskach wašeje wariable PATH. Přepruwuj, hač je gimp- print instalowany a zo je escputil w wašim PATH.
+Interner Fehler:.Prozess„ escputil“ lässt sich nicht starten.	Nutřkowny zmylk: Njemóžu escputil startować.
+Vorgang mit Fehler abgebrochen.	Akcija je so ze zmylkami skónčiła.
+Ausgabe	Output
+Der Drucker %1 existiert bereits. Wenn Sie fortfahren, überschreiben Sie diesen Drucker. Möchten Sie den Vorgang fortsetzen?	Ćišćak% 1 hižo eksistuje. Pokročowanje přepiše eksistowacy ćišćak. Chceće pokročować?
+Verwaltung wird initialisiert...	Přihotuju konfiguraciski program...
+Drucker starten/anhalten	Ćišćak startować/ zastajić
+Drucker & starten	Ćišćak & startować
+Drucker anhalten	Ćišćak & zastajić
+Druckerwarteschlange (de)aktivieren	Suwanje nadawkow do rynka zmóžnić/ znjemóžnić
+Druckerwarteschlange & aktivieren	Suwanje nadawkow do rynka zmóžnić
+Druckerwarteschlange & deaktivieren	Suwanje nadawkow do rynka znjemóžnić
+Drucker/Klasse hinzufügen...	Dodaj & klasu ćišćakow...
+Speziellen Drucker/Pseudo-Drucker hinzufügen...	Dodaj & specielny (pseudo) ćišćak...
+Als & lokalen Standard festlegen	Postaj jako & lokalny standard
+Als & Benutzerstandard festlegen	Postaj jako standard za & wužiwarja
+Drucker & testen...	Ćišćak & přepruwować...
+& Verwaltung einrichten...	Konfiguraciski program & konfigurować...
+Manager/Ansicht initialisieren	Přihotuj konfigurator
+& Ausrichtung	& Wusměrjenje
+& Senkrecht,Waagrecht	& Padorunje, & wodorunje
+& Server neu starten	Server & znowa startować
+Server & einrichten...	& Server konfigurować.
+& Werkzeugleiste anzeigen	& Nastrojowy pas pokazać
+& Menü-Werkzeugleiste anzeigen	& Nastrojowy pas pokazać
+& Details zum Drucker anzeigen	Pokaž/ Chowaj & nadrobnosći wo ćišćaku
+Druckerfilter an/aus	& Filtrowanje za ćišćak zaswěćić/ hasnyć
+& Handbuch zu %1	& Přiručka za% 1
+Drucker-Dienstprogramme	Nastroje za ćišćak
+Druckserver	Ćišćenski server
+Druckerverwaltung	Organizowanje ćišćenja
+Beim Laden der Druckerliste ist ein Fehler aufgetreten.	Zmylk je so stał při dóstawanju lisćiny ćišćakow.
+Ändern der Einstellungen für Drucker %1 ist nicht möglich.	Njemóžu staw ćišćaka% 1 změnić.
+Möchten Sie %1 wirklich löschen?	Chceće woprawdźe% 1 zničić?
+Entfernen des speziellen Druckers %1 ist nicht möglich.	Njemóžu specialny ćišćak% 1 zničić.
+Entfernen von Drucker %1 ist nicht möglich.	Njemóžu ćišćak% 1 zničić.
+%1 einrichten	% 1 konfigurować
+Ändern der Einstellungen für Drucker %1 ist nicht möglich.	Njemóžu nastajenja ćišćaka% 1 změnić.
+Laden eines passenden Treibers für Drucker %1 ist nicht möglich.	Njemóžu kmany ćěrjak začitać za ćišćak% 1.
+Erstellung des Druckeranschlusses ist nicht möglich.	Njemóžu ćišćak stworić.
+Festlegung des Druckers %1 als Standard ist nicht möglich.	Njemóžu ćišćak% 1 jako standard postajić.
+Sie sind im Begriff, eine Testseite auf %1 zu drucken. Möchten Sie fortfahren?	To wućišći testowu stronu na% 1. Chceće pokročować?
+Testseite drucken	Testowu stronu ćišćeć
+Testseite wurde erfolgreich an %1 gesendet.	Testowa strona bu pósłana na ćišćak% 1
+Testen des Druckers %1 nicht möglich.	Njemóžu ćišćak% 1 testować.
+Interner Fehler (ohne weitere Meldung).	Nutřkowny zmylk (bjez zmylkoweje powěsće)
+Fehlermeldung des Verwaltungsprogramms: %1	Zmylkowa powěsć wot organizatora:% 1
+Neustart des Druckservers ist nicht möglich.	Njemóžu ćišćenski server znowa startować.
+Server neu starten...	Startuju server znowa...
+Einrichtung des Druckservers ist nicht möglich.	Njemóžu ćišćenski server konfigurować.
+Server einrichten...	Konfiguruju server...
+Druckerdienstprogramm lässt sich nicht starten. Mögliche Gründe: Kein Drucker ausgewählt, einem ausgewählten Drucker wurde kein lokaler Anschluss (Port) zugeordnet oder die erforderlichen Bibliotheksdateien sind nicht auffindbar.	Njemóžu ćišćakowy nastroj startować. Móžne přičiny su: žadyn ćišćak wubrany, wubrany ćišćak nima lokalny grat (port) definowany, abo nastrojowa biblioteka njehodźeše so namakać.
+Liste der Drucker lässt sich nicht übertragen.	Njemóžu lisćinu ćišćakow dóstać.
+Befehle	Přikazy
+Befehlseinstellungen	Nastajenja přikazow
+Befehl erstellen/bearbeiten	Přikazy wobdźěłać/ stworić
+Befehlsobjekte nehmen eine Umwandlung von Eingabe zur Ausgabe vor. Sie sind die Grundlage für Druckfilter und Spezialdrucker und haben die Form von Befehlen mit Parametern, Listen von zu erfüllenden Bedingungen und verknüpften MIME-Typen. Hier können Sie neue Befehlsobjekte erstellen und existierende bearbeiten. Alle Änderungen betreffen nur Sie, keine anderen Benutzer.	Přikazowe objekty konwertěruja z inputa na output. Wone bazu tworja kaž za ćišćenske filtry, tak tež za specialne ćišćaki. Wone so wopisuja jako přikazowe słowo, mnóstwo opcijow, mnóstwo wuměnjenjow a asociěrowanych mime- družinow. Tu móžeće nowe přikazowe objekty wutworić a eksistowace modifikować. Wšitke tute změny so jenož na tebje wuskutkuja.
+& Nächster >	& Přichodny >
+< & Zurück	< Wróćo
+Assistent für die Druckereinrichtung	Dodaj ćišćakoweho kuzłarja
+Drucker ändern	Ćišćak změnić
+Angeforderte Seite ist nicht auffindbar.	Njemóžu pominanu stronu namakać.
+& Abschließen	& Zakónčić
+Befehl auswählen	Wubjerće přikaz
+Auswahl des lokalen Anschlusses	Wubraće lokalneho porta
+Lokales System	Lokalny system
+Parallel	Paralelny
+Seriell	Serielny
+Sonstiger	Druzy
+Wählen Sie einen gültigen Anschluss unter den aufgefundenen oder geben Sie eine entsprechende Adresse (URI) in das Feld unten ein. The URI is empty	Wubjerće walidny namakany port, abo zapodajće direktnje wotpowědny URI deleka do tekstoweho pólka. The URI is empty
+Die lokale Adresse (URI) entspricht nicht dem gefundenen Anschluss. Trotzdem fortfahren?	Lokalnemu URI njewotpowěduje žadyn z namakanych portow. Pokročować?
+Wählen Sie einen gültigen Anschluss aus.	Wubjerće walidny port.
+Es ist kein lokaler Anschluss aufzufinden.	Njemóžu lokalne porty namakać.
+Druckertyp:	Družina ćišćaka:
+Schnittstelle	Interfejs
+Schnittstellen-Einstellungen	Nastajenja interfejsa
+IPP-Drucker	IPP- ćišćak
+Lokaler Drucker an USB-Schnittstelle	Lokalny USB- ćišćak
+Lokaler Drucker an paralleler Schnittstelle	Lokalny paralelny ćišćak
+Lokaler Drucker an serieller Schnittstelle	Lokalny serielny ćišćak
+Netzwerkdrucker (Socket)	Syćowy ćišćak (socket)
+SMB-Drucker (Windows)	SMB- ćišćaki (Windows)
+Datei-Drucker	Datajowy pseudoćišćak
+Serielles Fax / ModemdruckerUnknown Protocol	Serielny faksowy/ modemowy ćišćakUnknown Protocol
+Mitglieder:	Čłonojo:
+Implizite Klasse	Implicitna klasa
+Klasse auf Fremdrechner	Klasa na druhim ličaku
+Lokale Klasse	Lokalna klasa
+Drucker an Fremdrechner	Ćišćak na druhim ličaku
+Lokaler Drucker	Lokalny ćišćak
+Spezieller DruckerUnknown class of printer	Specielny (pseudo) ćišćakUnknown class of printer
+Klassen-Zusammensetzung	Zestajenje klasy
+Verfügbare Drucker:	Přistupne ćišćaki:
+Klassen-Drucker:	Klasowe ćišćaki:
+Sie müssen mindestens einen Drucker auswählen.	Dyrbiće znajmjeńša jedyn ličak wubrać!
+Druckername:	Mjeno ćišćaka:
+Durchsuchen	Pytaj
+Netzwerk durchsuchen:	Pytaj w syći:
+Subnetz: %1	Podsyć:% 1
+Sie sind im Begriff, ein Subnetz (%1.*) durchsuchen zu lassen, das nicht dem Subnetz Ihres Rechners (%2.*) entspricht. Möchten Sie den Vorgang fortsetzen?	Chceće w podsyći (% 1. *) pytać, kiž njeje podsyć tutoho computera (% 2. *). Je to prawe?
+& Durchsuchen	Pytaj
+& Subnetz:	& Podsyć:
+& Zeitlimit (ms):	& Kónc čakanja po (ms):
+Such-Einstellungen	Pytanska konfiguracija
+Unzulässige Subnetzangabe.	Wopačna specifikacija podsyće.
+Unzulässige Zeitlimitangabe.	Wopačna specifikacija čakanskeho časa.
+Unzulässige Portangabe.	Wopačna specifikacija porta.
+Einrichten	% 1 konfigurować
+Einige der ausgewählten Einstellungen sind widersprüchlich. Bitte beseitigen Sie diese Widersprüche, bevor Sie fortfahren.	Někotre opcije so znapřećiwjeja. Dyrbiće tute znapřećiwjenja rozrisać, prjedy hač móžeće pokročować.
+Dateiauswahl	Dataju wubrać
+Die Druckausgabe wird in eine Datei umgeleitet. Geben Sie hier den Pfad zu der Datei an, die Sie für die Umleitung verwenden möchten. Geben Sie entweder einen absoluten Pfad an oder benutzen Sie den Knopf„ Auswählen“.	Ćišćenske daty so do dataje sćelu. Podaj tu puć dataje, kiž ma so za to wužiwać. Wužiwaj absolutny puć abo pytanski knefl za grafiski interfejs.
+Drucken in Datei:	Do dataje ćišćeć:
+Fehlender Dateiname.	Mjeno dataje faluje.
+Der Ordner existiert nicht.	Zapisk njeeksistuje!
+Vorschau-Einstellungen	Nastajenje přehladki
+Vorschauprogramm	Přehladkowy program
+Externes Vorschauprogramm verwenden	& Wužiwaj eksterny program za přehladki
+Sie können ein externes Vorschauprogramm verwenden (ausschließlich PostScript-Betrachter), das anstelle des eingebauten Systems verwendet werden soll. Beachten Sie: Falls der standardmäßige PostScript-Betrachter von KDE (KGhostView) nicht auffindbar ist, wird automatisch nach einem anderen externen Betrachtungsprogramm gesucht.	Móžeće eksterny program za přehladki wužiwać město KDE- interny system. Jeli KDE njemóže swój standardowy přehladkowy program (KGhostView) namakać, spyta awtomatisce druhi přehladkowy program za PostScript namakać.
+Druckertest	Test ćišćaka
+Hersteller:	Fabrikant:
+Sie können nun den Drucker testen, bevor Sie die Installation abschließen. Verwenden Sie den Knopf Einstellungen, um den Druckertreiber einzustellen und den Knopf Test, um die vorgenommene Einrichtung zu überprüfen. Benutzen Sie den Knopf Zurück, um den Treiber zu wechseln (in diesem Fall werden Ihre aktuellen Einstellungen gelöscht).	Nětko móžeće ćišćak testować, prjedy hač instalaciju zakónčiš. Wužiwaj knefl Nastajenja, zo by ćěrjak konfigurował a knefl Test, zo by konfiguraciju přepruwował. Wužiwaj knefl Wróćo, zo by hinaši ćěrjak wzał (nětčiša konfiguracija so potom zaćisnje).
+Laden des angeforderten Treibers nicht möglich: %1	Njemóžu pominany ćěrjak začitać:% 1
+Seite wurde erfolgreich an den Drucker gesendet. Warten Sie, bis der Ausdruck fertig ist und klicken Sie dann auf den Knopf OK.	Testowa strona bu wuspěšnje na ćišćak pósłana. Dočakaj, doniž so njeje wućišćała, potom stłóč knefl OK.
+Testen des Druckers nicht möglich:	Njemóžu ćišćak přepruwować:
+Entfernen des temporären Druckers nicht möglich.	Njemóžu temporarny ćišćak zničić.
+Erstellung eines temporären Druckers nicht möglich.	Njemóžu temporarny ćišćak stworić.
+Ändern der Druckereigenschaften nicht möglich. Fehlermeldung des Verwaltungsprogramms: %1	Njemóžu swójstwa ćišćaka změnić. Zmylkowa powěsć wot organizatora:% 1
+KDE-Druckdienste einrichten	KDE konfiguracija ćišćenja
+Druckserver einrichten	Konfiguracija ćišćenskeho servera
+Assistent für Druckereinrichtung starten	Startuj ćišćakoweho kuzłarja
+Es ist keine ausführbare Datei für die Erstellung der Treiberdatenbank festgelegt. Diese Aktion ist nicht ins Programm eingebaut.	Žadyn program definowany za stworjenje datoweje bazy ćěrjakow. Tuta operacija njeje implementowana.
+Die ausführbare Datei %1 ist über Ihren PATH nicht auffindbar. Bitte stellen Sie sicher, dass das Programm existiert und über die Umgebungsvariable PATH zugänglich ist.	Program% 1 njesteji w wašim PATHu. Přepruwuj, hač program eksistuje a zo je přistupny přez wariablu PATH.
+Erstellung der Druckerdatenbank nicht möglich. Die Ausführung von %1 ist fehlgeschlagen.	Njemóžu započeć z tworjenjom datoweje bazy ćěrjakow.% 1 njehodźeše so startować.
+Bitte warten Sie, bis KDE die Treiberdatenbank neu erstellt hat.	Prošu dočakaj, doniž njeje KDE datowu bazu ćěrjakow znowa natwarił.
+Treiberdatenbank	Datowa baza ćěrjakow
+Fehler bei Erstellung der Treiberdatenbank: Unerwarteter Abbruch des abhängigen Prozesses.	Zmylk při tworjenju datoweje bazy ćěrjakow: abnormal child process termination!
+Benutzerkennung	Identifikacija wužiwarja
+Dieses Ausgabegerät erfordert eventuell einen Benutzernamen und/oder ein Passwort, um korrekt zu funktionieren. Bitte geben Sie den Zugangstyp an, und füllen Sie die erforderlichen Felder aus.	Tutón ćěrjak móhł sej přizjewjenje a hesło žadać, zo by korektnje dźěłał. zapodajće trěbne podaća abo zmóžni Hóstnemu kontu anonymny přistup wužiwać
+& Anmelden:	& Mjeno wužiwarja:
+& Gastzugang (Anmeldung als„ gast“ bzw.„ guest“)	& Hóstne konto
+& Normaler Zugang	& Hóstne konto
+Wählen Sie eine Option aus	Pismo wubrać
+Der Benutzername fehlt.	Mjeno wužiwarja faluje!
+Informationen zum Netzwerkdrucker	Informacija wo syćowym ćišćaku
+Druckeradresse:	Adresa & ćišćaka:
+& Port:	Port:
+Sie müssen eine Druckeradresse angeben.	Dyrbiće adresu ćišćaka zapodać!
+Falsche Portnummer.	Wopačne čisło porta!
+Einrichtung des KDE-Druckdienstes	KDE konfiguracija ćišćenja
+Druckermodell auswählen	Wubraće ćišćaka
+Interner Fehler: Treiber ist nicht auffindbar.	Nutřkowny zmylk abo njemóžu ćěrjak namakać!
+Kein Drucker	Žadyn ćišćak
+Alle Drucker	Wšitke ćišćaki
+Druckaufträge für %1	Ćišćenske nadawki za% 1
+Unbegrenzt	Bjez wobmjezowanja
+Max.: %1	Maks.:% 1
+Auftragskennung	Identifikator nadawka
+EigentümerStatus	WobsydnikStatus
+Größe (KB)	Wulkosć (KB)
+Seite(n)	Strony
+& Anhalten	& Zastajić
+& Neu starten	Znowa startować
+& Verschieben auf Drucker	Na ćišćak & sunyć...
+& Abgeschlossene Aufträge anzeigen/nicht anzeigen	Wotbyte nadawki & pokazować/ chować
+Nur Benutzeraufträge anzeigen	Pokaž jenož nadawki wužiwarja
+Benutzername	Mjeno wužiwarja
+Drucker auswählen	Ćišćak & wubrać
+Fenster dauerhaft anzeigen	Wokno přeco pokazować
+Aktion„ %1“ lässt sich an ausgewählten Druckaufträgen nicht ausführen. Fehlermeldung des Verwaltungsprogramms:	Njemóžu akciju "% 1" z wubranymi nadawkami přewjesć. Zmylkowa powěsć organizatora:
+Neu starten	Znowa startować
+Auf %1 verschieben	Na% 1 sunyć
+Vorgang fehlgeschlagen.	Akcija je so zwrěšćiła.
+Einstellungen zu Druckauftrag	Nastajenja nadawkow pokazować
+Zeit zwischen Aktualisierungen	Interwal mjez aktualizacijomaj
+Sek	sek
+Hier wird das Aktualisierungsintervall verschiedener Komponenten des KDE-Druckmoduls festgelegt, z. B. für den Druckmanager und die Druckvorschau.	Tutón časowy parameter kontroluje čas aktualizacije wšelakich ćišćenskich komponentow KDE kaž organizator ćišćenja a přehladowar nadawkow.
+Testseite	Testowa strona
+& Benutzerdefinierte Testseite angeben	Wosobinsku testowu stronu & specifikować
+Vorschau...	Přehladka...
+& Status der Druckaufträge anzeigen	Pokaž zdźělenski kašćik ze stawom ćišćenja
+Zuletzt vom & Programm benutzten Drucker verwenden	& Posledni z tutym programom wužiwany ćišćak jako standard wzać
+Die ausgewählte Seite hat kein PostScript-Format. Es wird vielleicht nicht mehr möglich sein, den Drucker zu überprüfen.	Wubrana testowa strona njeje w PostScript- formaće. Testowanje ćišćaka snadź njebudźe móžne.
+Typ	družina
+Adresse	Městnosć
+Mitglieder	Čłonojo
+Ausgabegerät	Ćěrjak
+Drucker-IP	IP ćišćaka
+Rechner	Server
+Datei	Dataja:
+Zugang	Konto
+URI	URI
+DB-Treiber	DB- ćěrjak
+Externer Treiber	eksterny ćěrjak
+Hersteller	Fabrikant
+Modell	Model
+Schriftarten	Puć k pismam
+Schrift-Einstellungen	Nastajenja pIsma
+Schrifteneinbettung	Zawjazanje pismow
+Pfad zu Schriftarten	Puć k pismam
+& Schriften beim Drucken in PostScript-Datei einbetten	& Pisma do PostScript- datow zawjazać při ćišćenju
+Nach & unten	& Dele
+& Zusätzlicher Ordner:	Dalši & zapisk:
+Diese Einstellungen erlauben die Einbettung von Schriften in PostScript-Dateien, die vom Drucker selbst nicht angeboten werden. Eine solche Einbettung führt oft zu besseren Druckresultaten, die auch eher der Bildschirmdarstellung entsprechen, aber sie vergrößert auch die Menge der übertragenen Daten.	Tuta opcija budźe awtomatisce pisma do PostScript- datajow zawjazać, kiž ćišćak njeznaje. Zawjazanje pismow zwjetša polěpši kwalitu wućišća (wućišć budźe wobrazej na wobrazowce podobniši), ale množi tež ćišćenske daty.
+Wenn Sie die Schrifteneinbettung verwenden, dann können Sie zusätzliche Ordner auswählen, in denen KDE nach einbettungsfähigen Schriftdateien sucht. In der Voreinstellung wird der Schriftenpfad des X-Servers verwendet, der in den meisten Fällen ausreichen sollte.	Při zawjazanju pismow móžeće dalše zapiski podawać, hdźež ma KDE za pismami pytać, kiž maja so zawjazać. Standardnje so pismowy puć X- servera wužiwa, tak zo njetrjebaće tute zapiski zapodać. Standardny pytanski puć zwjetša dosaha.
+SMB-Drucker-Einstellungen	Nastajenja SMB- ćišćaka
+Arbeitsgruppe:	Dźěłanska skupina:
+Server:	Server
+Anmelden: %1	& Mjeno wužiwarja:
+Klassenmitglieder	Čłonojo klasy
+Integer	Cyła ličba
+Gleitkomma	Decimalna ličba
+Liste	Lisćina
+Standardwert:	Standardowa & hódnota:
+& Durchgehende Option	& Wusměrjenje
+& Werte	Hódnoty
+& Minimalwert:	Minimalna hódnota:
+Maximalwert:	Maksimalna hódnota:
+Wert hinzufügen	Hódnotu dodać
+Wert löschen	Hódnotu zničić
+Gruppe hinzufügen	Skupinu dodać
+Option hinzufügen	Opciju dodać
+Element löschen	Element zničiić
+Nach oben verschieben	Horje sunyć
+Nach unten verschieben	Dele sunyć
+Eingabe & von	& Input z
+Ausgabe & in	Output na
+Umleitung (Pipe):	Pipeline:
+Unzulässige Kennung. Die Auslassung der Angabe oder„ __root__“ sind nicht möglich.	Njekorekntna identifikacija. Prózdnoty a "__ root __" njejsu dowolene.
+Neue Gruppe	Nowa skupina
+Neue Option	Nowa opcija
+Befehlsbearbeitung für %1	Přikaz wobdźěłać za% 1
+& MIME-Einstellungen	Nastajenja & MIME- družiny
+Unterstützte & Eingabeformate	Podpěrowane & formaty
+Voraussetzungen	Žadanja
+Befehl bearbeiten...	Přikaz & wobdźěłać...
+Ausgabeformat:	Format & outputa:
+ID-Name:	mjeno ID:
+exec: /	wuwjesć: /
+Informationen zur LPD-Druckerwarteschlange	Informacija wo LPD- rynku
+Geben Sie die Informationen bezüglich der LDP-Druckerwarteschlange auf dem Fremdrechner ein. Der Assistent wird sie überprüfen, bevor er fortfährt.	zapodajće informaciju wo LPD- rynku na druhim ličaku. Tutón kuzłar daty přepruwuje, prjedy hač pokročuje.
+Es fehlen einige Informationen.	Někajka informacija faluje!
+Warteschlange %1 auf Server %2 ist nicht auffindbar. Möchten Sie trotzdem fortfahren?	Njemóžu rynk% 1 na serveru% 2 namakać! Chceće přiwšěm pokročować?
+Filtereinstellungen für Drucker	Nastajenja ćišćakoweho filtra
+Druckerfilter	Ćišćakowy filter
+Ein Druckerfilter macht es möglich, nur einige spezielle Drucker anzuzeigen. Das kann nützlich sein, falls Sie über eine große Anzahl Drucker verfügen, aber nur einige wenige tatsächlich benutzen. Wählen Sie die gewünschten Drucker aus der Liste oder geben Sie einen„ Positionsfilter“ ein (z. B. Gruppe_1). Filterinhalte werden zusammengeführt bzw., falls kein Inhalt vorhanden ist, ignoriert.	Filter ćišćakow wam dowoli sej jenož wěste ćišćaki wobhladować a nic wšitke. To móže być wužitne, jeli maće jara wjele ćišćakow w swojej syći, ale jenož mało z nich wužiwaš. Wubjerće ćišćaki, kotrež chceće widźeć z lisćiny nalěwo abo zapodajće filter městnow. Wobaj stej kumulatiwnej a so ignorujetej, jeli stej prózdnej.
+Positionsfilter:	Filter městnow:
+Treiberauswahl	Wubraće ćěrjakow
+Es wurden mehrere Treiber für dieses Modell gefunden. Wählen Sie den Treiber, den Sie verwenden möchten. Sie haben die Möglichkeit, den Treiber zu testen und nötigenfalls zu wechseln.	Za tutón model su so wjacore ćěrjaki namakali. Wubjerće tón ćěrjak, kiž chceće wužiwać. Budźe móžno, jón testować abo tež změnić.
+Treiber-Informationen	Informacija wo ćěrjaku
+Sie müssen einen Treiber auswählen.	Dyrbiće ćěrjak wubrać!
+[empfohlen]	[so doporuča]
+Über den ausgewählten Treiber sind keine Informationen verfügbar.	Žana informacija wo wubranym ćěrjaku.
+Einführung	Zawod
+Willkommen!Dieser Assistent wird Ihnen dabei helfen, einen neuen Drucker für Ihren Rechner zu installieren. Er führt Sie durch den gesamten Prozess der Installation und Einrichtung eines Druckers für das jeweilige System. Bei jedem Schritt können Sie über den Knopf Zurück auf den letzten Stand zurück gehen.Wir hoffen, Sie haben Freude an diesem Dienstprogramm. Das KDE-Druckerteam	Witaj! Tutón kuzłar budźe při instalaciji noweho ćišćaka za waš ličak pomhać. Wón budźe was krok po kroku přewodźeć při instalaciji a konfiguraciji ćišćaka za waš ćišćenski system. Z kneflom Wróćo přińdźeće kóždy čas wróćo k předchadnej kročeli Nadźijamy so, zo so na tutym nastroju wjeseliš! Waš KDE printing team
+& PostScript-Drucker	& PostScriptowy ćišćak
+& Rohdaten-Drucker (kein Treiber erforderlich)	Ćišćak za & syre daty (bjez ćěrjaka)
+& Sonstige...	& Druhe...
+& Hersteller:	& Fabrikant:
+& Modell:	Model:
+Ladevorgang läuft...	Čitam...
+PostScript-Treiber nicht auffindbar.	Njemóžu ćěrjak za PostScript namakać.
+Treiber auswählen	Ćišćak & wubrać
+< Unbekannt >	< Njeznaju >
+Datenbank	Datowa baza
+Falsches Treiberformat.	Wopačny format ćěrjaka.
+Sonstige	Druhe
+Befehl bearbeiten	Přikaz wobdźěłać
+Informationen	Wobkrućenje
+Befehl & verwenden:	Přikaz & wužiwać:
+Befehlsbezeichnung	Mjeno přikaza
+Geben Sie einen Namen für den neuen Befehl ein:	zapodajće pomjenowanje za nowy přikaz:
+Ein Befehl namens %1 existiert bereits. Möchten Sie fortsetzen und diesen existierenden Befehl verändern?	Přikaz z mjenom% 1 hižo eksistuje. Chceće pokročować a jón wobdźěłać?
+Interner Fehler. Der XML-Treiber für den Befehl %1 ist nicht auffindbar.	Nutřkowny zmylk. XML- ćěrjak za přikaz% 1 njehodźeše so namakać.
+Ausgabe	output
+Nicht definiert	njedefinowany
+Nicht zulässig	njedowoleny
+(Nicht verfügbar: Voraussetzungen nicht erfüllt)	(Njesteji k dispoziciji: wuměnjenja njespjelnjene)
+Klassen	Klasy
+Drucker	Ćišćaki
+Andere Geräte	Specialne opcije
+Druckermodell:	Model ćišćaka:
+Treiberinformationen:	Informacija wo ćěrjaku:
+Treiber-Einstellungen	Parametry ćěrjaka
+Druckaufträge	Nadawki
+Angezeigte Aufträge	Widźomne nadawki
+Max. Anzahl angezeigter Druckaufträge:	Maksimalna ličba widźomnych nadawkow:
+Allgemeine Informationen	Powšitkowna informacija
+Geben Sie hier die Informationen zu Ihrem Drucker oder der Klasse ein. Eine Angabe unter Name ist zwingend erforderlich, Adresse und Beschreibung müssen nicht angegeben werden. (Letztere werden auf manchen Systemen nicht einmal verwendet.)	zapodajće informaciju wo swojim ćišćaku abo klasy. Mjeno ćišćaka dyrbi so podać, Městnosć a Wopisanje stej opcionalnej.
+Sie müssen zumindest einen Namen eintragen.	Dyrbiće znajmjeńša mjeno zapodać!
+Es ist normalerweise nicht empfehlenswert, Leerzeichen im Druckernamen zu verwenden. Das wird eventuell ein korrektes Funktionieren Ihres Druckers verhindern. Der Assistent kann alle Leerzeichen aus dem eingegebenen Namen entfernen. Das Ergebnis wäre %1. Wie möchten Sie weiter verfahren?	Zwjetša njeje derje, hdyž mjeno ćišćaka mjezoty wobsahuje. To móže korektnemu dźěłanju ćišćaka zadźěwać. Kuzłar móže wšě mjezoty zwumjetać, mjeno ćišćaka by potom było% 1. Što ma so stać?
+Leerzeichen entfernen	Mjezoty zwumjetać
+Beibehalten	Zdźeržeć
+Endgeräteauswahl	Ćěrjak wubrać
+Sie müssen ein Endgerät auswählen.	Dyrbiće ćěrjak wubrać!
+& Lokaler Drucker (parallel, seriell, USB)	& Lokalny ćišćak (paralelny, serielny, USB)
+& SMB-Druckressource (Windows)	& Zhromadny SMB- ćišćak (Windows)
+& Netzwerkdrucker (TCP)	& Syćowy ličak (TCP)
+Hier können Sie Profile für den aktuell ausgewählten Druckers festlegen oder bearbeiten. Ein„ Profil“ ist eine Kombination aus dem wirklichen (physisch vorhandenen) Drucker und vordefinierten Optionen. Für einen einzelnen Tintenstrahldrucker können Sie z. B. unterschiedliche Grundeinstellungen festlegen wie Entwurfsqualität, Fotoqualität oder Beidseitig. Diese Profile erscheinen wie normale Geräte in den Druckdialogen und erlauben die rasche Auswahl von Druckoptionen, die Sie öfter benötigen.	Tu definujeće abo editujeće instancy za aktualnje wubrany ćišćak. Instanca je kombinacija realneho (fyzikalisce) ćišćaka a mnóstwo predefinowanych opcijow. Za samsny InkJet móhł na př. wšelake wašnja ćišćenja definować kaž Naćisk, Foto abo Dwustronsce. Tute instancy so jewja w ćišćenskim dialogu kaž separatne ćišćaki a wam dowola, spěšnje ćišćenske opcije wubrać.
+Kopieren...	Kopěrować...
+Als Standard festlegen	Jako standard postajić
+Einstellungen	& Nastajenja
+Profilname	Mjeno instancy
+Name des Profils (keine Angabe für Standard):	zapodajće mjeno noweje instancy (wostaj za standard):
+Name darf keine Leerzeichen enthalten.	Mjeno instancy njesmě mjezoty wobsahować!
+Möchten Sie %1 wirklich löschen?	Chceće woprawdźe instancu% 1 zničić?
+Das Standardprofil lässt sich nicht entfernen. Es werden jedoch alle Einstellungen von %1 verworfen. Möchten Sie fortfahren?	Zničić standardowu instancu njemóžeće. Ale wšitke nastajenja wot% 1 so zaćisnu. Pokročować?
+Profil %1 ist nicht auffindbar.	Njemóžu ćišćak% 1 namakać.
+Übermittlung der Druckerinformationen nicht möglich. Nachricht des Drucksystems: %1.	Njemóžach informaciju wo ćišćaku dóstać. Zmylk:
+Es existiert kein Name für die Ressource. Bitte wählen Sie einen aus.	Žana standardna resursa! Prošu wubrać.
+Interner Fehler: Drucker nicht gefunden.	Nutřkowny zmylk: Njemóžach ćišćak namakać.
+Senden der Testseite %1 ist nicht möglich.	Njemóžu testowu stronu na% 1 pósłać.
+Profile	Instancy
+Spezialdrucker hinzufügen	Specialny ćišćak dodać
+& Befehlseinstellungen	Nastajenja & přikaza
+& Ausgabedatei	Dataja za & output:
+& Ausgabedatei aktivieren	Dataja za & output:
+Dateierweiterung:	kmana ekstensija
+Der Befehl verwendet eine Ausgabedatei. Falls aktiviert, stellen Sie bitte sicher, dass der Befehl einen entsprechenden Ausgabeparameter enthält.	Přikaz budźe dataju za output wužiwać. Jeli to wubjerješ, přepruwuj, hač ma přikaz tež parameter za output.
+Der Befehl, der ausgeführt werden muss, wenn auf diesen speziellen Drucker ausgegeben werden soll. Geben Sie diesen Befehl entweder direkt ein oder verknüpfen Sie ein„ Befehlsobjekt“ für diesen Drucker. Die Methode„ Befehlsobjekt“ wird bevorzugt, da sie zusätzliche Möglichkeiten anbietet wie etwa die Überprüfung von MIME-Typen, flexibel einstellbare Optionen und Listen von Bedingungen, die erfüllt sein müssen. Falls ein einfacher Befehl bevorzugt wird, stehen folgende Parameter zur Verfügung: %in: die Eingabedatei (erforderlich) %out: die Ausgabedatei (erforderlich, wenn in eine Datei gedruckt wird) %psl: das Papierformat in Kleinschreibung %psu: das Papierformat mit dem ersten Buchstaben in Großschreibung	Přikaz, kiž ma so wuwjesć, hdyž so z tutym specialnym ćišćakom ćišći. Pak zapodajće přikaz direktnje, abo zwjazajće přikaz z tutym specialnym ćišćakom. Přikazowy objekt je preferowana metoda, kiž podpěruje dalše móžnosće kaž přepruwowanje MIMI- družin, konfiguraciju opcijow a lisćiny wuměnjenjow (direktny přikaz tu jenož hišće z přičin kompatibelnosće tu je). Za direktny přikaz so sćěhowace opcije spóznaja% in: inputowa dataja (trěbne)% out: outputowa dataja (do kotrejež ma so pisać; trěbne, hdyž so do dataje ćišći)% psl: wulkosć papjery (w małopisanju)% psu: wulkosć papjery (prěni pismik wulki)
+Standardmäßiger MIME-Typ der Ausgabedatei (z. B. application/postscript)	Standardowa ekstensija za outputowu dataju (na př: ps, pdf, ps. gz)
+Standard-Erweiterung der Ausgabedatei (z. B. *.ps, *.pdf, *.ps.gz)	Standardowa ekstensija za outputowu dataju (na př: ps, pdf, ps. gz)
+Sie müssen einen Namen angeben.	Dyrbiće mjeno zapodać.
+Ungültige Einstellungen: %1.	Njekorektne nastajenja.% 1
+%1 einrichten	Konfiguruju% 1
+Pfad	puć
+Datei hinzufügen	Filter dodać
+Datei entfernen	Filter wotstronić
+Ziehen Sie eine oder mehrere Dateien hierher oder benutzen Sie den Knopf, um einen Dateidialog zu öffnen. Wenn Sie lt;STDINgt; verwenden möchten, lassen Sie die Liste leer.	Sćehń dataje sem abo wužiwaj knefl, zo by datajowy dialog wočinić. Wostaj prózdny za lt; STDINgt;.
+Anpassungen	Připrawjenja
+Aktuelles Drucksystem:	Wužiwany ćišćenski system:
+Initialisierung...	Initializacija...
+Erstellen der Druckdaten: Seite %1	Generuju daty za ćišćenje: strona% 1
+Vorschau...	Pokazuju...
+Es wurde keine gültige ausführbare Datei in Ihrem PATH gefunden. Überprüfen Sie Ihre Installation.	Žadyn walidny ćišćenski program we wašim puću. Přepruwujće instalaciju.
+Das ist kein Foomatic-Drucker	To njeje Foomaticowy ćišćak.
+Es fehlen einige Informationen zum Drucker	Dźěl informacije wo ćišćaku faluje.
+Diese Operation ist noch nicht verfügbar.	Tuta operacija njeje implementowana.
+Testseite ist nicht auffindbar.	Njemóžu testowu stronu namakać.
+Ein regulärer Drucker kann nicht mit den Einstellungen eines Spezialdruckers überschrieben werden.	Njemóžu standardowy ćišćak z nastajenjemi wosebiteho ćišćaka přepisać.
+Paralleler Anschluss #%1	Paralelny port čo.% 1
+Laden der KDE-Druckverwaltungsbibliothek nicht möglich: %1	Njemóžu KDE- biblioteku za ćišćenje začitać:% 1
+Laden des Assistentenobjekts aus Verwaltungsbibliothek ist nicht möglich.	Njenamakam wizard object w bibliotece.
+Laden des Optionendialogs aus Verwaltungsbibliothek ist nicht möglich.	Njenamakam dialog opcijow w bibliotece.
+Keine Modul-Information verfügbar	Žana informacija wo tutym pluginje.
+Keine Beschreibung verfügbar	Žane wopisanje
+Druckerwarteschlange für %1	Ćišćenski rynk na% 1
+Eine Datei des Typs share/kdeprint/specials.desktop wurde in Ihrem lokalen KDE-Ordner gefunden. Sie stammt vermutlich aus einer früheren KDE-Version und sollte entfernt werden, um die Verwaltung globaler Spezialdrucker (bzw .„ Pseudodrucker“) zu ermöglichen.	W wašim lokalnym KDE- zapisku je dataja share/ kdeprint/ specials. desktop. Tuta dataja je najskerje wot prjedawšeje instalacije wyše wostała a měła so zničić, zo by móhł globalne pseudoćišćaki konfigurować.
+Es können nicht mehrere Dateien in eine gedruckt werden.	Njemóžu wjacore dataje do jedneje kopěrować.
+Die Druckdatei %1 lässt sich nicht speichern. Überprüfen Sie, ob Sie Schreibrecht dafür besitzen.	Njemóžu ćišćensku dataju w% 1 zawěsćić. Přepruwujće, hač směće tam pisać.
+Dokument %1 wird gedruckt	Ćišću dokument:% 1
+Senden der Daten an Drucker %1	Sćelu ćišćakej daty:% 1
+Abhängiger Druckprozess kann nicht gestartet werden.	Njemóžu ćišćenski proces startować.
+Der KDE-Druckserver (kdeprintd) ist nicht auffindbar. Stellen Sie sicher, dass der Server läuft.1 is the command that < files > is given to	Ćišćenski server KDE (kdeprintd) njewotmołwi. Přepruwuj hač běži. 1 is the command that < files > is given to
+Überprüfen Sie die Befehlssyntax: %1 < files >	Přepruwuj syntaksu přikaza:% 1 < dataje >
+Keine gültige Datei zum Drucken auffindbar. Operation wurde abgebrochen.	Njejsym žanu dataju namakał za ćišćenje. Akcija přetorhnjena.
+Die gewünschte Seitenauswahl lässt sich nicht durchführen. Der Filter psselect kann nicht in die aktuelle Filterkette eingefügt werden. Siehe Karteikarte Filter im Eigenschaften-Dialog.	Njemóžu pominane strony wubrać. Filter psselect njemóže so do rjećaza filtrow zasunyć. Hlej pod Filter w dialogu wo swójstwach ćišćaka.
+Fehler beim Lesen der Filterbeschreibung für %1. Die empfangene Befehlszeile war leer.	Nimaće prawa startować% 1.
+Fehler beim Lesen der Filterbeschreibung für %1. Die empfangene Befehlszeile war leer.	Zmylk při čitanju wopisanja filtra za% 1. Sym prózdnu přikazowu linku dóstał.
+Der MIME-Typ %1 wird als Eingabeformat nicht unterstützt. (Dies kann z. B. eintreten, wenn ein anderes Warteschlangensystem als CUPS und bei der Seitenauswahl ein anderes Format als PostScript verwendet wird.) Möchten Sie, dass KDE die Datei in ein unterstütztes Format umwandelt?	MIME- družina% 1 so njepodpěruje jako input do rjećaza filtrow (to so druhdy stawa z hinašimi spoolerami hač CUPS, hdyž do stronu wuběraja za nje- PS- dataje). Ma KDE dataju na podpěrowany format konwertěrować? < / p
+Umwandeln	Konwertěrować
+MIME-Typ auswählen	Wubjerće MIME- družinu
+Wählen Sie das Zielformat für die Formatumwandlung:	Wubjerće cilowy format konwertěrowanja:
+Vorgang abgebrochen.	Akcija přetorhnjena.
+Kein passender Filter gefunden. Bitte wählen Sie ein anderes Ausgabeformat.	Njejsym žadyn kmany filter namakał. Wubjerće hinaši cilowy format.
+Aktion wurde mit folgender Meldung abgebrochen: %1 Bitte wählen Sie ein anderes Ausgabeformat.	Akcija je so zwrěšćiła z powěsću:% 1 < br > Wubjerće hinaši cilowy format
+Filtern der Druckdaten	Filtruju ćišćenske daty
+Fehler bei der Filter-Ein-/Ausgabe. Der Befehl lautete %1.	Zmylk při filtrowanju. Přikaz běše:% 1.
+Das Dateiformat %1 wird vom aktuellen Drucksystem nicht direkt unterstützt. KDE kann versuchen, diese Datei automatisch in ein unterstütztes Format umzuwandeln. Sie können auch versuchen, die Datei ohne eine solche Umwandlung an den Drucker zu schicken. Möchten Sie, dass KDE versucht, diese Datei in %2 umzuwandeln?	Datajowy format% 1 so wot wužiwaneho ćišćenskeho systema direktnje njepodpěruje. KDE móže spytać, tutu dataju awtomatisce na podpěrowany format konwertěrować. Ale móžeće tež spytać, dataju njekonwertěrowanu na ćišćak pósłać. Chceće, zo KDE tutu dataju na% 2 konwertěruje?
+US #10-Umschlag	US # 10 Wobalka
+ISO DL-Umschlag	ISO DL wobalka
+ISO A3	ISO A4
+ISO A2	ISO A4
+ISO A1	ISO A4
+ISO A0	ISO A4
+Obere Zufuhr	Horni fašk
+Untere Zufuhr	Delni fašk
+Multifunktionsschacht	Wjacezaměrowy fašk
+Schacht für große Druckaufkommen	Wulki fašk
+Normal	normalnje
+Folie	transparentnosć
+Seitenformat:	& Wulkosć strony:
+Papiertyp:	Družina & papjery:
+Papiereinzug:	Žórło papjery:
+Ausrichtung	& Wusměrjenje
+Beidseitiger Druck	Dwustronske ćišćenje
+Seiten pro Blatt	Kelko stron na łopjeno
+& Hochformat	Po & wysokosći
+& Querformat	Po šěrokosći
+& Umgekehrtes Querformat	& Wobroćene po šěrokosći
+Umgekehrtes Hochformatduplex orientation	Wobroćene po wysokosćiduplex orientation
+& Kein Duplexdruckduplex orientation	& Žanaduplex orientation
+& Lange Seiteduplex orientation	po & dołhim bokuduplex orientation
+& Kurze Seite	po & krótkim boku
+Start:	Prěnja strona:
+Ende:	Poslednja strona:
+Zeichenkette:	Hódnota stringa:
+Keine Einstellung ausgewählt	Žana opcija wubrana
+Einrichtung von %1	Konfiguracija% 1
+(Aufträge werden abgewiesen)	(wokpokazuje nadawki)
+(Aufträge werden angenommen)	(přijimuje nadawki)
+& Datei	& Dataje
+& Seitenmarkierungen	& PageMarks
+Exemplare	& Kopije
+Seitenauswahl	Wubraće stronow
+Aktuell	Aktualnu
+& Bereich	Wuběrk
+Geben Sie Seiten oder Gruppen von Seiten an, durch Komma getrennt (Beispiel: 1,3-5,8).	zapodajće strony, přez komy dźělene (na př. 1, 2- 5, 8).
+Ausgabeeinstellungen	Nastajenja outputoweje dataje
+& Zusammenstellen	Zestajeć:
+& Umkehren	Wotzady
+Exemplare:	Kopije
+Alle Seiten	Wšitke strony
+Ungerade Seiten	Njerune strony
+Gerade Seiten	Rune strony
+Vorauswahl:	& Wuběrk stronow:
+Möchten Sie den Druckvorgang dennoch fortsetzen?	Chceće přiwšěm dale ćišćeć?
+Druckvorschau	Přehladku ćišćeć
+Abbrechen	přetorhnjene
+Das Vorschauprogramm %1 wurde nicht gefunden. Überprüfen Sie, dass das Programm korrekt installiert ist, und dass es in einem Ordner liegt, der in Ihrer Umgebungsvariable PATH enthalten ist.	Přehladkowy program% 1 njehodźi so namakać. Přepruwujće, hač je program korektnje instalowany a zo je w zapisku, kiž wobsahuje wokolinowa wariabla PATH.
+Keine Vorschau möglich: Es wurde weder der interne PostScript-Betrachter von KDE gefunden (kghostview) noch ein entsprechendes externes Programm.	Přehladka njeje móžna: ani interny KDE- PostScript- pokazowar (KGhostView) ani druhi eksterny PostScript- pokazowar njehodźeše so namakać.
+Vorschau fehlgeschlagen: Programm %1 lässt sich nicht ausführen.	Přehladka njeje móžna: Njemóžu program% 1 startować.
+Möchten Sie den Druckvorgang fortsetzen?	Chceće dale ćišćeć?
+Es gab einen Fehler beim Laden von %1 Die Diagnose lautet: %2	Zmylk při začitanju% 1. Powěsć bě:% 2
+Einige der ausgewählten Einstellungen sind widersprüchlich. Bitte beseitigen Sie diese Widersprüche, bevor Sie fortfahren. Auf der Karteikarte Erweitert finden Sie zusätzliche Informationen.	Konflikt mjez opcijemi. Tutón konflikt dyrbi so rozrisać, prjedy hač móže so dale ćišćeć. Hlej Pokročene opcije dla nadrobneje informacije.
+Keine Postervorschau verfügbar. Entweder ist das Programm poster nicht korrekt installiert, oder Sie verwenden nicht die benötigte Version, die über http://printing.kde.org/downloads / verfügbar ist.	Posterowa přehladka njeje móžna: Pak program poster njeje korektnje instalowany, pak nimaće trěbnu wersiu, kiž móžeće dóstać wot http: // printing. kde. org/ downloads /.
+Drucker-Einstellungen	Konfiguracija ćišćaka
+Es gibt keine Einstellungsmöglichkeiten für den Drucker.	Tutón ćišćak njehodźi so konfigurować!
+Keine Vorschau verfügbar	Žana přehladka móžna.
+& Dateien	& Dataje
+Benutzerdefinierte Ränder verwenden	Wužiwaj & konfigurowane kromy
+& Oben:	& Horjeka:
+& Unten:	& Deleka:
+& Links:	& Lěwy:
+& Rechts:	Prawy:
+Zoll (in)	Inches (in)
+Zentimeter (cm)	centimetry (cm)
+Millimeter (mm)	milimetry (mm)
+Poster drucken	& Poster ćišćeć
+Posterformat:	& Wulkosć postra:
+Format des Mediums:	Wulkosć papjery:
+& Bedruckbarer Bereich:	Wulkosć wućišća:
+& Beschnittbereich (% des Mediums):	Kromu wottřihać (% papjery):
+Auf Seiten & verteilen:	& Titlowe strony:
+Poster- und Druckmedien-Größe verknüpfen bzw. ihre Verknüpfung aufheben	Wulkosć postera a papjery zwjazać/ wotwjazać
+Eine der Anforderungen des Befehlsobjekts ist nicht erfüllt.	Přikazowy objekt trjeba hišće něšto.
+Der Befehl enthält nicht das erforderliche Element %1.	Přikaz njewobsahuje trěbne '% 1'.
+Filter hinzufügen	Filter dodać
+Filter entfernen	Filter wotstronić
+Filter nach oben verschieben	Filter horje sunyć
+Filter nach unten verschieben	Filter dele sunyć
+Filter einrichten	Filter konfigurować
+Interner Fehler: Filter ist nicht auffindbar.	Nutřkowny zmylk: Njemóžu filter začitać.
+Die angegebene Filterabfolge funktioniert nicht. Das Ausgabeformat von wenigstens einem Filter wird von seinem Nachfolger nicht unterstützt. Weitere Informationen finden Sie auf der Karteikarte Filter.	Filtrowy rjećaz njeje korektny. Format outputa znajmjeńša jednoho filtra so wot přichodneho filtra njepodpěruje. Klikni na Filtry dla dalšeje informacije.
+Eingabe	Input
+Druckformat	Ćišćenski format
+Farbmodus	Barbowy modus
+& Farbe	Barbny
+& Graustufen	Šěrokosće
+& Sonstige	Druhe & opcije
+Fax-System:	Faksowy system:
+& Fax-Server (falls vorhanden):	& Faksowy serwer (jeli móžno):
+Standardmäßiger Modemanschluss	Standardne modemowe přizamknjenje
+Fax wird gesendet an: %1 (%2)	Faks sćele so na% 1 (% 2)
+Fax wird gesendet an %1...	Faks sćele so na% 1...
+%1 wird übersprungen...	% 1 sym přeskočił...
+%1 wird gefiltert...	% 1 filtruju...
+Die Datei lässt sich nicht zum Schreiben öffnen.	Njemóžu dataju k pisanju wočinić
+& Auflösung:	& Rozpušćenje:
+& Papiergröße:	& Wulkosć papjery:
+& Nummer:	& Čisło:
+Internationales Präfix„ +“ ersetzen durch:	Mjezynarodny prefiks '+' narunać z:
+FaxNAME OF TRANSLATORS	NAME OF TRANSLATORS
+KPrinter	Ćišćenski zmylk
+Drucker-Dienstprogramm für KDE	Ćišćenski pomocnik za KDE
+Interne Kopie der zu druckenden Dateien erstellen	Internu kopiju datajow stworić, kiž maja so ćišćeć
+Titel/Name für den Druckauftrag	Titl/ Mjeno ćišćenskeho nadawka
+Anzahl Exemplare	Ličba kopijow
+Drucker-Einstellung	Opcije za ćišćak
+Ausgabemodus (gui, console, none)	Modus outputa (gui, terminal, žadyn)
+Drucksystem (lpd, cups)	Ćišćenski system (lpd, cups)
+Drucken aus STDIN erlauben	Ćišćenje wot STDIN dowolić
+Keinen Druckdialog anzeigen (direkt drucken)	Njepokaž ćišćenski dialog (hnydom ćišćeć)
+Zu ladende Dateien	Dataje za začitanje
+Drucker-Information	Informacija wo ćišćenju
+Druckerwarnung	Ćišćenske warnowanje
+Druckerfehler	Ćišćenski zmylk
+Druckerinfo	Ćišćenska informacija
+Auf der Befehlszeile wurde eine Datei angegeben. Drucken aus STDIN wird daher deaktiviert.	Na komandowej lince bu dataja specifikowana. Ćišćenje ze STDIN so znjemóžni.
+Bei Benutzung von„ --nodialog“ müssen Sie zumindest eine Datei angeben oder den Parameter„ --stdin“ verwenden.	Hdyž so wužiwa '-- nodialog', dyrbiće znajmjeńša jednu dataju za ćišćenje zapodać abo '-- stdin' wužiwać.
+Es kann weder das angegebene Gerät noch der Standarddrucker gefunden werden.	Njemóžach pominany ćišćak abo standardny ćišćak namakać.
+Vorgang abgebrochen	Akcija přetorhnjena.
+Erzeugen des Druckdialogs nicht möglich	Njemóžach ćišćenski dialog nastajić.
+Mehrere Dateien (%1)	Wjacore dataje (% 1)
+Öffnen der temporären Datei nicht möglich	Njemóžach temporarnu dataju wočinić.
+STDIN ist leer. Kein Druckauftrag übergeben.	STDIN je prózdny, žadyn ćišćenski nadawk.
+Kopieren von Datei %1 nicht möglich	Njemóžach dataju% 1 kopěrować.
+Fehler beim Drucken der Dateien	Zmylk při ćišćenju datajow
+Verwaltungsprogramm für die KDE-Arbeitsfläche, Kontrollleisten und Miniprogramme	Aplikacija za KDE dźěłowy powjerch, panele a widgety.
+Plasma-Arbeitsfläche	Plasma rum
+Registriert die Anwendung als primäre Benutzerschnittstelle	Registruje aplikaciju jako primarny interfejs wužiwarja
+Die Geometrie des BildschirmsNAME OF TRANSLATORS	Geometrija wobrazowkiNAME OF TRANSLATORS
+BackgammonGenericName	GenericName
+Backgammon-SpielName	Name
+SammlungComment	Comment
+EmulatorComment	Comment
+ModuleComment	PluginyComment
+gamefuComment	Comment
+Gamefu-VorschauerstellerName	Name
+kfileGBA-InformationenComment	Comment
+kfileGBX-InformationenComment	Comment
+Sega Genesis/Megadrive Meta-InformationenComment	Comment
+Sega Genesis/Megadrive ROM-DateiName	Name
+NDS-InformationenName	Name
+NDS-RomsComment	Comment
+NDS-RomName	Name
+kfileNES-InformationenComment	Comment
+NES ROM-DateiName	Name
+kfileSNES-InformationenComment	Comment
+SNES ROM-DateiComment	Comment
+Gamefu-ModulComment	Comment
+Gamefu-SystemName	Name
+Gamefu BildfüllermodulComment	Comment
+Gamefu Zufallsspiel-ModulComment	Comment
+Gamefu GBA-ModulComment	Comment
+Gamefu GBX-ModulComment	Comment
+Gamefu Sega Genesis/Megadrive-ModulComment	Comment
+Gamefu MAME-ModulComment	Comment
+Gamefu NES-ModulComment	Comment
+Gamefu SNES-ModulComment	Comment
+HiQGenericName	GenericName
+HiQ/Peg SolitaireGenericName	Name
+Mah JonggComment	Comment
+Mah JonggName	Name
+KamalaGenericName	GuatemalaGenericName
+Astrologie-ProgrammName	Name
+KBackgammonName	Name
+Würfeln oder VerdoppelnComment	Comment
+Würfel werfenComment	Comment
+ZMachine SpielinformationenComment	Comment
+Glulx SpieldatenComment	Comment
+TADS 3 SpielabbildComment	Comment
+TADS 2 SpielabbildComment	Comment
+Infocom Z-Machine SpieldatenName	Name
+TADS SpielinformationenName	Name
+MinigolfName	SignaturaName
+KolladevGenericName	GenericName
+KollagameGenericName	GenericName
+KOwareGenericName	GenericName
+KPicrossComment	Comment
+KDE-BilderpuzzlespielGenericName	GenericName
+BilderpuzzlespielName	Name
+KPokerGenericName	GenericName
+Poker-KartenspielName	Name
+kqfGenericName	GenericName
+Browser für SpieleserverComment	Comment
+KrossWordPuzzleGenericName	GenericName
+KreuzworträtselDescription	Description
+Standard-Design für KTronName	Description
+KrossWordPuzzleName	Name
+KSimiliComment	Comment
+KSirtetName	Name
+Tetris-SpielComment	Comment
+Spiel beendetComment	Comment
+Spiel beendetName	Name
+Teil haftetDescription	Description
+KSpiralGenericName	GenericName
+GenericBilderpuzzlespielName	Name
+KTic-Tac-ToeName	Name
+Der Rechner gewinntComment	Comment
+GeometrieDescription	Geometriske formyDescription
+NonogramGenericName	GenericName
+PuzzlespielComment	Comment
+ParsekGenericName	GenericName
+Galaktisches StrategiespielComment	Comment
+Peg-EGenericName	GenericName
+Knöpfe entfernenDescription	Description
+Das Standard-Design für Peg-E.Name	default spelling dictionary
+Standard - GrünDescription	Standard -% 1Description
+Standard - LilaDescription	Standard - módryDescription
+Das Standard-Design mit lila Knöpfen.Name	default spelling dictionary
+Standard - RotDescription	Standard -% 1Description
+Das Standardspielfeld von Granatier.Name	Standard -% 1Name
+12x12NAME OF TRANSLATORS	NAME OF TRANSLATORS
+KBackgammon-Einstellungen	Nastajenja za pisma
+%1:	% 1:% 2
+9-Punkte-Spiel	Wotkazuje na:
+Wiederaufnehmen	Pokročować
+& Liste von FreundenR means resume	R means resume
+%1 hat Sie zu einem unbegrenzten Spiel eingeladenIf the format of the (U) and (R) strings is changed, it should also be changed here	If the format of the (U) and (R) strings is changed, it should also be changed here
+Fehler, die Verbindung wurde abgelehnt.	Zmylk při zwjazanju ze serverom.
+Fehler beim Auslesen des Sockets.	Zmylk při čitanju z PTYSocket error code RemotelyDisconnected
+Fehler, die Gegenstelle hat die Verbindung beendet.	dalny serwer je zwisk zakónčił
+Netzwerkfehler	Syćowy nastroj
+Akzeptieren	Přiwzać
+E-Mailabbreviate blind	emailabbreviate blind
+Babbreviate away	abbreviate away
+Wabbreviate ready	abbreviate ready
+& Akzeptieren	& Přiwzać
+BefehlsleisteNAME OF TRANSLATORS	NAME OF TRANSLATORS
+Carsten NiehausEMAIL OF TRANSLATORS	EMAIL OF TRANSLATORS
+Adresse:NAME OF TRANSLATORS	Městno: NAME OF TRANSLATORS
+%1 is the nick, %2 is the message	% 1 is the nick,% 2 is the message
+%1 / %2Spectators not allowed	Spectators not allowed
+%1 represents the error message	% 1 represents the error message
+Die Verbindung zum Server kann nicht hergestellt werden.	Zmylk při zwjazanju ze serverom.
+SchließenNAME OF TRANSLATORS	ZačinićNAME OF TRANSLATORS
+KDE-Pokerspiel	Domjaca strona KDE
+& EinstellungenNAME OF TRANSLATORS	& NastajenjaNAME OF TRANSLATORS
+Matthias Kiefer,Stephan Kulow,Thomas OhmsEMAIL OF TRANSLATORS	EMAIL OF TRANSLATORS
+Kreuz	StołpikiName
+Karo	Rocks n Diamonds
+Pik	Spacij/ Mjezota
+As	Přiwzać
+König	in
+Dame	Prašenje
+Bube	Wróćo
+Zwei	Na:
+Drei	Tishrey
+Vier	Formular
+Fünf	Dataja
+Sechs	Name
+Sieben	Šwedskakeyboard- key- name
+Acht	Naprawo
+Neun	LinkaTuesday
+Zehn[SuitesString] [ValueString]	Wuconcatenation of dates and time
+%1 %2	% 1% 2Name
+Passen	Zapisk
+Einsatz: %1	Wotmołwa:% 1@ action
+Behalten	Pomoc
+KGame debuggen	Kóstkowe hry
+Dieses Spiel speichern?	Chceće woprawdźe '% 1' startować?
+& Ziehen	GenericName
+Sie haben %1 gewonnen!	Špalta čo.% 1
+%1 hat %2 gewonnen	% 1% z% 2
+Computer %1	Wo% 1
+Karte 1 tauschen	@ item font size
+& Sehen!	Sweep
+Konsole	Konsola
+Die Form des zweiten Spielers.NAME OF TRANSLATORS	NAME OF TRANSLATORS
+Joshua KeelNAME OF TRANSLATORS	NAME OF TRANSLATORS
+Burkhard LückEMAIL OF TRANSLATORS	EMAIL OF TRANSLATORS
+Unbekanntes Paket	Njeznaty napohlad
+Vorheriges Spiel	& Předchadna strona
+Nächstes Spiel	Přichodna strona
+Nach oben	Horjekeyboard- key- name
+Nach unten	Delekeyboard- key- name
+Nach links	Nalěwokeyboard- key- name
+Nach rechts	Naprawo
+Lösen	Zawěsćić@ action
+Nächste Farbe	Barba tekstaName
+Hintergrund:	Wo słowo dozady
+Bilder	Name
+Copyright (c) 2008 David EdmundsonNAME OF TRANSLATORS	NAME OF TRANSLATORS
+Phonon-Treiber für DirectShow9Name	Phonon DirectShow9 backendName
+Phonon-Treiber für GStreamerGenericName	Phonon GStreamer backendGenericName
+FakeComment	WudawanyComment
+Treiber für TestzweckeName	Testowanje backendaName
+Phonon-Treiber für Xine	Phonon Xine backend
+Kopien	keyboard- key- name
+Druckbereich	Druck
+Alles drucken	Ćišćeć
+Seiten von	Strona začitana.
+bis	Stop
+Auswahl	Pismo wubrać
+Umgekehrt	Stary staw
+Einstellungen	Opcija
+Farbe	Sćěhować
+Keiner	Hotowo.
+Drucker	Ćišćeć
+Pfad:	akcija1
+Typ:	Hyper
+...	Wubrać...
+Seite	StronuHorje
+Seitengröße:	Strony
+Breite:	keyboard- key- name
+Höhe:	Naprawo
+HochformatQPrintPreviewDialog	Port
+QuerformatQPrintPreviewDialog	EscapeQPrintPreviewDialog
+Umgekehrtes Querformat	Escape
+& Wiederherstellen	& Znowa činić
+& Ausschneiden	Wutřihać
+& Kopieren	& Kopěrować
+& Verknüpfungsadresse kopieren	Městno wotkaza kopěrować
+LöschenQSql	WumazaćQSql
+Alles auswählenQUnicodeControlCharacterMenu	Select AllQUnicodeControlCharacterMenu
+LRM Links-nach-rechts-MarkierungQUnicodeControlCharacterMenu	QUnicodeControlCharacterMenu
+RLM Rechts-nach-links-MarkierungQUnicodeControlCharacterMenu	QUnicodeControlCharacterMenu
+ZWJ Null-Breite-VerbinderQUnicodeControlCharacterMenu	QUnicodeControlCharacterMenu
+ZWNJ Null-Breite-NichtverbinderQUnicodeControlCharacterMenu	QUnicodeControlCharacterMenu
+ZWSP Null-Breite-AbstandQUnicodeControlCharacterMenu	QUnicodeControlCharacterMenu
+PDF Ende der Richtungsformatierung	Dalša informacija:% 1
+Unicode-Steuerzeichen einfügenQFontDatabase	normal severity
+NormalQFontDatabase	Normalny@ item font
+FettItalic context menu item	tučne@ item font
+HalbfettQFontDatabase	tučne
+SchwarzQFontDatabase	WróćoDei short
+HalbQFontDatabase	Deikeyboard- key- name
+LeichtQFontDatabase	Naprawo@ item font
+KursivUnderline context menu item	kursiwne@ action underline selected text
+GeneigtQFontDatabase	nakosneQFontDatabase
+Chinesisch (Kurzzeichen)QFontDatabase	QFontDatabase
+Chinesisch (Langzeichen)QFontDatabase	@ item Text character set
+KoreanischQFontDatabase	KoreanskeQFontDatabase
+VietnamesischQFontDatabase	KCharSelect section name
+RunenQShortcut	rězy
+Rückgängig	Wróćo
+Details anzeigen...	Nadrobnosće
+Details ausblenden ...QMessageBox	Nadrobnosće
+OKQDialogButtonBox	& OK@ action
+HilfeQDialogButtonBox	Pomoc
+Über Qt	Wo% 1
+Wert	Dataja
+< & Zurück	& Wróćo
+Fortsetzen	PokročowaćOpposite to Previous
+& Weiter	PřichodneOpposite to Previous
+& Weiter >	Přichodne
+Bestätigen	Komentar
+Fertig	Hotowo.
+& Fertigstellen	Zakónčić
+AbbrechenQSql	Přetorhnyć
+& Hilfe	& Pomoc
+A1	1
+A2	2
+A3	3
+A4	4
+A5	5
+A6	6
+A7	7
+A8	8
+A9	9
+B1	1
+B2	2
+B3	3
+B4	4
+B5	5
+B6	6
+B7	7
+B8	8
+B9	9
+DLE	KDE
+Executive	Wuwjesć
+Folio	Sćěhować
+Letter	Centrować
+US Common #10 Umschlag	@ item license
+Benutzerdefiniert	Konfigurowane
+EntfernenQPrintPreviewDialog	Wumazać
+Seite einrichten	Strony na łopjeno
+DruckenQShortcut	Ćišćeć
+Was ist das?	Što & to je?
+%1 TB	% 1 TiB
+%1 GB	% 1 GiB
+%1 MB	% 1 MiB
+%1 KB	% 1 KiB
+%1 Byte	% 2 (% 1 bytes)
+Ungültiger Dateiname	njekorektne opcije
+ArtAll other platforms	Pytaćkeyboard- key- name
+Typ	Hyper
+Geändert am	Posledni raz změnjene
+Datei schon vorhanden	Tag% 1 hižo eksistuje
+Auswahl druckenQPrintDialog	Pismo wubrać
+Schriftart auswählen	Pismo wubrać@ action
+& Größe	Wulkosć
+Effekte	@ action
+& Unterstrichen	& Podšmórnjene
+Beispiel	zastajene
+Schriftsystem	keyboard- key- name
+%1%QPrintPreviewDialog	F% 1
+DruckvorschauQPrintPreviewDialog	Ćišćowa přehladka
+Nächste SeiteQPrintPreviewDialog	Přichodna strona
+Vorherige SeiteQPrintPreviewDialog	& Předchadna strona
+Erste SeiteQPrintPreviewDialog	& Prěnja strona
+Letzte SeiteQPrintPreviewDialog	& Poslednja strona@ action
+Ganze SeiteQPrintPreviewDialog	& Prěnja strona@ action
+VergrößernQPrintPreviewDialog	Powjetšić@ action
+VerkleinernQPrintPreviewDialog	Pomjeńšić
+Einzelne Seite anzeigenQPrintPreviewDialog	QPrintPreviewDialog
+Gegenüberliegende Seiten anzeigenQPrintPreviewDialog	QPrintPreviewDialog
+SeiteneinrichtungQPrintPreviewDialog	StronyQPrintPreviewDialog
+Exportieren zu PDFQPrintPreviewDialog	QPrintPreviewDialog
+Aliase: %1	Pseudonymy: unknown program name
+UnbekanntQFileDialog	njeznaju
+Mein Rechner	Compiler:
+%1 Byte(s)	% 2 (% 1 bytes)
+Falsch	DatajaTuesday
+WahrQFileDialog	WuQFileDialog
+LaufwerkQFileDialog	Chowaj% 1
+DateiMatch Windows Explorer	DatajaMatch Windows Explorer
+Aliase: %1All other platforms	Pseudonymy: All other platforms
+Aktivieren	Přichodny tabulator aktiwizować
+AuswählenQShortcut	& Wubrane:
+*QShortcut	keyboard- key- name
+EscQShortcut	Esckeyboard- key- name
+TabQShortcut	Tab
+RücktabQShortcut	Wróćo
+RücktasteQShortcut	Backspacekeyboard- key- name
+EingabeQShortcut	Return
+EingabeQShortcut	Zapodaćkeyboard- key- name
+EinfgQShortcut	Einfgkeyboard- key- name
+EntfQShortcut	Entf
+PauseQShortcut	Pause/ Untbr
+S-AbfQShortcut	SysReqkeyboard- key- name
+EndeQShortcut	Kónckeyboard- key- name
+Pfeil linksQShortcut	Nalěwokeyboard- key- name
+Pfeil hochQShortcut	Horjekeyboard- key- name
+Pfeil rechtsQShortcut	Naprawokeyboard- key- name
+Pfeil runterQShortcut	Delekeyboard- key- name
+Bild aufQShortcut	StronuHorjekeyboard- key- name
+Bild abQShortcut	StronuDele
+FeststelltasteQShortcut	CapsLock
+Zahlen-FeststelltasteQShortcut	NumLock
+Rollen-FeststelltasteQShortcut	ScrollLockkeyboard- key- name
+MenüQDB2Result	Meni
+ZurückQShortcut	Wróćo
+VorwärtsQShortcut	Doprědka
+AktualisierenQShortcut	Wotkaz
+Lautstärke verringernQShortcut	& Dele sunyćQShortcut
+StummschaltenQShortcut	QShortcut
+Lautstärke anhebenQShortcut	QShortcut
+BassverstärkungPhonon::MMF::EffectFactory	DelePhonon:: MMF:: EffectFactory
+Bässe anhebenQShortcut	Zakadny URLkeyboard- key- name
+Bässe vermindernQShortcut	DeleQShortcut
+Höhen anhebenQShortcut	QShortcut
+Höhen vermindernQShortcut	Nadrobnosće
+MedienwiedergabeQShortcut	& Wobraz aktualizowaćQShortcut
+Voriges MediumQShortcut	Předchadny namakać
+Nächstes MediumQShortcut	Dale pytaćQShortcut
+StartseiteQShortcut	Domjaca stronaQShortcut
+FavoritenQShortcut	QShortcut
+BereitschaftQShortcut	Standard
+Adresse aufrufenQShortcut	Wočinić
+E-Mail-Programm startenQShortcut	Startuju% 1QShortcut
+Starten (0)QShortcut	Startuju% 1
+Starten (1)QShortcut	Startuju% 1
+Starten (2)QShortcut	Startuju% 1
+Starten (3)QShortcut	Startuju% 1
+Starten (4)QShortcut	Startuju% 1
+Starten (5)QShortcut	Startuju% 1
+Starten (6)QShortcut	Startuju% 1
+Starten (7)QShortcut	Startuju% 1
+Starten (8)QShortcut	Startuju% 1
+Starten (9)QShortcut	Startuju% 1
+Starten (A)QShortcut	Startuju% 1
+Starten (B)QShortcut	Startuju% 1
+Starten (C)QShortcut	Startuju% 1
+Starten (D)QShortcut	Startuju% 1
+Starten (E)QShortcut	Startuju% 1
+Starten (F)QShortcut	Startuju% 1QShortcut
+Bildschirm hellerQShortcut	QShortcut
+Bildschirm dunklerQShortcut	QShortcut
+Tastatur-LEDs an/ausQShortcut	QShortcut
+Tastatur-LEDs hellerQShortcut	QShortcut
+Tastatur-LEDs dunklerQShortcut	QShortcut
+AktivierungQShortcut	StronuHorje
+AuswerfenQShortcut	WuwjesćQShortcut
+BildschirmschonerQShortcut	QShortcut
+WWWQShortcut	QShortcut
+RuhezustandQFontDatabase	keyboard- key- name
+LeichtQShortcut	Naprawo
+AnhaltenQShortcut	StopQShortcut
+VerlaufQShortcut	QShortcut
+Verknüpfung kopierenQShortcut	Adresu & wotkaza kopěrowaćQShortcut
+Finanzen	Přetorhnyć
+BestätigenQShortcut	KomentarQShortcut
+VorwärtsQShortcut	DoprědkaQShortcut
+QShortcut	toolbar position string
+BuchQShortcut	DelekaQShortcut
+CDQShortcut	QShortcut
+Rechner	@ action
+Löschen	Wuprózdnić
+LöschenQShortcut	Wuprózdnić@ action
+AnzeigenQShortcut	QShortcut
+DOSQShortcut	QShortcut
+DokumenteQShortcut	QShortcut
+TabellenkalkulationQShortcut	QShortcut
+SpielQShortcut	& HraQShortcut
+iTouchQShortcut	QShortcut
+AbmeldenQShortcut	keyboard- key- name
+MarktQShortcut	Meta
+BesprechungQShortcut	Pismo wubraćQShortcut
+TastaturmenüQShortcut	keyboard- key- name
+MenüQShortcut	MeniQShortcut
+Meine SeitenQShortcut	QShortcut
+HeimbüroQShortcut	Domjaca strona
+EinstellungQShortcut	Opcija
+EinfügenNo Guesses Found context menu item	ZasunyćNo Guesses Found context menu item
+TelefonQShortcut	Hotowo.
+AntwortQShortcut	Wužij
+Neu ladenCut context menu item	Znowa začitać
+Adresse	akcija1
+AdresseQShortcut	akcija1@ action
+SpeichernQDialogButtonBox	Zawěsćić
+SendenQShortcut	QShortcut
+RechtschreibprüfungQShortcut	keyboard- key- name
+Bildschirm teilenQShortcut	DruckQShortcut
+UnterstützungQShortcut	QShortcut
+TerminalQShortcut	TamilQShortcut
+WerkzeugeQShortcut	Tuesday
+ReisenQShortcut	Wu
+VideoPhonon::	& Napohlad
+TextverarbeitungQShortcut	QShortcut
+QShortcut	@ action
+VergrößernQShortcut	Powjetšić@ action
+VerkleinernQShortcut	PomjeńšićQShortcut
+AbwesendQShortcut	QShortcut
+MessengerQShortcut	QShortcut
+E-Mail-WeiterleitungQShortcut	Doprědka
+BilderQShortcut	StronyQShortcut
+AkkuQShortcut	CentrowaćQShortcut
+DrahtlosQShortcut	StronyQShortcut
+UntertitelQShortcut	WotpósłaćQShortcut
+Ansicht	& Napohlad
+RuhezustandQShortcut	QShortcut
+Tiefschlaf (Hibernate)QShortcut	keyboard- key- name
+Bildschirm druckenQShortcut	Druck
+Bild aufQShortcut	StronuHorje
+HochstelltasteQShortcut	CapsLock
+Zahlenblock-FeststelltasteQShortcut	NumLock
+Rollen-FeststelltastenQShortcut	ScrollLock
+EinfügenQSql	Zasunyć
+EscQShortcut	Escape
+System-AnforderungQShortcut	Systemowe pismo
+JaQSql	Haj
+NeinQSql	Ně
+Kontext1QShortcut	Žadyn tekst
+Kontext2QShortcut	Žadyn tekst
+Kontext3QShortcut	Žadyn tekst
+Kontext4QShortcut	Žadyn tekst
+AuflegenQShortcut	HanunooQShortcut
+Umdrehen	keyboard- key- name
+Alt	Altkeyboard- key- name
+Meta	Metaaddition
++	+keyboard- key- name
+F%1Translate this string to the string 'LTR' in left-to-right languages or to 'RTL' in right-to-left languages (such as Hebrew and Arabic) to get proper widget layout.	F% 1Translate this string to the string 'LTR' in left- to- right languages or to 'RTL' in right- to- left languages (such as Hebrew and Arabic) to get proper widget layout.
+am	dopołdnja
+Hierher rollenQWebPage	ScrollLockkeyboard- key- name
+Linke KanteQWebPage	Nalěwotoolbar position string
+ObenQWebPage	Horjekakeyboard- key- name
+Rechte KanteQWebPage	Naprawotoolbar position string
+UntenQWebPage	Deleka
+Seite nach linksQWebPage	Strona začitana.
+Seite nach obenQWebPage	StronuHorje
+Seite nach rechtsQWebPage	Strony na łopjeno
+Seite nach untenQWebPage	StronuDele
+Nach links rollenQWebPage	ScrollLock
+Nach oben rollenQWebPage	ScrollLock
+Nach rechts rollenQWebPage	ScrollLock
+Nach unten rollenQWebPage	ScrollLockQWebPage
+Unterfenster schließenQDialogButtonBox	Začinić
+& OKQDialogButtonBox	& OK
+& SpeichernQDialogButtonBox	Zawěsćić@ action
+Nicht speichernQDialogButtonBox	& NjezawěsćićQDialogButtonBox
+VerwerfenQDialogButtonBox	& Zaćisnyć
+& JaQDialogButtonBox	& Haj
+Alles mit Ja beantwortenQDialogButtonBox	& Wšitko wubrać
+& NeinQDialogButtonBox	& Ně
+Alles mit Nein beantwortenQDialogButtonBox	nic dowolić
+Alles speichernQDialogButtonBox	Zawěsćić jako
+Erneut versuchenQDialogButtonBox	Return
+IgnorierenSpelling and Grammar context sub-menu item	ignorować@ action
+Voreinstellungen wiederherstellen	Standardne hódnoty nastajić
+Einstellungen	akcija1
+(Unbenannt)	Bjez titla@ action
+& Alles auswählen	Wšitko wubrać
+Schritt & aufwärts	& Step
+Schritt abwärts	Step Into
+Unteres wiederherstellen	& Dele sunyć
+& Wiederherstellen	@ title: menu Game move
+& Verschieben	& Sunyć
+& Minimieren	Minimalizować
+Maximieren	Minimalizować
+%1 - [%2]	% 1 [% 2]
+Fensterheber & rückgängig	dictionary name.% 1- language and% 2- variant name
+- [%1]	% 1 [% 2]
+Fensterheber rückgängig	Shahrivar short
+Fensterheber	Sha
+Anweisung kann nicht ausgeführt werdenQSQLiteResult	& Zastajić při přichodnym statemenće
+Variable kann nicht gebunden werden	Njemóžu temporarnu dataju wočinić.
+Zeile %1 kann nicht abgeholt werdenQDB2Result	Njemóžach layout stworić.
+Verbindungsaufbau nicht möglich	Komponentu spřistupnić
+Automatische Ausführung kann nicht aktiviert werdenQOCIResult	& Zastajić při přichodnym statemenće
+Stapel-Anweisung kann nicht ausgeführt werdenQOCIResult	& Zastajić při přichodnym statemenće
+Die Allokation der Anweisung ist fehlgeschlagenQOCIResult	Njemóžu temporarnu dataju wočinić.
+Anweisungstyp kann nicht bestimmt werdenQOCIResult	& Zastajić při přichodnym statemenće
+Wert kann nicht gebunden werdenQMYSQLResult	Njemóžu temporarnu dataju wočinić.
+Wert kann nicht initialisiert werden	Njemóžu temporarnu dataju wočinić.
+Anmeldung nicht möglichQOCIDriver	Komponentu spřistupnić
+Datenbank kann nicht verwendet werdenQODBCResult	Njemóžu temporarnu dataju wočinić. QODBCResult
+Abfrage kann nicht erzeugt werdenQPSQLResult	Njemóžach layout stworić. QPSQLResult
+Transaktion kann nicht ausgeführt werden	Njemóžach hódnotu stworić.
+BLOB kann nicht erzeugt werdenQIBaseResult	Njemóžach layout stworić. QIBaseResult
+BLOB kann nicht geöffnet werdenQIBaseResult	Njemóžu temporarnu dataju wočinić. QIBaseResult
+Bereich (Array) kann nicht gefunden werdenQIBaseResult	Njemóžach service '% 1' namakać
+Bereichsdaten können nicht geholt werdenQIBaseResult	Njemóžach temporarnu dataju stworić.
+Abfrageinformation kann nicht eingeholt werdenQIBaseResult	Njemóžach temporarnu dataju stworić.
+Transaktion kann nicht begonnen werdenQIBaseDriver	Njemóžach hódnotu stworić. QIBaseDriver
+Anweisung kann nicht zugewiesen werdenQIBaseResult	Njemóžach temporarnu dataju stworić.
+Anweisung kann nicht vorbereitet werdenQIBaseResult	Njemóžach temporarnu dataju stworić. QIBaseResult
+Anweisung kann nicht beschrieben werdenQIBaseResult	Njemóžach temporarnu dataju stworić.
+Anweisung kann nicht geschlossen werdenQIBaseResult	Njemóžu temporarnu dataju wočinić. QIBaseResult
+Nächstes Element kann nicht geholt werdenQIBaseResult	Njemóžach pomocny centrum startować
+Informationen zur Anweisung können nicht geholt werden.QIBaseDriver	Njemóžach temporarnu dataju stworić. QIBaseDriver
+Fehler beim Öffnen der DatenbankQSQLiteResult	Zmylk při wuběranju GSM- dataje: QSQLiteResult
+Anweisung kann nicht zurückgesetzt werdenQSQLiteResult	& Zastajić při přichodnym statemenće
+Datenbank kann nicht geöffnet werden: '	Njemóžu temporarnu dataju wočinić.
+Parameter können nicht gebunden werdenQSQLiteResult	Parametry miniprogramaQSQLiteResult
+Kein Fehler festgestelltQRegExp	žadyn zmylkQRegExp
+Unerwartetes DateiendeQXml	QXml
+Beim Lesen des Elements ist ein Fehler aufgetretenQXml	Zmylk je so stał při čitanju% 1: QXml
+Beim Lesen des Inhalts ist ein Fehler aufgetretenQXml	Zmylk je so stał při čitanju% 1:
+Unerwartetes ZeichenQXml	Přichodny pismikQXml
+Beim Lesen des Kommentars ist ein Fehler aufgetretenQXml	Zmylk je so stał při čitanju% 1:
+Beim Einlesen der Verknüpfung ist ein Fehler aufgetretenQXml	Zmylk je so stał při čitanju% 1: QXml
+Rekursive EntitätenQXml	QXml
+Eingabe-Umleitung kann nicht zum Lesen geöffnet werden.	Njemóžach dataju '% 1' wočinić.
+Der Prozess lässt sich nicht starten.	Socket error code Timeout
+Die Wartezeit für Prozess-Operation ist abgelaufen.	operacijan z časowym wobmjezowanjom předołho traje
+Fehler beim Lesen vom Prozess.	Zmylk při čitanju z PTY
+Fehler beim Schreiben zum Prozess.	Zmylk při pisanju do PTY
+%1 kann nicht als Eingabe geöffnet werden.	Njemóžu dataju% 1 čitać
+Ungültiger Wert in Entität.	Njewalidn certifikat!
+Ungültes XML-Zeichen.	Njewalidn certifikat!
+Nicht unterstützte XML-Version.	Njepodpěrana tasta
+%1 ist kein gültiger Name für die Kodierung.	'% 1' njeje walidny QWidget. Socket error code NotSupported
+Kodierung %1 wird nicht unterstützt.	operacija so njepodpěruje
+Vorzeitiges Dokumentende	Začiń aktualne wokno abo dokument
+Ungültiges Dokument	Njekorektny serwer
+Erwartet	Wuwjesć
+Unerwartet: '	Njewočakowany argument '% 1'.
+Deaktivierte Funktion verwendetQRegExp	QRegExp
+Ungültiger OktalwertQRegExp	njekorektne opcijeQRegExp
+Fehlender linker BegrenzerQRegExp	dictionary variant
+Unerwartetes EndeQRegExp	rošěrjeneQRegExp
+Ungültiger Oktalwert	njekorektne opcijeQRegExp
+Ungültes XML-Zeichen.QIODevice	Njewalidn certifikat! QIODevice
+Zugriff verweigertQNativeSocketEngine	Njeje dowolene. Socket error code ConnectionTimedOut
+Zu viele offene DateienQIODevice	Njemóžach dataju '% 1' wočinić.
+Datei oder Ordner nicht gefundenQIODevice	Žadyn tajki interpreter:% 1QIODevice
+%1: bereits vorhandenQSystemSemaphore	Tag% 1 hižo eksistuje
+%1: nicht vorhanden	Dataja% 1 njeeksistuje
+%1: ungültige Größe	njekorektne opcije
+%1: Zugriff verweigertQSystemSemaphore	QSystemSemaphore
+%1: unbekannter Fehler %2	njeznaty zmylk
+%1: Schlüssel-Fehler	Družinowy zmylk
+%1: nicht vorhandenQSystemSemaphore	Dataja% 1 njeeksistujeQSystemSemaphore
+%1: nicht vorhanden	Dataja% 1 njeeksistujeQSystemSemaphore
+%1: ftok fehlgeschlagen	% 1 dataja
+%1: UNIX-Schlüssel-Datei ist nicht vorhanden	Dataja% 1 njeeksistuje
+mmap für„ %1“ nicht möglich: %2	Njemóžach dataju '% 1' wočinić:% 2
+unmap für„ %1“ nicht möglich: %2	Njemóžach dataju '% 1' wočinić:% 2
+Die Bibliothek kann nicht gefunden werden.	Biblioteka '% 1' njeposkića funkciju '% 2'.
+Die Datei„ %1“ ist kein gültiges Qt-Modul.	'% 1' njeje walidny QLayout.
+Das Modul„ %1“ verwendet eine inkompatible Qt-Bibliothek. (%2.%3.%4) [%5]	Plugin '% 1' wužiwa njekompatibelnu KDE- biblioteku (% 2).
+Das Modul„ %1“ verwendet eine inkompatible Qt-Bibliothek. Erwartete Erstellungs-Kennung :„ %2“, erhaltene Kennung :„ %3“	Plugin '% 1' wužiwa njekompatibelnu KDE- biblioteku (% 2).
+Das Modul„ %1“ verwendet eine inkompatible Qt-Bibliothek. (Gemischte Bibliotheken für Debug und Veröffentlichung sind nicht möglich.)	Plugin '% 1' wužiwa njekompatibelnu KDE- biblioteku (% 2).
+Das Modul wurde nicht geladen.	Nowy zapis njehodźeše so dodać.
+Fehler beim Öffnen von %1: %2	Zmylk při wočinjenju PTY
+Fehler beim Öffnen von %1: %2	Zmylk při wočinjenju PTY Socket error code ConnectionTimedOut
+%1 ist ungültig als Wert vom Typ %2.	'% 1' njeje walidny QLayout.
+Typumwandlung des Wertes %1 von Typ %2 nach %3 nicht möglich	Njemóžach% 1 hódnotow z typa% 2 konwertěrować (% 3)
+Fehler bei der Typumwandlung von %1 nach %2: %3	Njemóžach% 1 hódnotow z typa% 2 konwertěrować (% 3)
+Der Fokus ist undefiniert.	Modul% 1 je blokowany.
+Eins oder mehr	Pismo za menije
+Das Encoding %1 wird nicht unterstützt.	'% 1' njeje walidny QWidget.
+Suchmuster sind unabhängig von Groß-/Kleinschreibung	Wulko - a & małopisanje wobkedźbować
+%1 ist ein ungültiger regulärer Ausdruck als Suchmuster: %2	Njekorektny prawidłowny wuraz
+%1 ist ein ungültiger Schalter für reguläre Ausdrücke. Gültige Schalter sind:	@ item: intext days and hours. This uses the previous item: intext messages. If this does not fit the grammar of your language please contact the i18n team to solve the problem
+%1 ist ein ungültiger %2	% 1 a% 2
+%1 ist kein gülties XML-1.0-Zeichen.	'% 1' njeje walidny QLayout.
+Die Variable %1 wird nicht verwendet	Wudawany user- agent '% 1' so wužiwa.
+%1 ist ein unbekannter Schema-Typ.	% 1 - njeznata družina
+%1 ist kein gültiges Zahlwort.	'% 1' njeje walidny QLayout.
+Der Ziel-Namensraum von %1 darf nicht leer sein.	Socket error code NotSupported
+Modul-Import wird nicht unterstützt.	operacija so njepodpěruje
+%1 ist kein gültiger Name für einen Vorlagenmodus.	'% 1' njeje walidny QWidget.
+Der Name %1 referenziert keinen Schema-Typ.	Biblioteka '% 1' njeposkića funkciju '% 2'.
+%1 ist kein gültiger Name für eine Prozessing-Instruktion.	'% 1' njeje walidny QLayout.
+%1 ist kein gültiger Name für die Kodierung.	'% 1' njeje walidny QWidget.
+%1 enthält ungültige Daten.	% 1 a% 2
+%1: bereits vorhanden	Tag% 1 hižo eksistuje
+AktualisierenQSql	Aktualizowanje
+Diesen Eintrag löschen?QSql	Wšě zničić
+Änderungen speichern?QSql	Daty zawěsćić
+BestätigenQSql	WobkrućićQSql
+Änderungen verwerfen?	@ action
+Voreinstellungen	& Standardy
+Mehrdeutige %1 nicht verarbeitet	Dwuzmyslna kombinacija namakana
+Zeile aufwärts	Linka
+Benutzerdefiniert...	& Konfigurowane
+Mehr...	Wubrać...
+Fehler beim Laden des privaten Schlüssels, %1	Zmylk při začitanju '% 1'.
+Lesefehler: %1	Zmylk při začitanju% 1
+Fehler bei der SSL-Aushandlung: %1QNativeSocketEngine	Zmylk při přemjenowanju.
+Netzwerkfehler	Nowe
+%1 kann nicht geöffnet werden: Es handelt sich um einen Ordner.	Njemóžu dataju% 1 čitać
+Fehler beim Herunterladen von %1: %2	Zmylk při začitanju% 1
+Fehler beim Hochladen von %1: %2	Zmylk při začitanju% 1Socket error code NotSupported
+Operation nicht unterstützt für %1	operacija so njepodpěruje
+Ungültige URI: %1QNetworkReply	Njekorektny CA
+Protokoll„ %1“ ist unbekannt	Protokol:% 1
+Operation abgebrochen.QNetworkAccessFileBackend	OpcionalnjeQNetworkAccessFileBackend
+%1 kann nicht geöffnet werden: Pfad ist ein OrdnerQNetworkAccessFileBackend	Njemóžu dataju% 1 čitać
+Fehler beim Schreiben in %1: %2QNetworkAccessFileBackend	Zmylk při pisanju do PTY
+Socketfehler auf %1: %2	Socket error code RemotelyDisconnected
+Die entfernte Gegenstelle hat die Verbindung vorzeitig beendet (%1)QNetworkAccessCacheBackend	dalny serwer je zwisk zakónčił
+Fehler beim Öffnen von %1QNetworkReply	Zmylk při wočinjenju PTY QNetworkReply
+Fehler beim Lesen von %1: %2	Zmylk při čitanju z PTYSocket error code Timeout
+Unbekannter Adresstyp	Socket error code NotBound
+Rechner nicht gefundenQAbstractSocket	socket njeje wjazany
+Dieses System unterstützt kein IPv6	Socket error code ConnectionRefused
+Verbindung zum Proxy abgelehnt	zwisk je so aktiwnje wotpokazał
+Verbindung zum Proxy vorzeitig beendet	Socket error code NotBound
+Proxy-Rechner nicht gefunden	socket njeje wjazanySocket error code ConnectionTimedOut
+Wartezeit für Verbindung zum Proxy abgelaufen	sym předołho na zwisk čakał
+Netzwerk nicht erreichbarQNativeSocketEngine	Socket error code ConnectionRefused
+Verbindung abgelehntQNativeSocketEngine	zwisk je so aktiwnje wotpokazał
+Adresstyp wird nicht unterstützt	pominana družina socketa so njepodpěruje
+Unbekannter SOCKSv5-Fehlercode 0x%1QSocks5SocketEngine	Socket error code Timeout
+Wartezeit für Netzwerkoperation abgelaufenQNativeSocketEngine	operacijan z časowym wobmjezowanjom předołho trajeQNativeSocketEngine
+Diese Socket-Operation wird nicht unterstütztQNativeSocketEngine	operacija so njepodpěruje
+Nicht-blockierender Socket kann nicht initialisiert werdenQNativeSocketEngine	Njemóžu temporarnu dataju wočinić.
+Broadcast-Socket kann nicht initialisiert werdenQNativeSocketEngine	Njemóžu temporarnu dataju wočinić.
+Es wurde versucht, einen IPv6-Socket auf einem System ohne IPv6-Unterstützung zu verwenden.QNativeSocketEngine	Socket error code RemotelyDisconnected
+Die Gegenstelle hat die Verbindung beendetQSocks5SocketEngine	dalny serwer je zwisk zakónčiłSocket error code Timeout
+Socket-Operation wird nicht unterstütztQNativeSocketEngine	Njepodpěrana tasta
+Protokolltyp wird nicht unterstütztQNativeSocketEngine	pominana družina socketa so njepodpěruje
+Ungültige Socket-BeschreibungQNativeSocketEngine	Njekorektny zaměr
+Wartezeit für Verbindung abgelaufenQNativeSocketEngine	sym předołho na zwisk čakałSocket error code ConnectionRefused
+Die gebundene Adresse wird bereits verwendetQNativeSocketEngine	adresa so hižo wužiwa
+Die Adresse ist nicht verfügbarQNativeSocketEngine	Žadyn wotpowědowacy element.
+Die Adresse ist geschütztQNativeSocketEngine	Žadyn wotpowědowacy element.
+Es kann keine Nachricht versendet werdenQNativeSocketEngine	Njemóžu temporarnu dataju wočinić.
+Es kann keine Nachricht empfangen werdenQNativeSocketEngine	& Zastajić při přichodnym statemenće
+Schreiben nicht möglichQNativeSocketEngine	Njemóžu temporarnu dataju wočinić.
+NetzwerkfehlerQNativeSocketEngine	Nowe
+Ein anderer Socket belegt bereits den gleichen PortQNativeSocketEngine	Socket error code WouldBlock
+Operation auf einem Nicht-SocketQNativeSocketEngine	operacija by blokowała
+Der Proxytyp ist für diese Operation ungültig	Socket error code Timeout
+Wartezeit für Socket-Operation ist abgelaufen	operacijan z časowym wobmjezowanjom předołho trajeSocket error code NotBound
+Socket ist nicht verbunden	socket njeje wjazany
+Zeile:	Linka
+Interrupt	Zasunyćkeyboard- key- name
+Umschalt+F5	Wulkopisanje
+F11	F% 1
+Überspringen	keyboard- key- name
+F10	F% 1
+Funktion verlassen	& Stepkeyboard- key- name
+Umschalt+F11	Wulkopisanje
+Ab Cursorposition	keyboard- key- name
+Strg+F10	Strg
+In Skript & suchen...	keyboard- key- name
+Strg+F	StrgOpposite to Previous
+& Weitersuchen	Přichodne
+Frühere suchen	Předchadny namakaćkeyboard- key- name
+Umschalt+F3	Wulkopisanjekeyboard- key- name
+Strg+G	Strg
+Weiter	Přichodne
+Bedingung	Komunikaciski zmylk
+Anzahl ignorierte	ignorowaćQScriptBreakpointsModel
+Single-Shot	QScriptBreakpointsModel
+Aufrufstapel	Wróćo
+Lokale Variablen	@ action
+Konsole	Začinić
+Qt Skript-Debugger	KCharselect unicode block name
+Ebene	Bengali
+Fehler beim Öffnen von %1QNetworkAccessCacheBackend	Zmylk při wočinjenju PTY
+Fehler beim Öffnen von %1	Zmylk při wočinjenju PTY
+DebuggerausgabePhonon::MMF	Phonon:: MMF
+Protokolltyp wird nicht unterstützt	pominana družina socketa so njepodpěruje
+Phonon::MMF::EffectFactory	Phonon:: MMF:: EffectFactory
+QShortcut	keyboard- key- name
+Weniger	TestyPhonon:: MMF:: EffectFactory
+AusrichtungPhonon::MMF::EffectFactory	Phonon:: MMF:: EffectFactory
+Rechner nicht gefundenQNativeSocketEngine	socket njeje wjazany
+Underline context menu item	@ action underline selected text
+Unterstrichen	& Podšmórnjene
+%1: bereits vorhanden	Tag% 1 hižo eksistujeSocket error code NotBound
+Rechner nicht gefunden	socket njeje wjazany
+Zugriff verweigertQIBaseResult	Njeje dowolene.
+Nächstes Element kann nicht geholt werden	Njemóžach hódnotu stworić. Socket error code NotBound
+Ungültige URI: %1	Njekorektny CA
+Die Medienquelle kann nicht geöffnet werden.	Njemóžach dataju '% 1' wočinić.
+Ungültiger Quellentyp.	Njekorektny zaměr
+Die Medienquelle kann nicht gefunden werden.	Njemóžach temporarnu dataju stworić.
+Lautstärke: %1%	Přispomnjenje:% 1
+BenachrichtigungenPhonon::	Konfiguracija zdźělenkow... Phonon::
+KommunikationPhonon::	Komunikaciski zmylk
+SpielePhonon::	& HraPhonon::
+Dies ist ein durchsuchbarer Index. Geben Sie Stichwörter ein: title for file button used in HTML forms	W tutym indeksu móžeće pytać. zapodajće klučowe słowa:
+Keine Datei ausgewähltOpen in New Window context menu item	Žadyn provider njewubrany
+In neuem Fenster Ã¶ffnenDownload Linked File context menu item	W & nowym woknje wočinić
+Verknüpfung speichern unter ...Copy Link context menu item	Wotkaz zawěsćić jako...
+Verknüpfung kopierenOpen Image in New Window context menu item	Adresu & wotkaza kopěrować
+Bild öffnenDownload Image context menu item	Wobraz kopěrować
+Bild speichernCopy Link context menu item	Wobraz zawěsćić jako
+Rahmen Ã¶ffnenCopy context menu item	Dataju wočinić
+Zum Wörterbuch hinzufügenSearch The Web context menu item	k słownikej dodaćSearch The Web context menu item
+In Wörterbuch nachschlagenOpen Link context menu item	< < K słownikej dodać
+Verknüpfungsadresse Ã¶ffnenIgnore Grammar context menu item	Dataju wočinić
+Rechtschreibungmenu item title	Pismikowanjemenu item title
+Rechtschreibung und Grammatik anzeigenmenu item title	menu item title
+Grammatik und Rechtschreibung prÃ¼fenFont context sub-menu item	Přepruwuj prawopis@ option: check
+SchriftartenBold context menu item	PIsmo@ item font
+UnterstrichenOutline context menu item	& Podšmórnjene
+TextrichtungDefault writing direction context menu item	WopisanjeEncodings menu
+VoreinstellungLeft to Right context menu item	StandardLeft to Right context menu item
+Kürzliche Suchenmenu item in Recent Searches menu that empties menu's contents	Pytanje w internećemenu item in Recent Searches menu that empties menu' s contents
+%1 (%2x%3 Pixel)Media controller status message when the media is loading	% 1 (% 2x% 3) dypkowMedia controller status message when the media is loading
+Audio-ElementMedia controller element	Media controller element
+Video-ElementMedia controller element	Media controller element
+Schieberegler-AnfasserMedia controller element	WulkosćMedia controller element
+Verstrichene ZeitMedia controller element	Media controller element
+RestzeitQShortcut	Media controller element
+AnzeigenMedia controller element	Media controller element
+Wiedergabe startenMedia controller element	Media controller element
+Wiedergabe anhaltenMedia controller element	Media controller element
+EntfernenMedia controller element	WumazaćMedia controller element
+%1 Stunden %2 Minuten %3 SekundenMedia time description	Media time description
+%1 Minuten %2 SekundenMedia time description	Media time description
+Cursor an das Ende des Dokuments setzen	Začiń aktualne wokno abo dokument
+Alles auswählen	Select All
+Bis zum nächsten Zeichen auswählen	Přichodny pismik
+Bis zum Ende des Dokuments auswählen	Začiń aktualne wokno abo dokument
+Absenden	Wotpósłać
+Pfeil rechts	Naprawo
+Parse-Fehler: %1QWebPage	Družinowy zmylkQWebPage
+System	SysReq
+Nach unten wiederherstellen	Pominane pismo
+Schließt das Fenster	Wokno začinić?
+Häkchen setzen	CheckBox
+Drücken	StronyMordad short
+Mehr	Mor
+Position	Pozicija teksta
+Zeile abwÃ¤rts	Linka
+Drehregler	Wotpokazać
+Links rollen	ScrollLock
+Rechts rollen	Dock this window
+Andocken	Přibić@ option: check
+Schwebend	PIsmo
+Ausführen	Wuwjesć@ action
+Eingabemethode auswählen	Wšitko wubrać
+Lautstärke: %1%	Wótrosć:% 1%
+Verwenden Sie den Schieberegler zum Einstellen der Lautstärke. Die äußerste linke Position entspricht 0%, die rechte Position entspricht %1%.	Wužiwajće tutón suwak za připrawjenje wótrosće. Cyle nalěwo je 0%, cyle naprawo% 1%
+Stummgeschaltet	Němy
+Zurückschalten auf Gerät„ %1“ Phonon::	Wróćo ke gratej '% 1' Phonon::
+BenachrichtigungenPhonon::	ZdźělenkiPhonon::
+MusikPhonon::	HudźbaPhonon::
+VideoPhonon::	WidejoPhonon::
+KommunikationPhonon::	KomunikacijaPhonon::
+SpielePhonon::	HryPhonon::
+ZugangshilfenNAME OF TRANSLATORS	Přistupnosć
+Die Wiedergabe kann nicht gestartet werden. Prüfen Sie bitte die Installation von GStreamer und stellen Sie sicher, dass das Modul libgstreamer-plugins-base installiert ist.	Njemóžu wohrawać. Přepruwujće, hač je Gstreamer a libgstreamer- plugins- base instalowane.
+Medienquelle kann nicht geöffnet werden.	Njemóžu žórło za medium wočinić.
+Ungültiger Quellentyp.	Njewalidny typ žórła.
+Medienquelle kann nicht gefunden werden.	Njemóžu žórło za medium namakać.
+Das Audio-Gerät kann nicht geöffnet werden. Das Gerät wird bereits anderweitig verwendet.	Njemóžach zwukowy grat wočinić. Grat so hižo wužiwa.
+Medienquelle kann nicht dekodiert werden.	Njemóžach žórło mediuma dekodować.
+Hinweis: Das Paket gstreamer0.10-plugins-good scheint nicht installiert zu sein. Einige Video-Funktionen wurden daher deaktiviert.	Kedźbu: Pakćik gstreamer0. 10- plugins- goodnjeje instalowany. Někotre widejo- opcije njesteja k dispoziciji.
+Hinweis: Die grundlegenden GStreamer-Module scheinen nicht installiert zu sein. Alle Audio- und Video-Funktionen wurden daher deaktiviert.	Kedźbu: Bazowy pakćik pluginow za GStreamer nejeje instalowany. Podpěra za zwuk a widejo njesteji k dispoziciji.
+Phonon Xine-Treiber	Phonon Xine Backend
+ALSA-Standard-AusgabeThis string is only shown when the KDE runtime is broken. The technical term 'Platform Plugin' might help users to find a solution, so it might make sense to leave that term untranslated.	This string is only shown when the KDE runtime is broken. The technical term 'Platform Plugin' might help users to find a solution, so it might make sense to leave that term untranslated.
+OSS-Standard-AusgabeThis string is only shown when the KDE runtime is broken. The technical term 'Platform Plugin' might help users to find a solution, so it might make sense to leave that term untranslated.	This string is only shown when the KDE runtime is broken. The technical term 'Platform Plugin' might help users to find a solution, so it might make sense to leave that term untranslated.
+Die Wiedergabe ist fehlgeschlagen, weil keine verwendbaren Video- oder Audio-Ausgabegeräte verfügbar sind.	Wothrawanje njefunguje, dokelž njesteji ničo za output k dispoziciji

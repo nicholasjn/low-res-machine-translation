@@ -1,0 +1,13 @@
+Original vs cleaned test-set comparison
+Original test pairs: 2000
+Cleaned test pairs: 2000
+Exact common pairs: 1563
+Pairs only in original test: 437
+Pairs only in cleaned test: 437
+Percentage overlap: 78.15% of original test pairs
+
+Caveat: the cleaned data may have been re-split after cleaning, so pairs only in
+the original test set were not necessarily removed by cleaning; some may simply
+have moved out of the cleaned test split.
+
+Outputs written to: D:\Desktop\26ss\NLP\outputs\testset_diff
