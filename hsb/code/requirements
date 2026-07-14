@@ -1,0 +1,10 @@
+torch
+transformers
+sentencepiece
+sacrebleu
+datasets
+accelerate
+peft
+bitsandbytes
+fasttext
+huggingface_hub
